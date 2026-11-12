@@ -499,3 +499,19 @@ body:-ms-fullscreen {
 body:fullscreen {
   overflow: hidden;
 }
+
+/* Meaning display formatting for multi-line and Sino-Vietnamese text */
+#feedback,
+#hint {
+  white-space: pre-line;
+  line-height: 1.6;
+  font-size: 16px;
+  max-width: 600px;
+  margin: 12px auto;
+}
+
+#unanswered-table td {
+  white-space: pre-line;
+  line-height: 1.5;
+}
+

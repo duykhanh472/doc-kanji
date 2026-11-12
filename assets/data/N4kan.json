@@ -1,0 +1,4338 @@
+[
+  {
+    "kanji": "踏む",
+    "readings": [
+      "ふむ",
+      "fumu"
+    ],
+    "meaning": "1. Dẫm, đạp lên\n2. Trải qua, kinh qua (kinh nghiệm)\n3. Ước tính, dự tính"
+  },
+  {
+    "kanji": "～区",
+    "readings": [
+      "く",
+      "ku"
+    ],
+    "meaning": "KHU\nKhu, quận, khu vực"
+  },
+  {
+    "kanji": "盗む",
+    "readings": [
+      "ぬすむ",
+      "nusumu"
+    ],
+    "meaning": "1. Ăn trộm, ăn cắp\n2. Đánh cắp (thời gian, cơ hội)\n3. Đạo (văn, ý tưởng)"
+  },
+  {
+    "kanji": "大抵",
+    "readings": [
+      "たいてい",
+      "taitei"
+    ],
+    "meaning": "ĐẠI ĐỂ\n1. Đại để, nói chung\n2. Hầu hết, phần lớn"
+  },
+  {
+    "kanji": "鳴る",
+    "readings": [
+      "なる",
+      "naru"
+    ],
+    "meaning": "1. Kêu, reo, hót (chuông, điện thoại, chim)\n2. Nổi tiếng, vang danh"
+  },
+  {
+    "kanji": "生きる",
+    "readings": [
+      "いきる",
+      "ikiru"
+    ],
+    "meaning": "1. Sống, tồn tại\n2. Sinh sống, kiếm sống\n3. Phát huy hiệu quả (công dụng, tài năng)"
+  },
+  {
+    "kanji": "苦い",
+    "readings": [
+      "にがい",
+      "nigai"
+    ],
+    "meaning": "1. Đắng (vị)\n2. Đắng cay, khó chịu (cảm giác)"
+  },
+  {
+    "kanji": "沸く",
+    "readings": [
+      "わく",
+      "waku"
+    ],
+    "meaning": "1. Sôi (nước)\n2. Náo nhiệt, sôi động (đám đông)"
+  },
+  {
+    "kanji": "意見",
+    "readings": [
+      "いけん",
+      "iken"
+    ],
+    "meaning": "Ý KIẾN\nÝ kiến, quan điểm"
+  },
+  {
+    "kanji": "漫画",
+    "readings": [
+      "まんが",
+      "manga"
+    ],
+    "meaning": "MẠN HỌA\n1. Truyện tranh\n2. Tranh biếm họa"
+  },
+  {
+    "kanji": "医学",
+    "readings": [
+      "いがく",
+      "igaku"
+    ],
+    "meaning": "Y HỌC\nY học"
+  },
+  {
+    "kanji": "～月",
+    "readings": [
+      "～つき",
+      "～tsuki"
+    ],
+    "meaning": "NGUYỆT\n1. Mặt trăng\n2. Tháng"
+  },
+  {
+    "kanji": "折る",
+    "readings": [
+      "おる",
+      "oru"
+    ],
+    "meaning": "1. Bẻ gãy, làm gãy\n2. Gấp lại, xếp lại (giấy, vải)\n3. Hái (hoa)\n4. Uốn cong"
+  },
+  {
+    "kanji": "～会",
+    "readings": [
+      "～かい",
+      "～kai"
+    ],
+    "meaning": "HỘI\nTập hợp các tín đồ Phật giáo, hội nhóm"
+  },
+  {
+    "kanji": "聞こえる",
+    "readings": [
+      "きこえる",
+      "kikoeru"
+    ],
+    "meaning": "1. Nghe thấy (âm thanh tự nhiên lọt vào tai)\n2. Nghe có vẻ như là"
+  },
+  {
+    "kanji": "僕",
+    "readings": [
+      "ぼく",
+      "boku"
+    ],
+    "meaning": "PHÓ\nTôi (đại từ nhân xưng ngôi thứ nhất, thường dùng bởi nam giới)"
+  },
+  {
+    "kanji": "必ず",
+    "readings": [
+      "かならず",
+      "kanarazu"
+    ],
+    "meaning": "Nhất định, chắc chắn"
+  },
+  {
+    "kanji": "壊す",
+    "readings": [
+      "こわす",
+      "kowasu"
+    ],
+    "meaning": "1. Phá hủy, làm hỏng\n2. Làm vỡ\n3. Làm tổn hại (sức khỏe)"
+  },
+  {
+    "kanji": "怒る",
+    "readings": [
+      "おこる",
+      "okoru"
+    ],
+    "meaning": "1. Giận dữ, nổi giận\n2. Quở trách, mắng mỏ"
+  },
+  {
+    "kanji": "床屋",
+    "readings": [
+      "とこや",
+      "tokoya"
+    ],
+    "meaning": "SÀNG ỐC\nTiệm cắt tóc"
+  },
+  {
+    "kanji": "運動",
+    "readings": [
+      "うんどう",
+      "undou"
+    ],
+    "meaning": "VẬN ĐỘNG\n1. Vận động, tập thể dục\n2. Phong trào, cuộc vận động"
+  },
+  {
+    "kanji": "止む",
+    "readings": [
+      "やむ",
+      "yamu"
+    ],
+    "meaning": "1. Ngừng, tạnh (mưa, gió)\n2. Chấm dứt, thôi"
+  },
+  {
+    "kanji": "表",
+    "readings": [
+      "おもて",
+      "omote"
+    ],
+    "meaning": "BIỂU\n1. Bề mặt, mặt ngoài\n2. Mặt phải (của vải)\n3. Bảng, biểu đồ\n4. Cửa trước, phía trước nhà"
+  },
+  {
+    "kanji": "大学生",
+    "readings": [
+      "だいがくせい",
+      "daigakusei"
+    ],
+    "meaning": "ĐẠI HỌC SANH\nSinh viên đại học"
+  },
+  {
+    "kanji": "運転手",
+    "readings": [
+      "うんてんしゅ",
+      "untenshu"
+    ],
+    "meaning": "VẬN CHUYỂN THỦ\nTài xế, người lái xe"
+  },
+  {
+    "kanji": "予習",
+    "readings": [
+      "よしゅう",
+      "yoshuu"
+    ],
+    "meaning": "DƯ TẬP\nSự soạn bài trước (khi đến lớp)"
+  },
+  {
+    "kanji": "心配",
+    "readings": [
+      "しんぱい",
+      "shinpai"
+    ],
+    "meaning": "TÂM PHỐI\nSự lo âu, lo lắng"
+  },
+  {
+    "kanji": "別",
+    "readings": [
+      "べつ",
+      "betsu"
+    ],
+    "meaning": "BIỆT\n1. Khác, ngoài ra\n2. Phân biệt, riêng biệt\n3. Đặc biệt"
+  },
+  {
+    "kanji": "非常に",
+    "readings": [
+      "ひじょうに",
+      "hijouni"
+    ],
+    "meaning": "1. Rất, cực kỳ\n2. Một cách khẩn cấp"
+  },
+  {
+    "kanji": "お宅",
+    "readings": [
+      "おたく",
+      "otaku"
+    ],
+    "meaning": "1. Nhà (của người khác)\n2. Ông/bà/ngài (cách gọi lịch sự)"
+  },
+  {
+    "kanji": "柔らかい",
+    "readings": [
+      "やわらかい",
+      "yawarakai"
+    ],
+    "meaning": "1. Mềm, êm ái\n2. Dịu dàng, nhẹ nhàng (thái độ, giọng nói)\n3. Linh hoạt, không cứng nhắc (tư duy)"
+  },
+  {
+    "kanji": "拾う",
+    "readings": [
+      "ひろう",
+      "hirou"
+    ],
+    "meaning": "1. Nhặt, lượm\n2. Tìm thấy, bắt gặp\n3. Đón (khách)"
+  },
+  {
+    "kanji": "気",
+    "readings": [
+      "き",
+      "ki"
+    ],
+    "meaning": "KHÍ\n1. Khí, không khí, hơi\n2. Tinh thần, tâm trạng, cảm giác\n3. Ý chí, ý đồ, sự quan tâm\n4. Tính cách, khí chất"
+  },
+  {
+    "kanji": "比べる",
+    "readings": [
+      "くらべる",
+      "kuraberu"
+    ],
+    "meaning": "1. So sánh\n2. Thi đấu, đọ sức"
+  },
+  {
+    "kanji": "郊外",
+    "readings": [
+      "こうがい",
+      "kougai"
+    ],
+    "meaning": "GIAO NGOẠI\nNgoại ô, ngoại thành"
+  },
+  {
+    "kanji": "売り場",
+    "readings": [
+      "うりば",
+      "uriba"
+    ],
+    "meaning": "Quầy bán hàng, khu vực bán hàng"
+  },
+  {
+    "kanji": "正月",
+    "readings": [
+      "しょうがつ",
+      "shougatsu"
+    ],
+    "meaning": "CHÁNH NGUYỆT\n1. Tháng Giêng\n2. Năm mới (Tết)"
+  },
+  {
+    "kanji": "規則",
+    "readings": [
+      "きそく",
+      "kisoku"
+    ],
+    "meaning": "QUY TẮC\n1. Quy tắc, quy định\n2. Nội quy, kỷ luật"
+  },
+  {
+    "kanji": "発音",
+    "readings": [
+      "はつおん",
+      "hatsuon"
+    ],
+    "meaning": "PHÁT ÂM\nSự phát âm"
+  },
+  {
+    "kanji": "焼く",
+    "readings": [
+      "やく",
+      "yaku"
+    ],
+    "meaning": "1. Nướng, rán, quay\n2. Đốt, thiêu\n3. Nung (gốm, gạch)\n4. Chụp (ảnh)\n5. Ghen tị"
+  },
+  {
+    "kanji": "屋上",
+    "readings": [
+      "おくじょう",
+      "okujou"
+    ],
+    "meaning": "ỐC THƯỢNG\n1. Mái nhà\n2. Sân thượng"
+  },
+  {
+    "kanji": "失礼",
+    "readings": [
+      "しつれい",
+      "shitsurei"
+    ],
+    "meaning": "THẤT LỄ\n1. Vô lễ, bất lịch sự\n2. Xin lỗi, thất lễ (dùng khi làm phiền hoặc rời đi)"
+  },
+  {
+    "kanji": "点",
+    "readings": [
+      "てん",
+      "ten"
+    ],
+    "meaning": "ĐIỂM\n1. Điểm (chấm)\n2. Điểm số\n3. Khía cạnh, phương diện"
+  },
+  {
+    "kanji": "一生懸命",
+    "readings": [
+      "いっしょうけんめい",
+      "isshoukenmei"
+    ],
+    "meaning": "NHẤT SANH HUYỀN MỆNH\nHết sức mình, chăm chỉ, cố gắng hết sức"
+  },
+  {
+    "kanji": "今度",
+    "readings": [
+      "こんど",
+      "kondo"
+    ],
+    "meaning": "KIM ĐỘ\n1. Lần này\n2. Lần tới, dịp tới"
+  },
+  {
+    "kanji": "機会",
+    "readings": [
+      "きかい",
+      "kikai"
+    ],
+    "meaning": "KI HỘI\nCơ hội, dịp"
+  },
+  {
+    "kanji": "建てる",
+    "readings": [
+      "たてる",
+      "tateru"
+    ],
+    "meaning": "1. Xây dựng, dựng lên (nhà cửa)\n2. Gây dựng, thiết lập (sự nghiệp, kế hoạch)"
+  },
+  {
+    "kanji": "複雑",
+    "readings": [
+      "ふくざつ",
+      "fukuzatsu"
+    ],
+    "meaning": "PHỨC TẠP\nPhức tạp"
+  },
+  {
+    "kanji": "彼",
+    "readings": [
+      "かれ",
+      "kare"
+    ],
+    "meaning": "BỈ\n1. Anh ấy, ông ấy (đại từ nhân xưng ngôi thứ ba)\n2. Bạn trai, người yêu (nam)"
+  },
+  {
+    "kanji": "布団",
+    "readings": [
+      "ふとん",
+      "futon"
+    ],
+    "meaning": "BỐ ĐOÀN\nNệm, chăn (đệm ngủ kiểu Nhật)"
+  },
+  {
+    "kanji": "大事",
+    "readings": [
+      "だいじ",
+      "daiji"
+    ],
+    "meaning": "ĐẠI SỰ\n1. Quan trọng, trọng đại\n2. Việc lớn, đại sự\n3. Cẩn thận, giữ gìn sức khỏe (thường dùng trong câu chúc お大事に)"
+  },
+  {
+    "kanji": "贈り物",
+    "readings": [
+      "おくりもの",
+      "okurimono"
+    ],
+    "meaning": "Món quà, quà tặng"
+  },
+  {
+    "kanji": "泥棒",
+    "readings": [
+      "どろぼう",
+      "dorobou"
+    ],
+    "meaning": "NÊ BỔNG\nKẻ trộm, kẻ cắp"
+  },
+  {
+    "kanji": "～製",
+    "readings": [
+      "～せい",
+      "～sei"
+    ],
+    "meaning": "CHẾ\nSự chế tạo, sự sản xuất (thường dùng làm hậu tố chỉ nơi sản xuất hoặc chất liệu)"
+  },
+  {
+    "kanji": "注意",
+    "readings": [
+      "ちゅうい",
+      "chuui"
+    ],
+    "meaning": "CHÚ Ý\n1. Sự chú ý, lưu ý\n2. Sự cảnh báo, nhắc nhở\n3. Sự cẩn thận, ý tứ"
+  },
+  {
+    "kanji": "台風",
+    "readings": [
+      "たいふう",
+      "taifuu"
+    ],
+    "meaning": "THAI PHONG\nCơn bão"
+  },
+  {
+    "kanji": "日",
+    "readings": [
+      "ひ",
+      "hi"
+    ],
+    "meaning": "NHẬT\n1. Mặt trời\n2. Ngày"
+  },
+  {
+    "kanji": "～軒",
+    "readings": [
+      "～けん",
+      "～ken"
+    ],
+    "meaning": "HIÊN\nMái hiên"
+  },
+  {
+    "kanji": "通る",
+    "readings": [
+      "とおる",
+      "tooru"
+    ],
+    "meaning": "1. Đi qua, đi ngang qua\n2. Chạy qua (tàu xe)\n3. Thông (mũi, đường)\n4. Được chấp nhận, được thông qua (đề xuất, ý kiến)\n5. Có thể hiểu được, lọt tai"
+  },
+  {
+    "kanji": "過ぎる",
+    "readings": [
+      "すぎる",
+      "sugiru"
+    ],
+    "meaning": "1. Đi qua, vượt qua\n2. Quá mức, dư thừa"
+  },
+  {
+    "kanji": "葉",
+    "readings": [
+      "は",
+      "ha"
+    ],
+    "meaning": "DIỆP\nLá cây"
+  },
+  {
+    "kanji": "必要",
+    "readings": [
+      "ひつよう",
+      "hitsuyou"
+    ],
+    "meaning": "TẤT YẾU\n1. Cần thiết\n2. Sự cần thiết"
+  },
+  {
+    "kanji": "課長",
+    "readings": [
+      "かちょう",
+      "kachou"
+    ],
+    "meaning": "KHÓA TRƯỜNG\nTrưởng phòng, trưởng bộ phận"
+  },
+  {
+    "kanji": "地震",
+    "readings": [
+      "じしん",
+      "jishin"
+    ],
+    "meaning": "ĐỊA CHẤN\nĐộng đất"
+  },
+  {
+    "kanji": "止める",
+    "readings": [
+      "やめる",
+      "yameru"
+    ],
+    "meaning": "1. Dừng lại, làm cho dừng\n2. Đỗ (xe)\n3. Ngăn chặn\n4. Cố định, ghim lại\n5. Nín (thở, khóc)\n6. Ngắt (điện, nước)"
+  },
+  {
+    "kanji": "～学部",
+    "readings": [
+      "～がくぶ",
+      "～gakubu"
+    ],
+    "meaning": "HỌC BỘ\nKhoa (trong trường đại học)"
+  },
+  {
+    "kanji": "厳しい",
+    "readings": [
+      "きびしい",
+      "kibishii"
+    ],
+    "meaning": "1. Nghiêm khắc, khắt khe\n2. Khắc nghiệt (thời tiết, hoàn cảnh)\n3. Dữ dội, gay gắt"
+  },
+  {
+    "kanji": "人口",
+    "readings": [
+      "じんこう",
+      "jinkou"
+    ],
+    "meaning": "NHÂN KHẨU\nDân số, nhân khẩu"
+  },
+  {
+    "kanji": "月",
+    "readings": [
+      "つき",
+      "tsuki"
+    ],
+    "meaning": "NGUYỆT\n1. Mặt trăng\n2. Tháng"
+  },
+  {
+    "kanji": "絹",
+    "readings": [
+      "きぬ",
+      "kinu"
+    ],
+    "meaning": "QUYÊN\nLụa, tơ lụa"
+  },
+  {
+    "kanji": "深い",
+    "readings": [
+      "ふかい",
+      "fukai"
+    ],
+    "meaning": "1. Sâu (về khoảng cách)\n2. Sâu sắc (về ý nghĩa, tình cảm)\n3. Dày (về sương mù, bóng tối)\n4. Thân thiết, gần gũi (về mối quan hệ)"
+  },
+  {
+    "kanji": "壊れる",
+    "readings": [
+      "こわれる",
+      "kowareru"
+    ],
+    "meaning": "1. Hỏng, bị hỏng\n2. Đổ vỡ, vỡ\n3. Bị phá hủy\n4. Nứt nẻ"
+  },
+  {
+    "kanji": "揺れる",
+    "readings": [
+      "ゆれる",
+      "yureru"
+    ],
+    "meaning": "1. Rung, lắc, đu đưa\n2. Lung lay, lay động\n3. Dao động, bập bềnh, nhấp nhô\n4. Ve vẫy"
+  },
+  {
+    "kanji": "落る",
+    "readings": [
+      "おちる",
+      "ochiru"
+    ],
+    "meaning": "1. Rơi xuống\n2. Rụng (lá, tóc)\n3. Thi trượt\n4. Bị mất, bị thiếu sót"
+  },
+  {
+    "kanji": "悲しい",
+    "readings": [
+      "かなしい",
+      "kanashii"
+    ],
+    "meaning": "1. Buồn, buồn bã\n2. Đau xót, bi thương"
+  },
+  {
+    "kanji": "中学校",
+    "readings": [
+      "ちゅうがっこう",
+      "chuugakkou"
+    ],
+    "meaning": "TRUNG HỌC GIÁO\nTrường trung học cơ sở"
+  },
+  {
+    "kanji": "祈る",
+    "readings": [
+      "いのる",
+      "inoru"
+    ],
+    "meaning": "1. Cầu nguyện, cầu khấn\n2. Mong ước, cầu mong"
+  },
+  {
+    "kanji": "盛ん",
+    "readings": [
+      "さかん",
+      "sakan"
+    ],
+    "meaning": "1. Phổ biến, thịnh hành\n2. Phát đạt, hưng thịnh\n3. Nhiệt tình, mạnh mẽ"
+  },
+  {
+    "kanji": "起こす",
+    "readings": [
+      "おこす",
+      "okosu"
+    ],
+    "meaning": "1. Đánh thức\n2. Dựng dậy, đỡ dậy\n3. Gây ra, làm xảy ra\n4. Khởi đầu, bắt đầu"
+  },
+  {
+    "kanji": "致す",
+    "readings": [
+      "いたす",
+      "itasu"
+    ],
+    "meaning": "Làm (khiêm nhường ngữ của する)"
+  },
+  {
+    "kanji": "噛む",
+    "readings": [
+      "かむ",
+      "kamu"
+    ],
+    "meaning": "1. Nhai, cắn\n2. Ăn khớp (bánh răng, cơ cấu)\n3. Gặm nhấm"
+  },
+  {
+    "kanji": "赤ちゃん",
+    "readings": [
+      "あかちゃん",
+      "akachan"
+    ],
+    "meaning": "Trẻ sơ sinh, em bé"
+  },
+  {
+    "kanji": "浅い",
+    "readings": [
+      "あさい",
+      "asai"
+    ],
+    "meaning": "1. Nông, cạn (độ sâu)\n2. Ít, ngắn (thời gian, kinh nghiệm)\n3. Nhạt (màu sắc)\n4. Nông cạn, hời hợt (suy nghĩ)"
+  },
+  {
+    "kanji": "嘘",
+    "readings": [
+      "うそ",
+      "uso"
+    ],
+    "meaning": "HƯ\n1. Lời nói dối, sự dối trá\n2. Sự không hợp lý, sự sai lệch\n3. Khó tin, không có thật (thường dùng trong cụm 嘘みたい)"
+  },
+  {
+    "kanji": "小説",
+    "readings": [
+      "しょうせつ",
+      "shousetsu"
+    ],
+    "meaning": "TIỂU THUYẾT\nTiểu thuyết"
+  },
+  {
+    "kanji": "親",
+    "readings": [
+      "おや",
+      "oya"
+    ],
+    "meaning": "THÂN\nCha mẹ, phụ huynh"
+  },
+  {
+    "kanji": "西洋",
+    "readings": [
+      "せいよう",
+      "seiyou"
+    ],
+    "meaning": "TÂY DƯƠNG\nPhương Tây"
+  },
+  {
+    "kanji": "思う",
+    "readings": [
+      "おもう",
+      "omou"
+    ],
+    "meaning": "1. Nghĩ, suy nghĩ\n2. Cảm thấy, cho rằng\n3. Mong muốn, hy vọng\n4. Nhớ đến, tưởng niệm"
+  },
+  {
+    "kanji": "時代",
+    "readings": [
+      "じだい",
+      "jidai"
+    ],
+    "meaning": "THÌ ĐẠI\n1. Thời đại\n2. Thời kỳ"
+  },
+  {
+    "kanji": "申し上げる",
+    "readings": [
+      "もうしあげる",
+      "moushiageru"
+    ],
+    "meaning": "Nói, kể, phát biểu (khiêm nhường ngữ)"
+  },
+  {
+    "kanji": "～式",
+    "readings": [
+      "～しき",
+      "～shiki"
+    ],
+    "meaning": "THỨC\n1. Nghi thức, lễ\n2. Kiểu, loại\n3. Công thức (toán học)"
+  },
+  {
+    "kanji": "出席",
+    "readings": [
+      "しゅっせき",
+      "shusseki"
+    ],
+    "meaning": "XUẤT TỊCH\nSự có mặt, sự tham dự"
+  },
+  {
+    "kanji": "～家",
+    "readings": [
+      "～か",
+      "～ka"
+    ],
+    "meaning": "GIA\n1. Nhà (công trình kiến trúc)\n2. Gia đình, gia đình người khác"
+  },
+  {
+    "kanji": "迎える",
+    "readings": [
+      "むかえる",
+      "mukaeru"
+    ],
+    "meaning": "1. Đón, tiếp đón\n2. Nghênh đón (khách)\n3. Đón nhận (một thời điểm, một giai đoạn)\n4. Mời, gọi (ai đó về làm việc, gia nhập)"
+  },
+  {
+    "kanji": "触る",
+    "readings": [
+      "さわる",
+      "sawaru"
+    ],
+    "meaning": "1. Chạm, sờ vào\n2. Mò mẫm\n3. Đụng chạm vào (vật không nên chạm)"
+  },
+  {
+    "kanji": "建て",
+    "readings": [
+      "～だて",
+      "～date"
+    ],
+    "meaning": "1. Cấu trúc, số tầng (của tòa nhà)\n2. Mệnh giá (tiền tệ)"
+  },
+  {
+    "kanji": "社長",
+    "readings": [
+      "しゃちょう",
+      "shachou"
+    ],
+    "meaning": "XÃ TRƯỜNG\nGiám đốc, chủ tịch công ty"
+  },
+  {
+    "kanji": "動物園",
+    "readings": [
+      "どうぶつえん",
+      "doubutsuen"
+    ],
+    "meaning": "ĐỘNG VẬT VIÊN\nVườn bách thú"
+  },
+  {
+    "kanji": "捕まえる",
+    "readings": [
+      "つかまえる",
+      "tsukamaeru"
+    ],
+    "meaning": "1. Bắt, tóm, chộp lấy\n2. Nắm bắt (cơ hội, ý tưởng)\n3. Bắt giữ (tội phạm)"
+  },
+  {
+    "kanji": "季節",
+    "readings": [
+      "きせつ",
+      "kisetsu"
+    ],
+    "meaning": "QUÝ TIẾT\n1. Mùa\n2. Thời vụ"
+  },
+  {
+    "kanji": "寄る",
+    "readings": [
+      "よる",
+      "yoru"
+    ],
+    "meaning": "1. Xích lại gần\n2. Ghé qua\n3. Dựa vào\n4. Tụ tập\n5. Chồng chất"
+  },
+  {
+    "kanji": "決まる",
+    "readings": [
+      "きまる",
+      "kimaru"
+    ],
+    "meaning": "Được quyết định, được ấn định"
+  },
+  {
+    "kanji": "開く",
+    "readings": [
+      "ひらく",
+      "hiraku"
+    ],
+    "meaning": "1. Mở (cửa, sách, sự kiện)\n2. Nở (hoa)\n3. Há (miệng)\n4. Tổ chức (hội nghị, tiệc)"
+  },
+  {
+    "kanji": "逃げる",
+    "readings": [
+      "にげる",
+      "nigeru"
+    ],
+    "meaning": "1. Chạy trốn, tẩu thoát\n2. Tránh né, xa lánh"
+  },
+  {
+    "kanji": "残念",
+    "readings": [
+      "ざんねん",
+      "zannen"
+    ],
+    "meaning": "TÀN NIỆM\n1. Đáng tiếc, đáng thất vọng\n2. Sự đáng tiếc"
+  },
+  {
+    "kanji": "畳",
+    "readings": [
+      "たたみ",
+      "tatami"
+    ],
+    "meaning": "ĐIỆP\nChiếu (đơn vị đếm)"
+  },
+  {
+    "kanji": "丁寧",
+    "readings": [
+      "ていねい",
+      "teinei"
+    ],
+    "meaning": "ĐINH NINH\n1. Cẩn thận, tỉ mỉ\n2. Lịch sự, lễ phép"
+  },
+  {
+    "kanji": "地理",
+    "readings": [
+      "ちり",
+      "chiri"
+    ],
+    "meaning": "ĐỊA LÍ\nĐịa lý"
+  },
+  {
+    "kanji": "怖い",
+    "readings": [
+      "こわい",
+      "kowai"
+    ],
+    "meaning": "1. Sợ, sợ hãi\n2. Đáng sợ, kinh khủng"
+  },
+  {
+    "kanji": "包む",
+    "readings": [
+      "つつむ",
+      "tsutsumu"
+    ],
+    "meaning": "Bọc, gói, bao bọc"
+  },
+  {
+    "kanji": "無理",
+    "readings": [
+      "むり",
+      "muri"
+    ],
+    "meaning": "VÔ LÍ\n1. Vô lý, phi lý\n2. Quá sức, không thể làm được"
+  },
+  {
+    "kanji": "会議室",
+    "readings": [
+      "かいぎしつ",
+      "kaigishitsu"
+    ],
+    "meaning": "HỘI NGHỊ THẤT\nPhòng họp"
+  },
+  {
+    "kanji": "品物",
+    "readings": [
+      "しなもの",
+      "shinamono"
+    ],
+    "meaning": "PHẨM VẬT\nHàng hóa, vật phẩm"
+  },
+  {
+    "kanji": "人形",
+    "readings": [
+      "にんぎょう",
+      "ningyou"
+    ],
+    "meaning": "NHÂN HÌNH\n1. Búp bê\n2. Hình nhân\n3. Hình nộm\n4. Rối"
+  },
+  {
+    "kanji": "利用",
+    "readings": [
+      "りよう",
+      "riyou"
+    ],
+    "meaning": "LỢI DỤNG\nSự sử dụng, sự tận dụng"
+  },
+  {
+    "kanji": "飾る",
+    "readings": [
+      "かざる",
+      "kazaru"
+    ],
+    "meaning": "1. Trang trí, trang hoàng\n2. Tô điểm, làm đẹp\n3. Trưng bày"
+  },
+  {
+    "kanji": "止める",
+    "readings": [
+      "とめる",
+      "tomeru"
+    ],
+    "meaning": "1. Dừng lại, làm cho dừng\n2. Đỗ (xe)\n3. Ngăn chặn\n4. Cố định, ghim lại\n5. Nín (thở, khóc)\n6. Ngắt (điện, nước)"
+  },
+  {
+    "kanji": "恥ずかしい",
+    "readings": [
+      "はずかしい",
+      "hazukashii"
+    ],
+    "meaning": "1. Xấu hổ, ngượng ngùng\n2. Đáng xấu hổ (khi làm điều sai trái)\n3. E ngại, không tự tin"
+  },
+  {
+    "kanji": "用事",
+    "readings": [
+      "ようじ",
+      "youji"
+    ],
+    "meaning": "DỤNG SỰ\nViệc bận, công việc cần giải quyết"
+  },
+  {
+    "kanji": "頑張る",
+    "readings": [
+      "がんばる",
+      "ganbaru"
+    ],
+    "meaning": "Cố gắng, nỗ lực"
+  },
+  {
+    "kanji": "投げる",
+    "readings": [
+      "なげる",
+      "nageru"
+    ],
+    "meaning": "1. Ném, liệng\n2. Bỏ cuộc, từ bỏ\n3. Đầu tư (vốn, công sức)"
+  },
+  {
+    "kanji": "故障",
+    "readings": [
+      "こしょう",
+      "koshou"
+    ],
+    "meaning": "CỐ CHƯỚNG\n1. Hỏng hóc, trục trặc\n2. Sự cố"
+  },
+  {
+    "kanji": "力",
+    "readings": [
+      "ちから",
+      "chikara"
+    ],
+    "meaning": "LỰC\n1. Sức lực, thể lực\n2. Khả năng, năng lực\n3. Công suất (máy móc)"
+  },
+  {
+    "kanji": "受ける",
+    "readings": [
+      "うける",
+      "ukeru"
+    ],
+    "meaning": "1. Nhận, tiếp nhận\n2. Chịu, hứng chịu (ảnh hưởng, tác động)\n3. Tham dự (kỳ thi, phỏng vấn)\n4. Được hoan nghênh, được yêu thích"
+  },
+  {
+    "kanji": "気分",
+    "readings": [
+      "きぶん",
+      "kibun"
+    ],
+    "meaning": "KHÍ PHÂN\n1. Tâm trạng, tinh thần\n2. Cảm giác, không khí"
+  },
+  {
+    "kanji": "間違える",
+    "readings": [
+      "まちがえる",
+      "machigaeru"
+    ],
+    "meaning": "Nhầm lẫn, làm sai (thường dùng khi nhầm lẫn giữa hai đối tượng)"
+  },
+  {
+    "kanji": "星",
+    "readings": [
+      "ほし",
+      "hoshi"
+    ],
+    "meaning": "TINH\n1. Ngôi sao\n2. Thiên thể"
+  },
+  {
+    "kanji": "場合",
+    "readings": [
+      "ばあい",
+      "baai"
+    ],
+    "meaning": "TRÀNG HỢP\nTrường hợp, tình huống"
+  },
+  {
+    "kanji": "足りる",
+    "readings": [
+      "たりる",
+      "tariru"
+    ],
+    "meaning": "Đủ, đầy đủ"
+  },
+  {
+    "kanji": "行う",
+    "readings": [
+      "おこなう",
+      "okonau"
+    ],
+    "meaning": "1. Tổ chức, tiến hành\n2. Thực hiện, làm"
+  },
+  {
+    "kanji": "無くなる",
+    "readings": [
+      "なくなる",
+      "nakunaru"
+    ],
+    "meaning": "1. Bị mất, thất lạc\n2. Hết, cạn kiệt\n3. Qua đời (cách nói giảm nói tránh)"
+  },
+  {
+    "kanji": "準備",
+    "readings": [
+      "じゅんび",
+      "junbi"
+    ],
+    "meaning": "CHUẨN BỊ\nSự chuẩn bị, sự sắp xếp"
+  },
+  {
+    "kanji": "世界",
+    "readings": [
+      "せかい",
+      "sekai"
+    ],
+    "meaning": "THẾ GIỚI\n1. Thế giới\n2. Xã hội, phạm vi hoạt động"
+  },
+  {
+    "kanji": "住所",
+    "readings": [
+      "じゅうしょ",
+      "juusho"
+    ],
+    "meaning": "TRỤ SỞ\nĐịa chỉ, nơi cư trú"
+  },
+  {
+    "kanji": "再来月",
+    "readings": [
+      "さらいげつ",
+      "saraigetsu"
+    ],
+    "meaning": "TÁI LAI NGUYỆT\nTháng sau nữa (hai tháng sau)"
+  },
+  {
+    "kanji": "林",
+    "readings": [
+      "はやし",
+      "hayashi"
+    ],
+    "meaning": "LÂM\nRừng, khu rừng"
+  },
+  {
+    "kanji": "倍",
+    "readings": [
+      "ばい",
+      "bai"
+    ],
+    "meaning": "BỘI\nGấp đôi, bội số"
+  },
+  {
+    "kanji": "痩せる",
+    "readings": [
+      "やせる",
+      "yaseru"
+    ],
+    "meaning": "Trở nên gầy, gầy đi"
+  },
+  {
+    "kanji": "線",
+    "readings": [
+      "せん",
+      "sen"
+    ],
+    "meaning": "TUYẾN\n1. Đường, vạch\n2. Tuyến (đường sắt, đường dây điện thoại)\n3. Đường kẻ"
+  },
+  {
+    "kanji": "戦争",
+    "readings": [
+      "せんそう",
+      "sensou"
+    ],
+    "meaning": "CHIẾN TRANH\nChiến tranh"
+  },
+  {
+    "kanji": "決める",
+    "readings": [
+      "きめる",
+      "kimeru"
+    ],
+    "meaning": "1. Quyết định\n2. Ấn định, quy định"
+  },
+  {
+    "kanji": "調べる",
+    "readings": [
+      "しらべる",
+      "shiraberu"
+    ],
+    "meaning": "1. Điều tra, nghiên cứu\n2. Kiểm tra, xem xét\n3. Tra cứu (từ điển, thông tin)"
+  },
+  {
+    "kanji": "寝坊",
+    "readings": [
+      "ねぼう",
+      "nebou"
+    ],
+    "meaning": "TẨM PHƯỜNG\nViệc ngủ dậy muộn"
+  },
+  {
+    "kanji": "光る",
+    "readings": [
+      "ひかる",
+      "hikaru"
+    ],
+    "meaning": "1. Phát sáng, tỏa sáng\n2. Chiếu sáng\n3. Nổi bật, xuất sắc"
+  },
+  {
+    "kanji": "夫",
+    "readings": [
+      "おっと",
+      "otto"
+    ],
+    "meaning": "PHU\nChồng"
+  },
+  {
+    "kanji": "雲",
+    "readings": [
+      "くも",
+      "kumo"
+    ],
+    "meaning": "VÂN\nMây"
+  },
+  {
+    "kanji": "坂",
+    "readings": [
+      "さか",
+      "saka"
+    ],
+    "meaning": "PHẢN\nCon dốc"
+  },
+  {
+    "kanji": "飛行場",
+    "readings": [
+      "ひこうじょう",
+      "hikoujou"
+    ],
+    "meaning": "PHI HÀNH TRÀNG\nSân bay, phi trường"
+  },
+  {
+    "kanji": "柔道",
+    "readings": [
+      "じゅうどう",
+      "juudou"
+    ],
+    "meaning": "NHU ĐẠO\nNhu đạo (môn võ Judo)"
+  },
+  {
+    "kanji": "決して",
+    "readings": [
+      "けっして",
+      "kesshite"
+    ],
+    "meaning": "Quyết không, không bao giờ (thường đi với phủ định)"
+  },
+  {
+    "kanji": "事務所",
+    "readings": [
+      "じむしょ",
+      "jimusho"
+    ],
+    "meaning": "SỰ VỤ SỞ\n1. Văn phòng\n2. Trụ sở làm việc"
+  },
+  {
+    "kanji": "連絡",
+    "readings": [
+      "れんらく",
+      "renraku"
+    ],
+    "meaning": "LIÊN LẠC\n1. Sự liên lạc\n2. Sự trao đổi thông tin"
+  },
+  {
+    "kanji": "小学校",
+    "readings": [
+      "しょうがっこう",
+      "shougakkou"
+    ],
+    "meaning": "TIỂU HỌC GIÁO\nTrường tiểu học"
+  },
+  {
+    "kanji": "客",
+    "readings": [
+      "きゃく",
+      "kyaku"
+    ],
+    "meaning": "KHÁCH\n1. Khách\n2. Khách hàng"
+  },
+  {
+    "kanji": "昔",
+    "readings": [
+      "むかし",
+      "mukashi"
+    ],
+    "meaning": "TÍCH\nNgày xưa, thuở xưa, thời quá khứ"
+  },
+  {
+    "kanji": "美しい",
+    "readings": [
+      "うつくしい",
+      "utsukushii"
+    ],
+    "meaning": "1. Đẹp, xinh đẹp\n2. Ưa nhìn, xinh xắn\n3. Mỹ lệ, tươi đẹp"
+  },
+  {
+    "kanji": "捨てる",
+    "readings": [
+      "すてる",
+      "suteru"
+    ],
+    "meaning": "1. Vứt bỏ, ném đi\n2. Từ bỏ (hy vọng, ý định)\n3. Bỏ mặc, không đoái hoài"
+  },
+  {
+    "kanji": "事",
+    "readings": [
+      "こと",
+      "koto"
+    ],
+    "meaning": "SỰ\n1. Việc, sự việc\n2. Công việc\n3. Sự cố, biến cố"
+  },
+  {
+    "kanji": "試合",
+    "readings": [
+      "しあい",
+      "shiai"
+    ],
+    "meaning": "THÍ HỢP\nCuộc thi đấu, trận đấu"
+  },
+  {
+    "kanji": "適当",
+    "readings": [
+      "てきとう",
+      "tekitou"
+    ],
+    "meaning": "THÍCH ĐƯƠNG\n1. Thích hợp, phù hợp\n2. Qua loa, đại khái, không nghiêm túc (nghĩa tiêu cực)"
+  },
+  {
+    "kanji": "素晴らしい",
+    "readings": [
+      "すばらしい",
+      "subarashii"
+    ],
+    "meaning": "Tuyệt vời, tráng lệ, xuất sắc"
+  },
+  {
+    "kanji": "美術館",
+    "readings": [
+      "びじゅつかん",
+      "bijutsukan"
+    ],
+    "meaning": "MĨ THUẬT QUÁN\nBảo tàng mỹ thuật"
+  },
+  {
+    "kanji": "文法",
+    "readings": [
+      "ぶんぽう",
+      "bunpou"
+    ],
+    "meaning": "VĂN PHÁP\nNgữ pháp"
+  },
+  {
+    "kanji": "終わり",
+    "readings": [
+      "おわり",
+      "owari"
+    ],
+    "meaning": "1. Kết thúc, hoàn thành\n2. Phần cuối, đoạn cuối"
+  },
+  {
+    "kanji": "壁",
+    "readings": [
+      "かべ",
+      "kabe"
+    ],
+    "meaning": "BÍCH\nBức tường"
+  },
+  {
+    "kanji": "一度",
+    "readings": [
+      "いちど",
+      "ichido"
+    ],
+    "meaning": "NHẤT ĐỘ\n1. Một lần\n2. Một khi (điều kiện)\n3. Khi nào đó, lần nào đó"
+  },
+  {
+    "kanji": "お礼",
+    "readings": [
+      "おれい",
+      "orei"
+    ],
+    "meaning": "1. Sự cảm ơn, lời cảm ơn\n2. Quà đáp lễ"
+  },
+  {
+    "kanji": "親切",
+    "readings": [
+      "しんせつ",
+      "shinsetsu"
+    ],
+    "meaning": "THÂN THIẾT\nTốt bụng, tử tế, ân cần"
+  },
+  {
+    "kanji": "知らせる",
+    "readings": [
+      "しらせる",
+      "shiraseru"
+    ],
+    "meaning": "Thông báo, báo tin, cho biết"
+  },
+  {
+    "kanji": "歯医者",
+    "readings": [
+      "はいしゃ",
+      "haisha"
+    ],
+    "meaning": "XỈ Y GIẢ\nNha sĩ"
+  },
+  {
+    "kanji": "熱心",
+    "readings": [
+      "ねっしん",
+      "nesshin"
+    ],
+    "meaning": "NHIỆT TÂM\nSự nhiệt tình, lòng nhiệt tâm"
+  },
+  {
+    "kanji": "始める",
+    "readings": [
+      "はじめる",
+      "hajimeru"
+    ],
+    "meaning": "1. Bắt đầu, khởi đầu (tha động từ)\n2. Mở màn"
+  },
+  {
+    "kanji": "泣く",
+    "readings": [
+      "なく",
+      "naku"
+    ],
+    "meaning": "1. Khóc\n2. Rơi lệ\n3. Than khóc"
+  },
+  {
+    "kanji": "治る",
+    "readings": [
+      "なおる",
+      "naoru"
+    ],
+    "meaning": "1. Lành (vết thương)\n2. Khỏi (bệnh)\n3. Được sửa chữa, được khắc phục"
+  },
+  {
+    "kanji": "熱",
+    "readings": [
+      "ねつ",
+      "netsu"
+    ],
+    "meaning": "NHIỆT\n1. Nhiệt độ\n2. Sự nhiệt tình, sự say sưa\n3. Cơn sốt (y tế)"
+  },
+  {
+    "kanji": "お祭り",
+    "readings": [
+      "おまつり",
+      "omatsuri"
+    ],
+    "meaning": "Lễ hội"
+  },
+  {
+    "kanji": "水道",
+    "readings": [
+      "すいどう",
+      "suidou"
+    ],
+    "meaning": "THỦY ĐẠO\nHệ thống cấp nước, nước máy"
+  },
+  {
+    "kanji": "匂い",
+    "readings": [
+      "におい",
+      "nioi"
+    ],
+    "meaning": "Mùi, hương thơm, hơi hám"
+  },
+  {
+    "kanji": "赤ん坊",
+    "readings": [
+      "あかんぼう",
+      "akanbou"
+    ],
+    "meaning": "Em bé sơ sinh"
+  },
+  {
+    "kanji": "事故",
+    "readings": [
+      "じこ",
+      "jiko"
+    ],
+    "meaning": "SỰ CỐ\n1. Tai nạn\n2. Sự cố"
+  },
+  {
+    "kanji": "変",
+    "readings": [
+      "へん",
+      "hen"
+    ],
+    "meaning": "BIẾN\n1. Kỳ lạ, kỳ quái\n2. Sự thay đổi bất thường\n3. Sự cố, biến cố\n4. Dấu giáng (âm nhạc)"
+  },
+  {
+    "kanji": "辞典",
+    "readings": [
+      "じてん",
+      "jiten"
+    ],
+    "meaning": "TỪ ĐIỂN\nTừ điển"
+  },
+  {
+    "kanji": "残る",
+    "readings": [
+      "のこる",
+      "nokoru"
+    ],
+    "meaning": "1. Còn lại, sót lại\n2. Vẫn còn (tồn tại)"
+  },
+  {
+    "kanji": "立てる",
+    "readings": [
+      "たてる",
+      "tateru"
+    ],
+    "meaning": "1. Dựng đứng, làm cho đứng lên\n2. Lập ra (kế hoạch, dự định)\n3. Gây ra (tiếng ồn, rắc rối)\n4. Giữ thể diện"
+  },
+  {
+    "kanji": "～員",
+    "readings": [
+      "～いん",
+      "～in"
+    ],
+    "meaning": "VIÊN\n1. Nhân viên, thành viên\n2. Người (hậu tố chỉ người làm một công việc cụ thể)"
+  },
+  {
+    "kanji": "原因",
+    "readings": [
+      "げんいん",
+      "gen'in"
+    ],
+    "meaning": "NGUYÊN NHÂN\nNguyên nhân, căn nguyên"
+  },
+  {
+    "kanji": "驚く",
+    "readings": [
+      "おどろく",
+      "odoroku"
+    ],
+    "meaning": "1. Ngạc nhiên\n2. Giật mình\n3. Kinh hãi"
+  },
+  {
+    "kanji": "祖母",
+    "readings": [
+      "そぼ",
+      "sobo"
+    ],
+    "meaning": "TỔ MẪU\nBà (nội/ngoại)"
+  },
+  {
+    "kanji": "場所",
+    "readings": [
+      "ばしょ",
+      "basho"
+    ],
+    "meaning": "TRÀNG SỞ\nĐịa điểm, nơi chốn"
+  },
+  {
+    "kanji": "答",
+    "readings": [
+      "こたえ",
+      "kotae"
+    ],
+    "meaning": "ĐÁP\nCâu trả lời, đáp án"
+  },
+  {
+    "kanji": "漬ける",
+    "readings": [
+      "つける",
+      "tsukeru"
+    ],
+    "meaning": "1. Muối (dưa, cà)\n2. Ngâm\n3. Tẩm, ướp\n4. Chấm"
+  },
+  {
+    "kanji": "受付",
+    "readings": [
+      "うけつけ",
+      "uketsuke"
+    ],
+    "meaning": "THỤ PHÓ\n1. Sự tiếp nhận\n2. Quầy lễ tân, quầy tiếp đón\n3. Nhân viên lễ tân"
+  },
+  {
+    "kanji": "内",
+    "readings": [
+      "うち",
+      "uchi"
+    ],
+    "meaning": "NỘI\n1. Bên trong\n2. Trong khoảng thời gian, trong vòng"
+  },
+  {
+    "kanji": "増える",
+    "readings": [
+      "ふえる",
+      "fueru"
+    ],
+    "meaning": "Tăng lên, gia tăng (về số lượng)"
+  },
+  {
+    "kanji": "以下",
+    "readings": [
+      "いか",
+      "ika"
+    ],
+    "meaning": "DĨ HẠ\n1. Dưới, thấp hơn (số lượng, mức độ)\n2. Sau đây, dưới đây (văn bản)"
+  },
+  {
+    "kanji": "選ぶ",
+    "readings": [
+      "えらぶ",
+      "erabu"
+    ],
+    "meaning": "1. Chọn, lựa chọn\n2. Bầu, tuyển chọn\n3. Kén chọn"
+  },
+  {
+    "kanji": "心",
+    "readings": [
+      "こころ",
+      "kokoro"
+    ],
+    "meaning": "TÂM\n1. Trái tim (cơ quan)\n2. Tấm lòng, tâm hồn\n3. Bụng dạ, ý nghĩ"
+  },
+  {
+    "kanji": "届ける",
+    "readings": [
+      "とどける",
+      "todokeru"
+    ],
+    "meaning": "1. Gửi đến, chuyển đến\n2. Trình báo, thông báo"
+  },
+  {
+    "kanji": "挨拶",
+    "readings": [
+      "あいさつ",
+      "aisatsu"
+    ],
+    "meaning": "AI TẠT\n1. Lời chào, sự chào hỏi\n2. Lời phát biểu, diễn văn (trong buổi lễ)\n3. Sự thăm hỏi, quà cáp xã giao"
+  },
+  {
+    "kanji": "景色",
+    "readings": [
+      "けしき",
+      "keshiki"
+    ],
+    "meaning": "CẢNH SẮC\nPhong cảnh, cảnh sắc"
+  },
+  {
+    "kanji": "確か",
+    "readings": [
+      "たしか",
+      "tashika"
+    ],
+    "meaning": "1. Đúng, chính xác\n2. Xác thực, đáng tin cậy"
+  },
+  {
+    "kanji": "食料品",
+    "readings": [
+      "しょくりょうひん",
+      "shokuryouhin"
+    ],
+    "meaning": "THỰC LIÊU PHẨM\nHàng thực phẩm"
+  },
+  {
+    "kanji": "森",
+    "readings": [
+      "もり",
+      "mori"
+    ],
+    "meaning": "SÂM\nRừng, khu rừng"
+  },
+  {
+    "kanji": "以内",
+    "readings": [
+      "いない",
+      "inai"
+    ],
+    "meaning": "DĨ NỘI\nTrong vòng, trong phạm vi"
+  },
+  {
+    "kanji": "予定",
+    "readings": [
+      "よてい",
+      "yotei"
+    ],
+    "meaning": "DƯ ĐỊNH\n1. Dự định\n2. Kế hoạch"
+  },
+  {
+    "kanji": "乾く",
+    "readings": [
+      "かわく",
+      "kawaku"
+    ],
+    "meaning": "1. Khô\n2. Ráo\n3. Héo (cây cối)"
+  },
+  {
+    "kanji": "石",
+    "readings": [
+      "いし",
+      "ishi"
+    ],
+    "meaning": "THẠCH\nĐá, hòn đá"
+  },
+  {
+    "kanji": "思い出す",
+    "readings": [
+      "おもいだす",
+      "omoidasu"
+    ],
+    "meaning": "1. Nhớ lại, hồi tưởng lại\n2. Nhớ ra (một việc gì đó đã quên)"
+  },
+  {
+    "kanji": "踊る",
+    "readings": [
+      "おどる",
+      "odoru"
+    ],
+    "meaning": "Nhảy múa"
+  },
+  {
+    "kanji": "細かい",
+    "readings": [
+      "こまかい",
+      "komakai"
+    ],
+    "meaning": "1. Nhỏ, vụn, li ti\n2. Chi tiết, tỉ mỉ, cặn kẽ\n3. Lẻ (tiền)\n4. Nhỏ nhặt, chi li"
+  },
+  {
+    "kanji": "塗る",
+    "readings": [
+      "ぬる",
+      "nuru"
+    ],
+    "meaning": "1. Thoa, bôi, xoa\n2. Quét, phết, trét\n3. Sơn"
+  },
+  {
+    "kanji": "ご主人",
+    "readings": [
+      "ごしゅじん",
+      "goshujin"
+    ],
+    "meaning": "Chồng (của người khác - kính ngữ)"
+  },
+  {
+    "kanji": "珍しい",
+    "readings": [
+      "めずらしい",
+      "mezurashii"
+    ],
+    "meaning": "1. Hiếm, ít có\n2. Lạ lùng, kỳ lạ"
+  },
+  {
+    "kanji": "用",
+    "readings": [
+      "よう",
+      "you"
+    ],
+    "meaning": "DỤNG\n1. Việc, công việc\n2. Dùng cho, dành cho\n3. Vô dụng (khi đi kèm phủ định)"
+  },
+  {
+    "kanji": "公務員",
+    "readings": [
+      "こうむいん",
+      "koumuin"
+    ],
+    "meaning": "CÔNG VỤ VIÊN\nCông chức, viên chức nhà nước"
+  },
+  {
+    "kanji": "お嬢さん",
+    "readings": [
+      "おじょうさん",
+      "ojousan"
+    ],
+    "meaning": "1. Con gái (của người khác)\n2. Cô gái trẻ\n3. Tiểu thư"
+  },
+  {
+    "kanji": "用意",
+    "readings": [
+      "ようい",
+      "youi"
+    ],
+    "meaning": "DỤNG Ý\nSự chuẩn bị, sự sửa soạn"
+  },
+  {
+    "kanji": "探す",
+    "readings": [
+      "さがす",
+      "sagasu"
+    ],
+    "meaning": "1. Tìm kiếm\n2. Lục lọi, lục soát"
+  },
+  {
+    "kanji": "形",
+    "readings": [
+      "かたち",
+      "katachi"
+    ],
+    "meaning": "HÌNH\n1. Hình dáng, hình thù\n2. Kiểu dáng, mẫu mã"
+  },
+  {
+    "kanji": "運転",
+    "readings": [
+      "うんてん",
+      "unten"
+    ],
+    "meaning": "VẬN CHUYỂN\n1. Sự lái xe\n2. Sự vận hành máy móc"
+  },
+  {
+    "kanji": "お土産",
+    "readings": [
+      "おみやげ",
+      "omiyage"
+    ],
+    "meaning": "1. Quà tặng, quà lưu niệm\n2. Đặc sản địa phương"
+  },
+  {
+    "kanji": "消しゴム",
+    "readings": [
+      "けしゴム",
+      "keshiゴム"
+    ],
+    "meaning": "Cục tẩy, gôm tẩy"
+  },
+  {
+    "kanji": "旅館",
+    "readings": [
+      "りょかん",
+      "ryokan"
+    ],
+    "meaning": "LỮ QUÁN\nNhà trọ kiểu Nhật"
+  },
+  {
+    "kanji": "海岸",
+    "readings": [
+      "かいがん",
+      "kaigan"
+    ],
+    "meaning": "HẢI NGẠN\n1. Bờ biển\n2. Ven biển"
+  },
+  {
+    "kanji": "寂しい",
+    "readings": [
+      "さびしい",
+      "sabishii"
+    ],
+    "meaning": "1. Buồn, cô đơn, cô quạnh\n2. Vắng vẻ, hiu quạnh (nơi chốn)\n3. Thiếu thốn, không đủ đầy"
+  },
+  {
+    "kanji": "火",
+    "readings": [
+      "ひ",
+      "hi"
+    ],
+    "meaning": "HỎA\nLửa"
+  },
+  {
+    "kanji": "育てる",
+    "readings": [
+      "そだてる",
+      "sodateru"
+    ],
+    "meaning": "1. Nuôi nấng, nuôi dạy (con cái)\n2. Nuôi trồng (cây cối, động vật)\n3. Đào tạo, bồi dưỡng (nhân tài)"
+  },
+  {
+    "kanji": "味噌",
+    "readings": [
+      "みそ",
+      "miso"
+    ],
+    "meaning": "VỊ TẰNG\n1. Tương miso (làm từ đậu nành)\n2. Điểm mấu chốt, điểm quan trọng"
+  },
+  {
+    "kanji": "お祝い",
+    "readings": [
+      "おいわい",
+      "oiwai"
+    ],
+    "meaning": "1. Sự chúc mừng\n2. Quà mừng, tiền mừng"
+  },
+  {
+    "kanji": "乗り物",
+    "readings": [
+      "のりもの",
+      "norimono"
+    ],
+    "meaning": "Phương tiện giao thông"
+  },
+  {
+    "kanji": "案内",
+    "readings": [
+      "あんない",
+      "annai"
+    ],
+    "meaning": "ÁN NỘI\nSự hướng dẫn, sự chỉ dẫn, thông tin"
+  },
+  {
+    "kanji": "通う",
+    "readings": [
+      "かよう",
+      "kayou"
+    ],
+    "meaning": "1. Đi lại thường xuyên (đến trường, nơi làm việc)\n2. Lui tới, qua lại\n3. Thông suốt, hiểu được cảm xúc của nhau"
+  },
+  {
+    "kanji": "連れる",
+    "readings": [
+      "つれる",
+      "tsureru"
+    ],
+    "meaning": "1. Dẫn, dắt (người hoặc động vật đi cùng)\n2. Kéo theo, dẫn theo"
+  },
+  {
+    "kanji": "技術",
+    "readings": [
+      "ぎじゅつ",
+      "gijutsu"
+    ],
+    "meaning": "KĨ THUẬT\nKỹ thuật"
+  },
+  {
+    "kanji": "小鳥",
+    "readings": [
+      "ことり",
+      "kotori"
+    ],
+    "meaning": "TIỂU ĐIỂU\nChim nhỏ"
+  },
+  {
+    "kanji": "下宿",
+    "readings": [
+      "げしゅく",
+      "geshuku"
+    ],
+    "meaning": "HẠ TÚC\nNhà trọ"
+  },
+  {
+    "kanji": "招待",
+    "readings": [
+      "しょうたい",
+      "shoutai"
+    ],
+    "meaning": "CHIÊU ĐÃI\nSự mời, lời mời"
+  },
+  {
+    "kanji": "鏡",
+    "readings": [
+      "かがみ",
+      "kagami"
+    ],
+    "meaning": "KÍNH\n1. Cái gương, gương soi\n2. Gương mẫu, tấm gương (nghĩa bóng)"
+  },
+  {
+    "kanji": "法律",
+    "readings": [
+      "ほうりつ",
+      "houritsu"
+    ],
+    "meaning": "PHÁP LUẬT\nPháp luật, đạo luật"
+  },
+  {
+    "kanji": "進む",
+    "readings": [
+      "すすむ",
+      "susumu"
+    ],
+    "meaning": "1. Tiến lên, đi tới\n2. Tiến triển, tiến bộ\n3. Dấn sâu vào (nghiên cứu, con đường...)"
+  },
+  {
+    "kanji": "楽む",
+    "readings": [
+      "たのしむ",
+      "tanoshimu"
+    ],
+    "meaning": "Tận hưởng, vui chơi"
+  },
+  {
+    "kanji": "貿易",
+    "readings": [
+      "ぼうえき",
+      "boueki"
+    ],
+    "meaning": "MẬU DỊCH\nNgoại thương, thương mại quốc tế"
+  },
+  {
+    "kanji": "反対",
+    "readings": [
+      "はんたい",
+      "hantai"
+    ],
+    "meaning": "PHẢN ĐỐI\n1. Đối diện, phía đối diện\n2. Ngược lại, trái ngược"
+  },
+  {
+    "kanji": "申す",
+    "readings": [
+      "もうす",
+      "mousu"
+    ],
+    "meaning": "Nói, gọi là (khiêm nhường ngữ)"
+  },
+  {
+    "kanji": "試験",
+    "readings": [
+      "しけん",
+      "shiken"
+    ],
+    "meaning": "THÍ NGHIỆM\n1. Kỳ thi, bài kiểm tra\n2. Thí nghiệm, kiểm tra chất lượng"
+  },
+  {
+    "kanji": "真面目",
+    "readings": [
+      "まじめ",
+      "majime"
+    ],
+    "meaning": "CHÂN DIỆN MỤC\nSự nghiêm túc, sự chăm chỉ"
+  },
+  {
+    "kanji": "店員",
+    "readings": [
+      "てんいん",
+      "ten'in"
+    ],
+    "meaning": "ĐIẾM VIÊN\nNhân viên bán hàng"
+  },
+  {
+    "kanji": "泊まる",
+    "readings": [
+      "とまる",
+      "tomaru"
+    ],
+    "meaning": "1. Trú lại, ở lại qua đêm\n2. Đỗ lại (tàu thuyền)"
+  },
+  {
+    "kanji": "今夜",
+    "readings": [
+      "こんや",
+      "konya"
+    ],
+    "meaning": "KIM DẠ\nTối nay, đêm nay"
+  },
+  {
+    "kanji": "会話",
+    "readings": [
+      "かいわ",
+      "kaiwa"
+    ],
+    "meaning": "HỘI THOẠI\nHội thoại, đối thoại"
+  },
+  {
+    "kanji": "空気",
+    "readings": [
+      "くうき",
+      "kuuki"
+    ],
+    "meaning": "KHÔNG KHÍ\nKhông khí"
+  },
+  {
+    "kanji": "交通",
+    "readings": [
+      "こうつう",
+      "koutsuu"
+    ],
+    "meaning": "GIAO THÔNG\nGiao thông"
+  },
+  {
+    "kanji": "喜ぶ",
+    "readings": [
+      "よろこぶ",
+      "yorokobu"
+    ],
+    "meaning": "1. Vui mừng, phấn khởi\n2. Sẵn lòng, vui vẻ làm gì đó"
+  },
+  {
+    "kanji": "急行",
+    "readings": [
+      "きゅうこう",
+      "kyuukou"
+    ],
+    "meaning": "CẤP HÀNH\nTốc hành, sự di chuyển nhanh"
+  },
+  {
+    "kanji": "皆",
+    "readings": [
+      "みな",
+      "mina"
+    ],
+    "meaning": "GIAI\n1. Tất cả mọi người\n2. Hết thảy, toàn bộ"
+  },
+  {
+    "kanji": "味",
+    "readings": [
+      "あじ",
+      "aji"
+    ],
+    "meaning": "VỊ\n1. Vị, mùi vị\n2. Hương vị (của món ăn)\n3. Ý nghĩa, sự thú vị"
+  },
+  {
+    "kanji": "空港",
+    "readings": [
+      "くうこう",
+      "kuukou"
+    ],
+    "meaning": "KHÔNG CẢNG\nSân bay, phi trường"
+  },
+  {
+    "kanji": "手袋",
+    "readings": [
+      "てぶくろ",
+      "tebukuro"
+    ],
+    "meaning": "THỦ ĐẠI\nGăng tay, bao tay"
+  },
+  {
+    "kanji": "校長",
+    "readings": [
+      "こうちょう",
+      "kouchou"
+    ],
+    "meaning": "GIÁO TRƯỜNG\nHiệu trưởng"
+  },
+  {
+    "kanji": "踊り",
+    "readings": [
+      "おどり",
+      "odori"
+    ],
+    "meaning": "Điệu múa, sự nhảy múa"
+  },
+  {
+    "kanji": "興味",
+    "readings": [
+      "きょうみ",
+      "kyoumi"
+    ],
+    "meaning": "HƯNG VỊ\nSự hứng thú, sự quan tâm"
+  },
+  {
+    "kanji": "引っ越す",
+    "readings": [
+      "ひっこす",
+      "hikkosu"
+    ],
+    "meaning": "Chuyển nhà, dọn nhà"
+  },
+  {
+    "kanji": "冷房",
+    "readings": [
+      "れいぼう",
+      "reibou"
+    ],
+    "meaning": "LÃNH PHÒNG\nLàm mát, điều hòa không khí"
+  },
+  {
+    "kanji": "都合",
+    "readings": [
+      "つごう",
+      "tsugou"
+    ],
+    "meaning": "ĐÔ HỢP\n1. Sự thuận tiện, sự thuận lợi\n2. Hoàn cảnh, tình huống"
+  },
+  {
+    "kanji": "遠慮",
+    "readings": [
+      "えんりょ",
+      "enryo"
+    ],
+    "meaning": "VIỄN LỰ\n1. Khách khí, dè dặt\n2. Ngại ngần, giữ ý"
+  },
+  {
+    "kanji": "亡くなる",
+    "readings": [
+      "なくなる",
+      "nakunaru"
+    ],
+    "meaning": "Qua đời, mất (cách nói giảm nói tránh)"
+  },
+  {
+    "kanji": "科学",
+    "readings": [
+      "かがく",
+      "kagaku"
+    ],
+    "meaning": "KHOA HỌC\nKhoa học"
+  },
+  {
+    "kanji": "差し上げる",
+    "readings": [
+      "さしあげる",
+      "sashiageru"
+    ],
+    "meaning": "Tặng, biếu (khiêm nhường ngữ)"
+  },
+  {
+    "kanji": "気持ち",
+    "readings": [
+      "きもち",
+      "kimochi"
+    ],
+    "meaning": "1. Cảm giác, tâm trạng\n2. Tấm lòng, thiện chí"
+  },
+  {
+    "kanji": "祖父",
+    "readings": [
+      "そふ",
+      "sofu"
+    ],
+    "meaning": "TỔ PHỤ\nÔng (nội/ngoại)"
+  },
+  {
+    "kanji": "港",
+    "readings": [
+      "みなと",
+      "minato"
+    ],
+    "meaning": "CẢNG\nCảng"
+  },
+  {
+    "kanji": "予約",
+    "readings": [
+      "よやく",
+      "yoyaku"
+    ],
+    "meaning": "DƯ ƯỚC\nSự đặt trước, sự hẹn trước"
+  },
+  {
+    "kanji": "凄い",
+    "readings": [
+      "すごい",
+      "sugoi"
+    ],
+    "meaning": "1. Kinh khủng, khủng khiếp\n2. Xuất sắc, tuyệt vời, đáng kinh ngạc"
+  },
+  {
+    "kanji": "入学",
+    "readings": [
+      "にゅうがく",
+      "nyuugaku"
+    ],
+    "meaning": "NHẬP HỌC\nViệc nhập học"
+  },
+  {
+    "kanji": "片付ける",
+    "readings": [
+      "かたづける",
+      "katazukeru"
+    ],
+    "meaning": "Sắp xếp, dọn dẹp"
+  },
+  {
+    "kanji": "写す",
+    "readings": [
+      "うつす",
+      "utsusu"
+    ],
+    "meaning": "1. Chép lại, sao chép\n2. Chụp (ảnh)\n3. Phản chiếu, phản ánh\n4. Mô tả, miêu tả"
+  },
+  {
+    "kanji": "部長",
+    "readings": [
+      "ぶちょう",
+      "buchou"
+    ],
+    "meaning": "BỘ TRƯỜNG\nTrưởng phòng, trưởng bộ phận"
+  },
+  {
+    "kanji": "火事",
+    "readings": [
+      "かじ",
+      "kaji"
+    ],
+    "meaning": "HỎA SỰ\nHỏa hoạn, cháy nhà"
+  },
+  {
+    "kanji": "足す",
+    "readings": [
+      "たす",
+      "tasu"
+    ],
+    "meaning": "1. Cộng vào (toán học)\n2. Thêm vào, bổ sung"
+  },
+  {
+    "kanji": "教会",
+    "readings": [
+      "きょうかい",
+      "kyoukai"
+    ],
+    "meaning": "GIÁO HỘI\nNhà thờ, giáo đường"
+  },
+  {
+    "kanji": "彼ら",
+    "readings": [
+      "かれら",
+      "karera"
+    ],
+    "meaning": "Họ, các anh ấy, bọn họ"
+  },
+  {
+    "kanji": "一杯",
+    "readings": [
+      "いっぱい",
+      "ippai"
+    ],
+    "meaning": "NHẤT BÔI\n1. Đầy\n2. No nê\n3. Một cốc, một chén"
+  },
+  {
+    "kanji": "男性",
+    "readings": [
+      "だんせい",
+      "dansei"
+    ],
+    "meaning": "NAM TÍNH\nNam giới, đàn ông"
+  },
+  {
+    "kanji": "理由",
+    "readings": [
+      "りゆう",
+      "riyuu"
+    ],
+    "meaning": "LÍ DO\nLý do, nguyên do, nguyên nhân"
+  },
+  {
+    "kanji": "生産",
+    "readings": [
+      "せいさん",
+      "seisan"
+    ],
+    "meaning": "SANH SẢN\n1. Sản xuất\n2. Sinh sản"
+  },
+  {
+    "kanji": "着物",
+    "readings": [
+      "きもの",
+      "kimono"
+    ],
+    "meaning": "TRỨ VẬT\nÁo Kimono (trang phục truyền thống Nhật Bản)"
+  },
+  {
+    "kanji": "暮れる",
+    "readings": [
+      "くれる",
+      "kureru"
+    ],
+    "meaning": "1. Lặn (mặt trời)\n2. Hết (ngày, năm, mùa)"
+  },
+  {
+    "kanji": "釣る",
+    "readings": [
+      "つる",
+      "tsuru"
+    ],
+    "meaning": "1. Câu (cá)\n2. Dụ dỗ, lôi kéo (nghĩa bóng)"
+  },
+  {
+    "kanji": "打つ",
+    "readings": [
+      "うつ",
+      "utsu"
+    ],
+    "meaning": "1. Đánh, đập, vỗ\n2. Gõ (bàn phím)\n3. Đóng (đinh)\n4. Tiêm (thuốc)\n5. Gửi (điện tín)"
+  },
+  {
+    "kanji": "謝る",
+    "readings": [
+      "あやまる",
+      "ayamaru"
+    ],
+    "meaning": "1. Xin lỗi\n2. Tạ lỗi"
+  },
+  {
+    "kanji": "昼間",
+    "readings": [
+      "ひるま",
+      "hiruma"
+    ],
+    "meaning": "TRÚ GIAN\nBan ngày"
+  },
+  {
+    "kanji": "教育",
+    "readings": [
+      "きょういく",
+      "kyouiku"
+    ],
+    "meaning": "GIÁO DỤC\nGiáo dục, dạy dỗ, đào tạo"
+  },
+  {
+    "kanji": "女性",
+    "readings": [
+      "じょせい",
+      "josei"
+    ],
+    "meaning": "NỮ TÍNH\nPhụ nữ, nữ giới"
+  },
+  {
+    "kanji": "米",
+    "readings": [
+      "こめ",
+      "kome"
+    ],
+    "meaning": "MỄ\n1. Gạo\n2. Nước Mỹ (viết tắt)"
+  },
+  {
+    "kanji": "邪魔",
+    "readings": [
+      "じゃま",
+      "jama"
+    ],
+    "meaning": "TÀ MA\n1. Sự cản trở, trở ngại\n2. Sự quấy rầy, làm phiền"
+  },
+  {
+    "kanji": "国際",
+    "readings": [
+      "こくさい",
+      "kokusai"
+    ],
+    "meaning": "QUỐC TẾ\nQuốc tế"
+  },
+  {
+    "kanji": "隅",
+    "readings": [
+      "すみ",
+      "sumi"
+    ],
+    "meaning": "NGUNG\nGóc, xó xỉnh"
+  },
+  {
+    "kanji": "伺う",
+    "readings": [
+      "うかがう",
+      "ukagau"
+    ],
+    "meaning": "1. Đến thăm (khiêm nhường ngữ)\n2. Hỏi, nghe (khiêm nhường ngữ)\n3. Thăm hỏi (khiêm nhường ngữ)"
+  },
+  {
+    "kanji": "再来週",
+    "readings": [
+      "さらいしゅう",
+      "saraishuu"
+    ],
+    "meaning": "TÁI LAI CHU\nTuần sau nữa (hai tuần sau)"
+  },
+  {
+    "kanji": "夢",
+    "readings": [
+      "ゆめ",
+      "yume"
+    ],
+    "meaning": "MỘNG\n1. Giấc mơ (khi ngủ)\n2. Ước mơ, hoài bão"
+  },
+  {
+    "kanji": "喉",
+    "readings": [
+      "のど",
+      "nodo"
+    ],
+    "meaning": "HẦU\n1. Cổ họng\n2. Họng"
+  },
+  {
+    "kanji": "最近",
+    "readings": [
+      "さいきん",
+      "saikin"
+    ],
+    "meaning": "TỐI CẬN\n1. Gần đây, mới đây\n2. Gần nhất (về khoảng cách)"
+  },
+  {
+    "kanji": "周り",
+    "readings": [
+      "まわり",
+      "mawari"
+    ],
+    "meaning": "Xung quanh, vùng lân cận"
+  },
+  {
+    "kanji": "歴史",
+    "readings": [
+      "れきし",
+      "rekishi"
+    ],
+    "meaning": "LỊCH SỬ\nLịch sử"
+  },
+  {
+    "kanji": "不便",
+    "readings": [
+      "ふべん",
+      "fuben"
+    ],
+    "meaning": "BẤT TIỆN\nBất tiện, không thuận lợi"
+  },
+  {
+    "kanji": "血",
+    "readings": [
+      "ち",
+      "chi"
+    ],
+    "meaning": "HUYẾT\nMáu"
+  },
+  {
+    "kanji": "～続ける",
+    "readings": [
+      "～つづける",
+      "～tsuzukeru"
+    ],
+    "meaning": "Tiếp tục, làm liên tục"
+  },
+  {
+    "kanji": "毛",
+    "readings": [
+      "け",
+      "ke"
+    ],
+    "meaning": "MAO\n1. Lông (trên cơ thể động vật)\n2. Tóc (trên đầu người)"
+  },
+  {
+    "kanji": "例えば",
+    "readings": [
+      "たとえば",
+      "tatoeba"
+    ],
+    "meaning": "Ví dụ như, chẳng hạn như"
+  },
+  {
+    "kanji": "中々",
+    "readings": [
+      "なかなか",
+      "nakanaka"
+    ],
+    "meaning": "TRUNG\n1. Rất, khá là (trong câu khẳng định)\n2. Mãi mà không (trong câu phủ định)"
+  },
+  {
+    "kanji": "随分",
+    "readings": [
+      "ずいぶん",
+      "zuibun"
+    ],
+    "meaning": "TÙY PHÂN\n1. Tương đối, khá\n2. Rất nhiều, quá mức bình thường"
+  },
+  {
+    "kanji": "押し入れ",
+    "readings": [
+      "おしいれ",
+      "oshiire"
+    ],
+    "meaning": "Tủ âm tường (kiểu Nhật)"
+  },
+  {
+    "kanji": "電灯",
+    "readings": [
+      "でんとう",
+      "dentou"
+    ],
+    "meaning": "ĐIỆN ĐĂNG\nĐèn điện"
+  },
+  {
+    "kanji": "叱る",
+    "readings": [
+      "しかる",
+      "shikaru"
+    ],
+    "meaning": "Mắng mỏ, quở trách, la rầy"
+  },
+  {
+    "kanji": "変える",
+    "readings": [
+      "かえる",
+      "kaeru"
+    ],
+    "meaning": "Thay đổi, làm cho khác đi"
+  },
+  {
+    "kanji": "講堂",
+    "readings": [
+      "こうどう",
+      "koudou"
+    ],
+    "meaning": "GIẢNG ĐƯỜNG\nGiảng đường, hội trường"
+  },
+  {
+    "kanji": "子",
+    "readings": [
+      "こ",
+      "ko"
+    ],
+    "meaning": "TỬ\n1. Đứa trẻ, con cái\n2. Con nhỏ (động vật)\n3. Hậu tố chỉ người hoặc vật nhỏ"
+  },
+  {
+    "kanji": "沸かす",
+    "readings": [
+      "わかす",
+      "wakasu"
+    ],
+    "meaning": "1. Đun sôi (nước)\n2. Làm nóng (bồn tắm)\n3. Làm sôi sục (không khí, đám đông)"
+  },
+  {
+    "kanji": "特に",
+    "readings": [
+      "とくに",
+      "tokuni"
+    ],
+    "meaning": "Đặc biệt là, nhất là"
+  },
+  {
+    "kanji": "空く",
+    "readings": [
+      "あく",
+      "aku"
+    ],
+    "meaning": "1. Trống trải, không có người sử dụng\n2. Rỗi rãi, có thời gian trống\n3. Trở nên trống rỗng\n4. Đói bụng"
+  },
+  {
+    "kanji": "計画",
+    "readings": [
+      "けいかく",
+      "keikaku"
+    ],
+    "meaning": "KẾ HỌA\n1. Kế hoạch\n2. Dự định, phương án"
+  },
+  {
+    "kanji": "通り",
+    "readings": [
+      "とおり",
+      "toori"
+    ],
+    "meaning": "1. Đường đi, phố xá\n2. Sự đi qua, sự lưu thông\n3. Giống như, theo như"
+  },
+  {
+    "kanji": "下着",
+    "readings": [
+      "したぎ",
+      "shitagi"
+    ],
+    "meaning": "HẠ TRỨ\nĐồ lót, quần áo lót"
+  },
+  {
+    "kanji": "経済",
+    "readings": [
+      "けいざい",
+      "keizai"
+    ],
+    "meaning": "KINH TẾ\n1. Kinh tế\n2. Sự tiết kiệm (chi tiêu)"
+  },
+  {
+    "kanji": "是非",
+    "readings": [
+      "ぜひ",
+      "zehi"
+    ],
+    "meaning": "THỊ PHI\n1. Đúng sai, phải trái\n2. Nhất định, bằng mọi giá (dùng để nhấn mạnh mong muốn)"
+  },
+  {
+    "kanji": "裏",
+    "readings": [
+      "うら",
+      "ura"
+    ],
+    "meaning": "LÍ\n1. Mặt trái, mặt sau\n2. Phía sau (của sự việc, con người)\n3. Lớp lót (quần áo)"
+  },
+  {
+    "kanji": "為",
+    "readings": [
+      "ため",
+      "tame"
+    ],
+    "meaning": "VI\n1. Vì, để\n2. Mục đích, lợi ích"
+  },
+  {
+    "kanji": "変わる",
+    "readings": [
+      "かわる",
+      "kawaru"
+    ],
+    "meaning": "Thay đổi, biến đổi"
+  },
+  {
+    "kanji": "以外",
+    "readings": [
+      "いがい",
+      "igai"
+    ],
+    "meaning": "DĨ NGOẠI\nNgoài ra, ngoại trừ"
+  },
+  {
+    "kanji": "済む",
+    "readings": [
+      "すむ",
+      "sumu"
+    ],
+    "meaning": "1. Kết thúc, hoàn tất\n2. Xong xuôi, ổn thỏa"
+  },
+  {
+    "kanji": "市",
+    "readings": [
+      "し",
+      "shi"
+    ],
+    "meaning": "THỊ\nPhiên chợ, hội chợ"
+  },
+  {
+    "kanji": "引き出し",
+    "readings": [
+      "ひきだし",
+      "hikidashi"
+    ],
+    "meaning": "1. Ngăn kéo\n2. Sự rút tiền (từ ngân hàng)"
+  },
+  {
+    "kanji": "遊び",
+    "readings": [
+      "あそび",
+      "asobi"
+    ],
+    "meaning": "1. Sự vui chơi, giải trí\n2. Trò chơi\n3. Sự lỏng lẻo, độ rơ (cơ khí)"
+  },
+  {
+    "kanji": "支度",
+    "readings": [
+      "したく",
+      "shitaku"
+    ],
+    "meaning": "CHI ĐỘ\nSự chuẩn bị, sửa soạn"
+  },
+  {
+    "kanji": "～始める",
+    "readings": [
+      "～はじめる",
+      "～hajimeru"
+    ],
+    "meaning": "1. Bắt đầu, khởi đầu (tha động từ)\n2. Mở màn"
+  },
+  {
+    "kanji": "見える",
+    "readings": [
+      "みえる",
+      "mieru"
+    ],
+    "meaning": "1. Nhìn thấy, thấy được\n2. Trông có vẻ, có vẻ như\n3. Đến (kính ngữ)"
+  },
+  {
+    "kanji": "十分",
+    "readings": [
+      "じゅうぶん",
+      "juubun"
+    ],
+    "meaning": "THẬP PHÂN\n1. Mười phút\n2. Đầy đủ, trọn vẹn"
+  },
+  {
+    "kanji": "音",
+    "readings": [
+      "おと",
+      "oto"
+    ],
+    "meaning": "ÂM\n1. Âm thanh, tiếng động\n2. Âm (trong ngôn ngữ)"
+  },
+  {
+    "kanji": "遠く",
+    "readings": [
+      "とおく",
+      "tooku"
+    ],
+    "meaning": "Nơi xa, phía xa"
+  },
+  {
+    "kanji": "大体",
+    "readings": [
+      "だいたい",
+      "daitai"
+    ],
+    "meaning": "ĐẠI THỂ\n1. Đại khái, tóm lược\n2. Ước chừng, cỡ chừng"
+  },
+  {
+    "kanji": "折れる",
+    "readings": [
+      "おれる",
+      "oreru"
+    ],
+    "meaning": "1. Bị gãy, bị vỡ\n2. Bị gấp, bị gập\n3. Rẽ (hướng đi)\n4. Nhượng bộ, chịu thua"
+  },
+  {
+    "kanji": "正しい",
+    "readings": [
+      "ただしい",
+      "tadashii"
+    ],
+    "meaning": "Đúng, chính xác, đúng đắn, chân thật"
+  },
+  {
+    "kanji": "輸入",
+    "readings": [
+      "ゆにゅう",
+      "yunyuu"
+    ],
+    "meaning": "THÂU NHẬP\nSự nhập khẩu"
+  },
+  {
+    "kanji": "返事",
+    "readings": [
+      "へんじ",
+      "henji"
+    ],
+    "meaning": "PHẢN SỰ\nSự trả lời, sự đáp lời"
+  },
+  {
+    "kanji": "都",
+    "readings": [
+      "と",
+      "to"
+    ],
+    "meaning": "ĐÔ\nThủ đô"
+  },
+  {
+    "kanji": "産業",
+    "readings": [
+      "さんぎょう",
+      "sangyou"
+    ],
+    "meaning": "SẢN NGHIỆP\n1. Công nghiệp\n2. Ngành nghề kinh doanh"
+  },
+  {
+    "kanji": "伝える",
+    "readings": [
+      "つたえる",
+      "tsutaeru"
+    ],
+    "meaning": "1. Truyền đạt, nhắn lại\n2. Truyền lại (kiến thức, văn hóa)\n3. Dạy dỗ, hướng dẫn"
+  },
+  {
+    "kanji": "お金持ち",
+    "readings": [
+      "かねもち; おかねもち",
+      "kanemochi; okanemochi"
+    ],
+    "meaning": "Người giàu, người có tiền"
+  },
+  {
+    "kanji": "説明",
+    "readings": [
+      "せつめい",
+      "setsumei"
+    ],
+    "meaning": "THUYẾT MINH\nSự thuyết minh, sự giải thích"
+  },
+  {
+    "kanji": "島",
+    "readings": [
+      "しま",
+      "shima"
+    ],
+    "meaning": "ĐẢO\nĐảo, hòn đảo"
+  },
+  {
+    "kanji": "道具",
+    "readings": [
+      "どうぐ",
+      "dougu"
+    ],
+    "meaning": "ĐẠO CỤ\nDụng cụ, đồ dùng, phương tiện"
+  },
+  {
+    "kanji": "滑る",
+    "readings": [
+      "すべる",
+      "suberu"
+    ],
+    "meaning": "1. Trượt, trượt chân\n2. Trơn\n3. Lướt đi\n4. Trượt (thi cử)"
+  },
+  {
+    "kanji": "以上",
+    "readings": [
+      "いじょう",
+      "ijou"
+    ],
+    "meaning": "DĨ THƯỢNG\n1. Hơn, trên (số lượng, mức độ)\n2. Như đã nêu trên (văn bản)"
+  },
+  {
+    "kanji": "特急",
+    "readings": [
+      "とっきゅう",
+      "tokkyuu"
+    ],
+    "meaning": "ĐẶC CẤP\n1. Sự hỏa tốc, sự khẩn cấp\n2. Tàu tốc hành đặc biệt"
+  },
+  {
+    "kanji": "妻",
+    "readings": [
+      "つま",
+      "tsuma"
+    ],
+    "meaning": "THÊ\nVợ (của mình)"
+  },
+  {
+    "kanji": "帰り",
+    "readings": [
+      "かえり",
+      "kaeri"
+    ],
+    "meaning": "1. Sự trở về\n2. Chiều về (ví dụ: chuyến tàu chiều về)"
+  },
+  {
+    "kanji": "具合",
+    "readings": [
+      "ぐあい",
+      "guai"
+    ],
+    "meaning": "CỤ HỢP\n1. Tình trạng, trạng thái\n2. Cách thức, phương thức\n3. Tình hình sức khỏe"
+  },
+  {
+    "kanji": "堅; 硬; 固い",
+    "readings": [
+      "かたい",
+      "katai"
+    ],
+    "meaning": "KIÊN\n1. Sự bền vững, sự chắc chắn\n2. Áo giáp"
+  },
+  {
+    "kanji": "駐車場",
+    "readings": [
+      "ちゅうしゃじょう",
+      "chuushajou"
+    ],
+    "meaning": "TRÚ XA TRÀNG\nBãi đỗ xe"
+  },
+  {
+    "kanji": "危険",
+    "readings": [
+      "きけん",
+      "kiken"
+    ],
+    "meaning": "NGUY HIỂM\n1. Sự nguy hiểm\n2. Rủi ro"
+  },
+  {
+    "kanji": "髪",
+    "readings": [
+      "かみ",
+      "kami"
+    ],
+    "meaning": "PHÁT\nTóc"
+  },
+  {
+    "kanji": "天気予報",
+    "readings": [
+      "てんきよほう",
+      "tenkiyohou"
+    ],
+    "meaning": "THIÊN KHÍ DƯ BÁO\nDự báo thời tiết"
+  },
+  {
+    "kanji": "彼女",
+    "readings": [
+      "かのじょ",
+      "kanojo"
+    ],
+    "meaning": "BỈ NỮ\n1. Cô ấy, bà ấy (đại từ nhân xưng ngôi thứ ba)\n2. Bạn gái, người yêu (nữ)"
+  },
+  {
+    "kanji": "間",
+    "readings": [
+      "あいだ",
+      "aida"
+    ],
+    "meaning": "GIAN\n1. Giữa\n2. Trong khoảng (thời gian hoặc không gian)"
+  },
+  {
+    "kanji": "卒業",
+    "readings": [
+      "そつぎょう",
+      "sotsugyou"
+    ],
+    "meaning": "TỐT NGHIỆP\nSự tốt nghiệp"
+  },
+  {
+    "kanji": "枝",
+    "readings": [
+      "えだ",
+      "eda"
+    ],
+    "meaning": "CHI\nCành cây, nhánh cây"
+  },
+  {
+    "kanji": "専門",
+    "readings": [
+      "せんもん",
+      "senmon"
+    ],
+    "meaning": "CHUYÊN MÔN\nChuyên môn"
+  },
+  {
+    "kanji": "送る",
+    "readings": [
+      "おくる",
+      "okuru"
+    ],
+    "meaning": "1. Gửi, chuyển đi\n2. Tiễn đưa, tiễn biệt\n3. Trải qua (thời gian, cuộc sống)"
+  },
+  {
+    "kanji": "騒ぐ",
+    "readings": [
+      "さわぐ",
+      "sawagu"
+    ],
+    "meaning": "1. Gây ồn ào, làm om xòm\n2. Đùa nghịch, làm loạn\n3. Quấy rầy"
+  },
+  {
+    "kanji": "尋ねる",
+    "readings": [
+      "たずねる",
+      "tazuneru"
+    ],
+    "meaning": "1. Hỏi, hỏi thăm\n2. Thăm hỏi, ghé thăm"
+  },
+  {
+    "kanji": "放送",
+    "readings": [
+      "ほうそう",
+      "housou"
+    ],
+    "meaning": "PHÓNG TỐNG\nSự phát thanh, sự phát sóng (truyền hình, radio)"
+  },
+  {
+    "kanji": "政治",
+    "readings": [
+      "せいじ",
+      "seiji"
+    ],
+    "meaning": "CHÁNH TRÌ\nChính trị"
+  },
+  {
+    "kanji": "市民",
+    "readings": [
+      "しみん",
+      "shimin"
+    ],
+    "meaning": "THỊ DÂN\nThị dân, người dân thành phố"
+  },
+  {
+    "kanji": "負ける",
+    "readings": [
+      "まける",
+      "makeru"
+    ],
+    "meaning": "1. Thua, thất bại\n2. Giảm giá (khi mặc cả)\n3. Không chịu nổi (trước cám dỗ, thời tiết...)"
+  },
+  {
+    "kanji": "指輪",
+    "readings": [
+      "ゆびわ",
+      "yubiwa"
+    ],
+    "meaning": "CHỈ LUÂN\nNhẫn"
+  },
+  {
+    "kanji": "田舎",
+    "readings": [
+      "いなか",
+      "inaka"
+    ],
+    "meaning": "ĐIỀN XÁ\n1. Nông thôn, vùng quê\n2. Quê hương, quê nhà"
+  },
+  {
+    "kanji": "見つける",
+    "readings": [
+      "みつける",
+      "mitsukeru"
+    ],
+    "meaning": "1. Tìm thấy, tìm ra\n2. Bắt gặp\n3. Tìm kiếm"
+  },
+  {
+    "kanji": "高校生",
+    "readings": [
+      "こうこうせい",
+      "koukousei"
+    ],
+    "meaning": "CAO GIÁO SANH\nHọc sinh trung học phổ thông"
+  },
+  {
+    "kanji": "講義",
+    "readings": [
+      "こうぎ",
+      "kougi"
+    ],
+    "meaning": "GIẢNG NGHĨA\n1. Bài giảng (ở trường đại học)\n2. Sự giảng giải, giải thích"
+  },
+  {
+    "kanji": "昼休み",
+    "readings": [
+      "ひるやすみ",
+      "hiruyasumi"
+    ],
+    "meaning": "Giờ nghỉ trưa"
+  },
+  {
+    "kanji": "忘れ物",
+    "readings": [
+      "わすれもの",
+      "wasuremono"
+    ],
+    "meaning": "Đồ bị bỏ quên, vật bị để quên"
+  },
+  {
+    "kanji": "下りる",
+    "readings": [
+      "おりる",
+      "oriru"
+    ],
+    "meaning": "1. Đi xuống, hạ xuống\n2. Nhận được (sự cho phép, phê duyệt)"
+  },
+  {
+    "kanji": "腕",
+    "readings": [
+      "うで",
+      "ude"
+    ],
+    "meaning": "OẢN\n1. Cánh tay\n2. Tay nghề, năng lực"
+  },
+  {
+    "kanji": "訳",
+    "readings": [
+      "わけ",
+      "wake"
+    ],
+    "meaning": "DỊCH\nLý do, nguyên nhân"
+  },
+  {
+    "kanji": "承知",
+    "readings": [
+      "しょうち",
+      "shouchi"
+    ],
+    "meaning": "THỪA TRI\n1. Sự hiểu rõ, biết rõ\n2. Sự chấp nhận, đồng ý"
+  },
+  {
+    "kanji": "日記",
+    "readings": [
+      "にっき",
+      "nikki"
+    ],
+    "meaning": "NHẬT KÍ\nNhật ký"
+  },
+  {
+    "kanji": "高校; 高等学校",
+    "readings": [
+      "こうこう; こうとうがっこう",
+      "koukou; koutougakkou"
+    ],
+    "meaning": "CAO GIÁO\nTrường trung học phổ thông"
+  },
+  {
+    "kanji": "似る",
+    "readings": [
+      "にる",
+      "niru"
+    ],
+    "meaning": "Giống, tựa như"
+  },
+  {
+    "kanji": "暖房",
+    "readings": [
+      "だんぼう",
+      "danbou"
+    ],
+    "meaning": "NOÃN PHÒNG\nHệ thống sưởi, sự sưởi ấm"
+  },
+  {
+    "kanji": "留守",
+    "readings": [
+      "るす",
+      "rusu"
+    ],
+    "meaning": "LƯU THỦ\nSự vắng nhà"
+  },
+  {
+    "kanji": "割合",
+    "readings": [
+      "わりあい",
+      "wariai"
+    ],
+    "meaning": "CÁT HỢP\n1. Tỷ lệ\n2. Tương đối (so với mức bình thường)"
+  },
+  {
+    "kanji": "寺",
+    "readings": [
+      "てら",
+      "tera"
+    ],
+    "meaning": "TỰ\nChùa"
+  },
+  {
+    "kanji": "慣れる",
+    "readings": [
+      "なれる",
+      "nareru"
+    ],
+    "meaning": "Quen với, trở nên quen thuộc"
+  },
+  {
+    "kanji": "普通",
+    "readings": [
+      "ふつう",
+      "futsuu"
+    ],
+    "meaning": "PHỔ THÔNG\n1. Thông thường, phổ thông\n2. Tầm thường\n3. Bình thường"
+  },
+  {
+    "kanji": "手伝う",
+    "readings": [
+      "てつだう",
+      "tetsudau"
+    ],
+    "meaning": "Giúp đỡ, hỗ trợ"
+  },
+  {
+    "kanji": "息子",
+    "readings": [
+      "むすこ",
+      "musuko"
+    ],
+    "meaning": "TỨC TỬ\n1. Con trai\n2. Dương vật (từ lóng)"
+  },
+  {
+    "kanji": "お子さん",
+    "readings": [
+      "おこさん",
+      "okosan"
+    ],
+    "meaning": "Con (của người khác)"
+  },
+  {
+    "kanji": "会場",
+    "readings": [
+      "かいじょう",
+      "kaijou"
+    ],
+    "meaning": "HỘI TRÀNG\nHội trường, địa điểm tổ chức sự kiện"
+  },
+  {
+    "kanji": "笑う",
+    "readings": [
+      "わらう",
+      "warau"
+    ],
+    "meaning": "1. Cười\n2. Mỉm cười"
+  },
+  {
+    "kanji": "運ぶ",
+    "readings": [
+      "はこぶ",
+      "hakobu"
+    ],
+    "meaning": "1. Vận chuyển, chuyên chở\n2. Mang, vác\n3. Tiến triển (công việc)"
+  },
+  {
+    "kanji": "文学",
+    "readings": [
+      "ぶんがく",
+      "bungaku"
+    ],
+    "meaning": "VĂN HỌC\nVăn học"
+  },
+  {
+    "kanji": "光",
+    "readings": [
+      "ひかり",
+      "hikari"
+    ],
+    "meaning": "QUANG\nÁnh sáng"
+  },
+  {
+    "kanji": "お見舞い",
+    "readings": [
+      "おみまい",
+      "omimai"
+    ],
+    "meaning": "Việc thăm hỏi người ốm, người gặp nạn hoặc quà thăm hỏi"
+  },
+  {
+    "kanji": "席",
+    "readings": [
+      "せき",
+      "seki"
+    ],
+    "meaning": "TỊCH\n1. Chỗ ngồi\n2. Vị trí, chức vụ\n3. Buổi họp, buổi tiệc"
+  },
+  {
+    "kanji": "～様",
+    "readings": [
+      "～さま",
+      "～sama"
+    ],
+    "meaning": "DẠNG\n1. Ngài, bà, cô (hậu tố kính ngữ)\n2. Vẻ ngoài, dáng vẻ"
+  },
+  {
+    "kanji": "ご存じ",
+    "readings": [
+      "ごぞんじ",
+      "gozonji"
+    ],
+    "meaning": "Biết (kính ngữ)"
+  },
+  {
+    "kanji": "下る",
+    "readings": [
+      "さがる",
+      "sagaru"
+    ],
+    "meaning": "1. Đi xuống, lăn xuống\n2. Trôi theo dòng (sông)\n3. Trải qua (thời gian)"
+  },
+  {
+    "kanji": "字",
+    "readings": [
+      "じ",
+      "ji"
+    ],
+    "meaning": "TỰ\n1. Chữ viết\n2. Tên gọi khu vực hành chính nhỏ (thôn, ấp)"
+  },
+  {
+    "kanji": "褒める",
+    "readings": [
+      "ほめる",
+      "homeru"
+    ],
+    "meaning": "Khen ngợi, tán dương, ca tụng"
+  },
+  {
+    "kanji": "空く",
+    "readings": [
+      "すく",
+      "suku"
+    ],
+    "meaning": "1. Trống trải, không có người sử dụng\n2. Rỗi rãi, có thời gian trống\n3. Trở nên trống rỗng\n4. Đói bụng"
+  },
+  {
+    "kanji": "最も",
+    "readings": [
+      "もっとも",
+      "mottomo"
+    ],
+    "meaning": "Nhất (dùng để chỉ mức độ cao nhất)"
+  },
+  {
+    "kanji": "合う",
+    "readings": [
+      "あう",
+      "au"
+    ],
+    "meaning": "1. Ăn khớp, vừa vặn\n2. Đúng, chính xác (giờ giấc, câu trả lời)\n3. Hợp (sở thích, tính cách, tâm trạng)\n4. Phù hợp, tương ứng\n5. Làm cùng nhau, kết hợp"
+  },
+  {
+    "kanji": "～代",
+    "readings": [
+      "～だい",
+      "～dai"
+    ],
+    "meaning": "ĐẠI\n1. Giá cả, chi phí\n2. Tiền trả cho dịch vụ hoặc hàng hóa"
+  },
+  {
+    "kanji": "最後",
+    "readings": [
+      "さいご",
+      "saigo"
+    ],
+    "meaning": "TỐI HẬU\n1. Cuối cùng, sau cùng\n2. Rốt cuộc, kết cục"
+  },
+  {
+    "kanji": "値段",
+    "readings": [
+      "ねだん",
+      "nedan"
+    ],
+    "meaning": "TRỊ ĐOẠN\n1. Giá cả\n2. Giá tiền"
+  },
+  {
+    "kanji": "退院",
+    "readings": [
+      "たいいん",
+      "taiin"
+    ],
+    "meaning": "THỐI VIỆN\nSự xuất viện"
+  },
+  {
+    "kanji": "展覧会",
+    "readings": [
+      "てんらんかい",
+      "tenrankai"
+    ],
+    "meaning": "TRIỂN LÃM HỘI\nCuộc triển lãm, buổi trưng bày"
+  },
+  {
+    "kanji": "久しぶり",
+    "readings": [
+      "ひさしぶり",
+      "hisashiburi"
+    ],
+    "meaning": "Đã lâu rồi mới gặp lại, sau một thời gian dài"
+  },
+  {
+    "kanji": "汽車",
+    "readings": [
+      "きしゃ",
+      "kisha"
+    ],
+    "meaning": "KHÍ XA\nTàu hỏa, xe lửa"
+  },
+  {
+    "kanji": "遅れる",
+    "readings": [
+      "おくれる",
+      "okureru"
+    ],
+    "meaning": "1. Chậm trễ, muộn (thời gian)\n2. Tụt hậu, chậm tiến (so với người khác)"
+  },
+  {
+    "kanji": "見つかる",
+    "readings": [
+      "みつかる",
+      "mitsukaru"
+    ],
+    "meaning": "Được tìm thấy, bị phát hiện"
+  },
+  {
+    "kanji": "召し上がる",
+    "readings": [
+      "めしあがる",
+      "meshiagaru"
+    ],
+    "meaning": "Ăn, uống (kính ngữ)"
+  },
+  {
+    "kanji": "太る",
+    "readings": [
+      "ふとる",
+      "futoru"
+    ],
+    "meaning": "1. Béo lên, tăng cân\n2. Trở nên giàu có (nghĩa bóng)"
+  },
+  {
+    "kanji": "注射",
+    "readings": [
+      "ちゅうしゃ",
+      "chuusha"
+    ],
+    "meaning": "CHÚ XẠ\nSự tiêm, tiêm chủng"
+  },
+  {
+    "kanji": "様",
+    "readings": [
+      "よう",
+      "you"
+    ],
+    "meaning": "DẠNG\n1. Ngài, bà, cô (hậu tố kính ngữ)\n2. Vẻ ngoài, dáng vẻ"
+  },
+  {
+    "kanji": "最初",
+    "readings": [
+      "さいしょ",
+      "saisho"
+    ],
+    "meaning": "TỐI SƠ\n1. Đầu tiên\n2. Lúc đầu, mới đầu\n3. Trước hết"
+  },
+  {
+    "kanji": "御～",
+    "readings": [
+      "ご～",
+      "go～"
+    ],
+    "meaning": "NGỰ\nTiền tố kính ngữ (dùng để tôn trọng người nghe hoặc vật liên quan đến người nghe)"
+  },
+  {
+    "kanji": "安心",
+    "readings": [
+      "あんしん",
+      "anshin"
+    ],
+    "meaning": "AN TÂM\nSự yên tâm, an tâm"
+  },
+  {
+    "kanji": "直る",
+    "readings": [
+      "なおる",
+      "naoru"
+    ],
+    "meaning": "1. Được sửa chữa, được khắc phục (hỏng hóc)\n2. Được chữa khỏi (bệnh tật)\n3. Trở lại trạng thái bình thường"
+  },
+  {
+    "kanji": "集める",
+    "readings": [
+      "あつめる",
+      "atsumeru"
+    ],
+    "meaning": "1. Thu thập, gom lại\n2. Sưu tầm\n3. Thu hút (sự chú ý, sự quan tâm)"
+  },
+  {
+    "kanji": "直す",
+    "readings": [
+      "なおす",
+      "naosu"
+    ],
+    "meaning": "1. Sửa chữa, tu sửa\n2. Chỉnh sửa, đính chính\n3. Dịch (ngôn ngữ)\n4. Chuyển đổi (đơn vị, tiền tệ)\n5. Làm lại, thực hiện lại"
+  },
+  {
+    "kanji": "続く",
+    "readings": [
+      "つづく",
+      "tsuzuku"
+    ],
+    "meaning": "1. Tiếp tục, kéo dài\n2. Tiếp theo, theo sau"
+  },
+  {
+    "kanji": "先輩",
+    "readings": [
+      "せんぱい",
+      "senpai"
+    ],
+    "meaning": "TIÊN BỐI\nTiền bối, người đi trước (trong học tập hoặc công việc)"
+  },
+  {
+    "kanji": "約束",
+    "readings": [
+      "やくそく",
+      "yakusoku"
+    ],
+    "meaning": "ƯỚC THÚC\n1. Lời hứa\n2. Quy ước, thỏa thuận"
+  },
+  {
+    "kanji": "世話",
+    "readings": [
+      "せわ",
+      "sewa"
+    ],
+    "meaning": "THẾ THOẠI\n1. Sự chăm sóc, giúp đỡ\n2. Sự quan tâm, lo lắng"
+  },
+  {
+    "kanji": "近所",
+    "readings": [
+      "きんじょ",
+      "kinjo"
+    ],
+    "meaning": "CẬN SỞ\n1. Vùng phụ cận, khu vực lân cận\n2. Hàng xóm, láng giềng"
+  },
+  {
+    "kanji": "将来",
+    "readings": [
+      "しょうらい",
+      "shourai"
+    ],
+    "meaning": "TƯƠNG LAI\nTương lai"
+  },
+  {
+    "kanji": "億",
+    "readings": [
+      "おく",
+      "oku"
+    ],
+    "meaning": "ỨC\n1. Một trăm triệu (10^8)\n2. Ức (đơn vị số đếm cổ)"
+  },
+  {
+    "kanji": "数学",
+    "readings": [
+      "すうがく",
+      "suugaku"
+    ],
+    "meaning": "SỔ HỌC\nToán học"
+  },
+  {
+    "kanji": "文化",
+    "readings": [
+      "ぶんか",
+      "bunka"
+    ],
+    "meaning": "VĂN HÓA\nVăn hóa"
+  },
+  {
+    "kanji": "払う",
+    "readings": [
+      "はらう",
+      "harau"
+    ],
+    "meaning": "1. Trả tiền, thanh toán\n2. Phủi, quét, gạt bỏ\n3. Chú ý, quan tâm (thường dùng với 気を払う)\n4. Loại bỏ, xua đuổi"
+  },
+  {
+    "kanji": "習慣",
+    "readings": [
+      "しゅうかん",
+      "shuukan"
+    ],
+    "meaning": "TẬP QUÁN\nThói quen, tập quán"
+  },
+  {
+    "kanji": "焼ける",
+    "readings": [
+      "やける",
+      "yakeru"
+    ],
+    "meaning": "1. Được nướng, được rán\n2. Bị cháy, bị thiêu rụi\n3. Bị rám nắng"
+  },
+  {
+    "kanji": "君",
+    "readings": [
+      "きみ",
+      "kimi"
+    ],
+    "meaning": "QUÂN\nBạn (đại từ nhân xưng ngôi thứ hai, thường dùng cho nam giới hoặc cấp trên gọi cấp dưới)"
+  },
+  {
+    "kanji": "冷える",
+    "readings": [
+      "ひえる",
+      "hieru"
+    ],
+    "meaning": "1. Lạnh đi, nguội đi (vật)\n2. Cảm thấy lạnh (cơ thể)"
+  },
+  {
+    "kanji": "点く",
+    "readings": [
+      "つく",
+      "tsuku"
+    ],
+    "meaning": "1. Được thắp sáng (đèn)\n2. Bắt lửa"
+  },
+  {
+    "kanji": "この間",
+    "readings": [
+      "このあいだ",
+      "konoaida"
+    ],
+    "meaning": "1. Gần đây\n2. Hôm nọ"
+  },
+  {
+    "kanji": "格好",
+    "readings": [
+      "かっこう",
+      "kakkou"
+    ],
+    "meaning": "CÁCH HẢO\n1. Ngoại hình, dáng vẻ, tư thế\n2. Ăn mặc, phong cách\n3. Thích hợp, vừa vặn, hợp lý"
+  },
+  {
+    "kanji": "続ける",
+    "readings": [
+      "つづける",
+      "tsuzukeru"
+    ],
+    "meaning": "Tiếp tục, làm liên tục"
+  },
+  {
+    "kanji": "落す",
+    "readings": [
+      "おとす",
+      "otosu"
+    ],
+    "meaning": "1. Làm rơi, làm rớt\n2. Đánh mất\n3. Làm giảm, làm hạ (giá, cấp bậc)\n4. Bỏ sót, quên ghi"
+  },
+  {
+    "kanji": "明日",
+    "readings": [
+      "あす",
+      "asu"
+    ],
+    "meaning": "MINH NHẬT\nNgày mai"
+  },
+  {
+    "kanji": "出発",
+    "readings": [
+      "しゅっぱつ",
+      "shuppatsu"
+    ],
+    "meaning": "XUẤT PHÁT\nSự xuất phát, sự khởi hành"
+  },
+  {
+    "kanji": "拝見",
+    "readings": [
+      "はいけん",
+      "haiken"
+    ],
+    "meaning": "BÁI KIẾN\nViệc xem, nhìn (khiêm nhường ngữ)"
+  },
+  {
+    "kanji": "割れる",
+    "readings": [
+      "われる",
+      "wareru"
+    ],
+    "meaning": "1. Vỡ, nứt, rạn\n2. Bị chia rẽ, bất đồng (ý kiến)\n3. Chia hết (phép tính)"
+  },
+  {
+    "kanji": "背中",
+    "readings": [
+      "せなか",
+      "senaka"
+    ],
+    "meaning": "BỐI TRUNG\nLưng (phần phía sau cơ thể)"
+  },
+  {
+    "kanji": "新聞社",
+    "readings": [
+      "しんぶんしゃ",
+      "shinbunsha"
+    ],
+    "meaning": "TÂN VĂN XÃ\nTòa soạn báo"
+  },
+  {
+    "kanji": "回る、回す",
+    "readings": [
+      "まわる、まわす",
+      "mawaru、mawasu"
+    ],
+    "meaning": "1. Quay, xoay\n2. Đi quanh, đi vòng quanh\n3. Quá (thời gian)"
+  },
+  {
+    "kanji": "～君",
+    "readings": [
+      "～くん",
+      "～kun"
+    ],
+    "meaning": "QUÂN\nBạn (đại từ nhân xưng ngôi thứ hai, thường dùng cho nam giới hoặc cấp trên gọi cấp dưới)"
+  },
+  {
+    "kanji": "眠い",
+    "readings": [
+      "ねむい",
+      "nemui"
+    ],
+    "meaning": "Buồn ngủ"
+  },
+  {
+    "kanji": "濡れる",
+    "readings": [
+      "ぬれる",
+      "nureru"
+    ],
+    "meaning": "Bị ướt, bị dính nước"
+  },
+  {
+    "kanji": "倒れる",
+    "readings": [
+      "たおれる",
+      "taoreru"
+    ],
+    "meaning": "1. Đổ, ngã, sụp đổ\n2. Gục ngã, ngất xỉu\n3. Phá sản\n4. Thất bại"
+  },
+  {
+    "kanji": "考える",
+    "readings": [
+      "かんがえる",
+      "kangaeru"
+    ],
+    "meaning": "1. Suy nghĩ, tư duy\n2. Cân nhắc, xem xét\n3. Dự định, tính toán\n4. Tưởng tượng, hình dung"
+  },
+  {
+    "kanji": "向かう",
+    "readings": [
+      "むかう",
+      "mukau"
+    ],
+    "meaning": "1. Hướng tới, di chuyển tới\n2. Đối mặt với\n3. Chống đối, phản kháng"
+  },
+  {
+    "kanji": "自由",
+    "readings": [
+      "じゆう",
+      "jiyuu"
+    ],
+    "meaning": "TỰ DO\nSự tự do, không bị ràng buộc"
+  },
+  {
+    "kanji": "仕方",
+    "readings": [
+      "しかた",
+      "shikata"
+    ],
+    "meaning": "SĨ PHƯƠNG\n1. Cách làm, phương pháp\n2. Cách xử sự"
+  },
+  {
+    "kanji": "首",
+    "readings": [
+      "くび",
+      "kubi"
+    ],
+    "meaning": "THỦ\n1. Cổ\n2. Đầu (người)\n3. Chức vụ, vị trí"
+  },
+  {
+    "kanji": "程",
+    "readings": [
+      "ほど",
+      "hodo"
+    ],
+    "meaning": "TRÌNH\n1. Mức độ\n2. Đến mức\n3. Khoảng, chừng\n4. Càng... càng..."
+  },
+  {
+    "kanji": "代わり",
+    "readings": [
+      "かわり",
+      "kawari"
+    ],
+    "meaning": "1. Sự thay thế, vật thay thế\n2. Sự đại diện, ủy nhiệm\n3. Sự thay phiên\n4. Phần thức ăn thêm (lần thứ hai)"
+  },
+  {
+    "kanji": "失敗",
+    "readings": [
+      "しっぱい",
+      "shippai"
+    ],
+    "meaning": "THẤT BẠI\nSự thất bại, sai lầm"
+  },
+  {
+    "kanji": "工業",
+    "readings": [
+      "こうぎょう",
+      "kougyou"
+    ],
+    "meaning": "CÔNG NGHIỆP\nCông nghiệp"
+  },
+  {
+    "kanji": "移る",
+    "readings": [
+      "うつる",
+      "utsuru"
+    ],
+    "meaning": "1. Di chuyển, chuyển sang\n2. Lây lan, lây nhiễm"
+  },
+  {
+    "kanji": "研究室",
+    "readings": [
+      "けんきゅうしつ",
+      "kenkyuushitsu"
+    ],
+    "meaning": "NGHIÊN CỨU THẤT\nPhòng nghiên cứu"
+  },
+  {
+    "kanji": "工場",
+    "readings": [
+      "こうじょう",
+      "koujou"
+    ],
+    "meaning": "CÔNG TRÀNG\nNhà máy, phân xưởng sản xuất"
+  },
+  {
+    "kanji": "紹介",
+    "readings": [
+      "しょうかい",
+      "shoukai"
+    ],
+    "meaning": "THIỆU GIỚI\nSự giới thiệu"
+  },
+  {
+    "kanji": "舟",
+    "readings": [
+      "ふね",
+      "fune"
+    ],
+    "meaning": "CHU\nThuyền, tàu nhỏ"
+  },
+  {
+    "kanji": "動く",
+    "readings": [
+      "うごく",
+      "ugoku"
+    ],
+    "meaning": "1. Di chuyển, chuyển động\n2. Hoạt động, vận hành (máy móc)\n3. Nhúc nhích, lay động\n4. Thay đổi, biến động (tình hình, giá cả)"
+  },
+  {
+    "kanji": "虫",
+    "readings": [
+      "むし",
+      "mushi"
+    ],
+    "meaning": "TRÙNG\n1. Côn trùng\n2. Sâu bọ"
+  },
+  {
+    "kanji": "優しい",
+    "readings": [
+      "やさしい",
+      "yasashii"
+    ],
+    "meaning": "1. Dịu dàng, hiền lành, tử tế\n2. Duyên dáng, thanh tú\n3. Dễ dàng, đơn giản"
+  },
+  {
+    "kanji": "植える",
+    "readings": [
+      "うえる",
+      "ueru"
+    ],
+    "meaning": "1. Trồng (cây, hoa)\n2. Gieo (hạt)\n3. Vun trồng, gây dựng (tư tưởng, tình cảm)"
+  },
+  {
+    "kanji": "両方",
+    "readings": [
+      "りょうほう",
+      "ryouhou"
+    ],
+    "meaning": "LƯỠNG PHƯƠNG\n1. Hai bên\n2. Cả hai"
+  },
+  {
+    "kanji": "汚れる",
+    "readings": [
+      "よごれる",
+      "yogoreru"
+    ],
+    "meaning": "1. Bị bẩn, vấy bẩn\n2. Bị hoen ố, bị bôi nhọ (danh dự)\n3. Bị làm nhục"
+  },
+  {
+    "kanji": "水泳",
+    "readings": [
+      "すいえい",
+      "suiei"
+    ],
+    "meaning": "THỦY VỊNH\nViệc bơi lội"
+  },
+  {
+    "kanji": "経験",
+    "readings": [
+      "けいけん",
+      "keiken"
+    ],
+    "meaning": "KINH NGHIỆM\nKinh nghiệm"
+  },
+  {
+    "kanji": "勝つ",
+    "readings": [
+      "かつ",
+      "katsu"
+    ],
+    "meaning": "1. Thắng, giành chiến thắng\n2. Vượt qua, đánh bại (đối thủ, khó khăn)"
+  },
+  {
+    "kanji": "砂",
+    "readings": [
+      "すな",
+      "suna"
+    ],
+    "meaning": "SA\nCát"
+  },
+  {
+    "kanji": "警察",
+    "readings": [
+      "けいさつ",
+      "keisatsu"
+    ],
+    "meaning": "CẢNH SÁT\nCảnh sát, lực lượng công an"
+  },
+  {
+    "kanji": "取り替える",
+    "readings": [
+      "とりかえる",
+      "torikaeru"
+    ],
+    "meaning": "1. Thay thế, đổi lại\n2. Trao đổi"
+  },
+  {
+    "kanji": "急ぐ",
+    "readings": [
+      "いそぐ",
+      "isogu"
+    ],
+    "meaning": "1. Vội vàng, gấp rút\n2. Hối hả, khẩn trương"
+  },
+  {
+    "kanji": "簡単",
+    "readings": [
+      "かんたん",
+      "kantan"
+    ],
+    "meaning": "GIẢN ĐƠN\n1. Đơn giản, dễ dàng\n2. Sơ sài, qua loa"
+  },
+  {
+    "kanji": "参る",
+    "readings": [
+      "まいる",
+      "mairu"
+    ],
+    "meaning": "1. Đi, đến (khiêm nhường ngữ)\n2. Viếng thăm (đền, chùa)\n3. Chịu thua, đầu hàng (thông tục)"
+  },
+  {
+    "kanji": "全然",
+    "readings": [
+      "ぜんぜん",
+      "zenzen"
+    ],
+    "meaning": "TOÀN NHIÊN\n1. Hoàn toàn (đi với phủ định)\n2. Hoàn toàn, tuyệt đối (thông tục)"
+  },
+  {
+    "kanji": "特別",
+    "readings": [
+      "とくべつ",
+      "tokubetsu"
+    ],
+    "meaning": "ĐẶC BIỆT\nĐặc biệt"
+  },
+  {
+    "kanji": "復習",
+    "readings": [
+      "ふくしゅう",
+      "fukushuu"
+    ],
+    "meaning": "PHỤC TẬP\nSự ôn tập"
+  },
+  {
+    "kanji": "間に合う",
+    "readings": [
+      "まにあう",
+      "maniau"
+    ],
+    "meaning": "1. Kịp thời\n2. Đủ dùng, đáp ứng được nhu cầu"
+  },
+  {
+    "kanji": "役に立つ",
+    "readings": [
+      "やくにたつ",
+      "yakunitatsu"
+    ],
+    "meaning": "Có ích, có tác dụng, đắc dụng"
+  },
+  {
+    "kanji": "真中",
+    "readings": [
+      "まんなか",
+      "mannaka"
+    ],
+    "meaning": "CHÂN TRUNG\nChính giữa"
+  },
+  {
+    "kanji": "戻る",
+    "readings": [
+      "もどる",
+      "modoru"
+    ],
+    "meaning": "Quay lại, trở lại, hồi lại"
+  },
+  {
+    "kanji": "研究",
+    "readings": [
+      "けんきゅう",
+      "kenkyuu"
+    ],
+    "meaning": "NGHIÊN CỨU\n1. Sự nghiên cứu\n2. Sự học tập, tìm hiểu"
+  },
+  {
+    "kanji": "草",
+    "readings": [
+      "くさ",
+      "kusa"
+    ],
+    "meaning": "THẢO\nCỏ"
+  },
+  {
+    "kanji": "込む",
+    "readings": [
+      "こむ",
+      "komu"
+    ],
+    "meaning": "1. Đông đúc, chật chội\n2. Đi vào, lọt vào"
+  },
+  {
+    "kanji": "この頃",
+    "readings": [
+      "このごろ",
+      "konogoro"
+    ],
+    "meaning": "Thời gian gần đây"
+  },
+  {
+    "kanji": "訪ねる",
+    "readings": [
+      "たずねる",
+      "tazuneru"
+    ],
+    "meaning": "Thăm hỏi, ghé thăm (đến nơi nào đó để gặp người hoặc thăm thú)"
+  },
+  {
+    "kanji": "下げる",
+    "readings": [
+      "さげる",
+      "sageru"
+    ],
+    "meaning": "1. Hạ xuống, giảm bớt\n2. Cúi (đầu), gục (đầu)\n3. Thòng xuống, treo xuống"
+  },
+  {
+    "kanji": "花見",
+    "readings": [
+      "はなみ",
+      "hanami"
+    ],
+    "meaning": "HOA KIẾN\nViệc ngắm hoa (thường là hoa anh đào)"
+  },
+  {
+    "kanji": "途中",
+    "readings": [
+      "とちゅう",
+      "tochuu"
+    ],
+    "meaning": "ĐỒ TRUNG\n1. Dọc đường, giữa đường\n2. Nửa chừng, giữa chừng"
+  },
+  {
+    "kanji": "入院",
+    "readings": [
+      "にゅういん",
+      "nyuuin"
+    ],
+    "meaning": "NHẬP VIỆN\nSự nhập viện, nằm viện"
+  },
+  {
+    "kanji": "乗り換える",
+    "readings": [
+      "のりかえる",
+      "norikaeru"
+    ],
+    "meaning": "1. Đổi xe, chuyển tàu\n2. Thay đổi quan điểm, thay đổi suy nghĩ"
+  },
+  {
+    "kanji": "別れる",
+    "readings": [
+      "わかれる",
+      "wakareru"
+    ],
+    "meaning": "1. Chia tay, ly biệt\n2. Xa cách\n3. Ly hôn"
+  },
+  {
+    "kanji": "～町",
+    "readings": [
+      "～ちょう",
+      "～chou"
+    ],
+    "meaning": "ĐINH\n1. Thị trấn\n2. Phố xá"
+  },
+  {
+    "kanji": "安全",
+    "readings": [
+      "あんぜん",
+      "anzen"
+    ],
+    "meaning": "AN TOÀN\nAn toàn"
+  },
+  {
+    "kanji": "看護婦",
+    "readings": [
+      "かんごふ",
+      "kangofu"
+    ],
+    "meaning": "KHÁN HỘ PHỤ\nNữ y tá (thuật ngữ cũ)"
+  },
+  {
+    "kanji": "見物",
+    "readings": [
+      "けんぶつ",
+      "kenbutsu"
+    ],
+    "meaning": "KIẾN VẬT\n1. Sự tham quan, ngắm cảnh\n2. Sự xem (biểu diễn, sự kiện)"
+  },
+  {
+    "kanji": "相談",
+    "readings": [
+      "そうだん",
+      "soudan"
+    ],
+    "meaning": "TƯƠNG ĐÀM\nCuộc thảo luận, sự trao đổi ý kiến"
+  },
+  {
+    "kanji": "眠る",
+    "readings": [
+      "ねむる",
+      "nemuru"
+    ],
+    "meaning": "1. Ngủ\n2. Thiếp đi\n3. Nằm yên (nghĩa bóng: tài năng chưa được khai thác, tiền vốn không được sử dụng)"
+  },
+  {
+    "kanji": "上がる",
+    "readings": [
+      "あがる",
+      "agaru"
+    ],
+    "meaning": "1. Leo lên, nâng lên\n2. Tăng lên, mọc lên\n3. Bốc lên, dấy lên\n4. Hoàn thành, kết thúc\n5. Ăn, uống (khiêm nhường ngữ)"
+  },
+  {
+    "kanji": "翻訳",
+    "readings": [
+      "ほんやく",
+      "honyaku"
+    ],
+    "meaning": "PHIÊN DỊCH\nBiên dịch (dịch văn bản)"
+  },
+  {
+    "kanji": "食事",
+    "readings": [
+      "しょくじ",
+      "shokuji"
+    ],
+    "meaning": "THỰC SỰ\nBữa ăn"
+  },
+  {
+    "kanji": "お陰",
+    "readings": [
+      "おかげ",
+      "okage"
+    ],
+    "meaning": "1. Nhờ vào, nhờ có (thường dùng với nghĩa tích cực)\n2. Cái bóng, sự che chở"
+  },
+  {
+    "kanji": "娘",
+    "readings": [
+      "むすめ",
+      "musume"
+    ],
+    "meaning": "NƯƠNG\nCon gái"
+  },
+  {
+    "kanji": "湯",
+    "readings": [
+      "ゆ",
+      "yu"
+    ],
+    "meaning": "THANG\nNước nóng"
+  },
+  {
+    "kanji": "競争",
+    "readings": [
+      "きょうそう",
+      "kyousou"
+    ],
+    "meaning": "CẠNH TRANH\n1. Sự cạnh tranh\n2. Sự thi đua"
+  },
+  {
+    "kanji": "会議",
+    "readings": [
+      "かいぎ",
+      "kaigi"
+    ],
+    "meaning": "HỘI NGHỊ\nCuộc họp, hội nghị, phiên họp"
+  },
+  {
+    "kanji": "湖",
+    "readings": [
+      "みずうみ",
+      "mizuumi"
+    ],
+    "meaning": "HỒ\nHồ"
+  },
+  {
+    "kanji": "集まる",
+    "readings": [
+      "あつまる",
+      "atsumaru"
+    ],
+    "meaning": "1. Tập hợp, tụ họp, tập trung\n2. Tích tụ, dồn lại"
+  },
+  {
+    "kanji": "生活",
+    "readings": [
+      "せいかつ",
+      "seikatsu"
+    ],
+    "meaning": "SANH HOẠT\n1. Sinh hoạt, đời sống\n2. Sinh kế, cách sống"
+  },
+  {
+    "kanji": "糸",
+    "readings": [
+      "いと",
+      "ito"
+    ],
+    "meaning": "MỊCH\n1. Sợi chỉ, sợi tơ\n2. Dây (đàn, câu)\n3. Mối liên hệ, manh mối"
+  },
+  {
+    "kanji": "関係",
+    "readings": [
+      "かんけい",
+      "kankei"
+    ],
+    "meaning": "QUAN HỆ\n1. Quan hệ, mối quan hệ\n2. Sự liên quan, sự liên hệ"
+  },
+  {
+    "kanji": "～目",
+    "readings": [
+      "～め",
+      "～me"
+    ],
+    "meaning": "MỤC\n1. Con mắt\n2. Thị lực\n3. Mắt lưới, mắt xích\n4. Thứ tự, mục"
+  },
+  {
+    "kanji": "番組",
+    "readings": [
+      "ばんぐみ",
+      "bangumi"
+    ],
+    "meaning": "PHIÊN TỔ\nChương trình (phát thanh, truyền hình)"
+  },
+  {
+    "kanji": "急",
+    "readings": [
+      "きゅう",
+      "kyuu"
+    ],
+    "meaning": "CẤP\n1. Dốc, hiểm trở\n2. Nhanh, gấp gáp\n3. Khẩn cấp, cấp bách"
+  },
+  {
+    "kanji": "棚",
+    "readings": [
+      "たな",
+      "tana"
+    ],
+    "meaning": "BẰNG\n1. Giá, kệ để đồ\n2. Giàn (trồng cây)"
+  },
+  {
+    "kanji": "木綿",
+    "readings": [
+      "もめん",
+      "momen"
+    ],
+    "meaning": "MỘC MIÊN\nVải bông, sợi bông"
+  },
+  {
+    "kanji": "輸出",
+    "readings": [
+      "ゆしゅつ",
+      "yushutsu"
+    ],
+    "meaning": "THÂU XUẤT\nXuất khẩu"
+  },
+  {
+    "kanji": "嬉しい",
+    "readings": [
+      "うれしい",
+      "ureshii"
+    ],
+    "meaning": "1. Vui mừng, hạnh phúc\n2. Êm lòng, hài lòng"
+  },
+  {
+    "kanji": "神社",
+    "readings": [
+      "じんじゃ",
+      "jinja"
+    ],
+    "meaning": "THẦN XÃ\nĐền thờ Thần đạo"
+  },
+  {
+    "kanji": "大分",
+    "readings": [
+      "だいぶ",
+      "daibu"
+    ],
+    "meaning": "ĐẠI PHÂN\n1. Nhiều\n2. Khá, đáng kể"
+  },
+  {
+    "kanji": "楽しみ",
+    "readings": [
+      "たのしみ",
+      "tanoshimi"
+    ],
+    "meaning": "1. Niềm vui, sự thích thú\n2. Sự mong đợi, sự trông chờ"
+  },
+  {
+    "kanji": "趣味",
+    "readings": [
+      "しゅみ",
+      "shumi"
+    ],
+    "meaning": "THÚ VỊ\n1. Sở thích, thú vui\n2. Thị hiếu, gu thẩm mỹ"
+  },
+  {
+    "kanji": "電報",
+    "readings": [
+      "でんぽう",
+      "denpou"
+    ],
+    "meaning": "ĐIỆN BÁO\n1. Bức điện tín\n2. Điện báo"
+  },
+  {
+    "kanji": "家内",
+    "readings": [
+      "かない",
+      "kanai"
+    ],
+    "meaning": "GIA NỘI\nVợ (của mình)"
+  },
+  {
+    "kanji": "指",
+    "readings": [
+      "ゆび",
+      "yubi"
+    ],
+    "meaning": "CHỈ\n1. Ngón tay, ngón chân\n2. Ngón (đơn vị đo)"
+  },
+  {
+    "kanji": "社会",
+    "readings": [
+      "しゃかい",
+      "shakai"
+    ],
+    "meaning": "XÃ HỘI\nXã hội"
+  }
+]

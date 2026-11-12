@@ -33,7 +33,7 @@ window.onload = function () {
 
 // Fetch Quiz Data
 function fetchQuizData(level) {
-    const jsonUrl = `${level}kan.json`;
+    const jsonUrl = `assets/data/${level}kan.json`;
     // Fetch JSON data from the provided URL
     return fetch(jsonUrl)
         .then((response) => response.json()) // Parse JSON response
@@ -98,7 +98,7 @@ function startQuiz() {
         document.getElementById("quiz-container").style.display = "block";
         // Set quiz heading based on selected level
         document.getElementById("quiz-heading").textContent =
-            selectedLevel + " Kanji Reading Quiz";
+            `Trắc nghiệm Đọc Kanji - Cấp độ ${selectedLevel}`;
         // Load the first question based on quiz mode
         if (isTimeAttackMode) {
             // Update total questions for time attack mode
@@ -125,8 +125,6 @@ function updateProgressBar() {
     const progressPercentage = ((currentQuestion + 1) / totalQuestions) * 100;
     // Set the width of the progress bar dynamically based on the calculated percentage
     progressBar.style.width = `${progressPercentage}%`;
-    // Log the progress percentage to the console for debugging purposes
-    console.log(progressPercentage);
 }
 
 
@@ -149,13 +147,11 @@ function startTimer() {
         const elapsedSeconds = Math.floor((currentTime - quizStartTime) / 1000);
         // Calculate remaining seconds based on the time limit and elapsed seconds
         const remainingSeconds = Math.max(0, timeLimit - elapsedSeconds);
-        // Calculate remaining time in milliseconds (not used in this code)
-        const timeRemaining = (timeLimit - elapsedSeconds) * 1000;
         // Calculate remaining minutes and seconds
         const minutes = Math.floor(remainingSeconds / 60);
         const seconds = remainingSeconds % 60;
-        // Update the countdown element with the remaining time
-        countdownElement.innerText = `Time Remaining: ${minutes}m ${seconds}s`;
+        // Update the countdown element with the remaining time in Vietnamese
+        countdownElement.innerText = `Thời gian còn lại: ${minutes} phút ${seconds} giây`;
         // Check if the elapsed time has reached the time limit, then end the quiz
         if (elapsedSeconds >= timeLimit) {
             endQuiz();
@@ -203,7 +199,6 @@ function loadQuestion() {
 }
 
 
-
 // Check Answer Function
 function checkAnswer() {
     // Get the user's answer from the input field and convert it to lowercase
@@ -233,11 +228,11 @@ function checkAnswer() {
             // Increment the score and reset incorrect attempts
             score++;
             incorrectAttempts = 0;
-            // Display feedback indicating correctness and the question's meaning
+            // Display feedback indicating correctness and the question's meaning in Vietnamese
             document.getElementById("feedback").innerHTML = `
-        <span style="color: #90EE90;">Correct!</span>
+        <span style="color: #90EE90; font-weight: bold;">Chính xác!</span>
         <br />
-        Meaning: ${questionMeaning}`;
+        Ý nghĩa: ${questionMeaning}`;
             document.getElementById("hint").innerHTML = ``; // Clear any hint displayed
             disableInput(); // Disable input temporarily
             // After a brief delay, enable input and move to the next question
@@ -258,10 +253,10 @@ function checkAnswer() {
 
                 // Display feedback indicating incorrectness, correct answers, and the question's meaning
                 document.getElementById("feedback").innerHTML = `
-            <span style="color: red;">Incorrect!</span> Correct answers: 
-            <span style="color: #90EE90;">${correctReadings.join(", ")}</span>
+            <span style="color: red; font-weight: bold;">Chưa chính xác!</span> Đáp án đúng: 
+            <span style="color: #90EE90; font-weight: bold;">${correctReadings.join(", ")}</span>
             <br />
-            Meaning: ${questionMeaning}`;
+            Ý nghĩa: ${questionMeaning}`;
                 document.getElementById("hint").innerHTML = ` `; // Clear any hint displayed
                 disableInput(); // Disable input temporarily
 
@@ -273,10 +268,10 @@ function checkAnswer() {
                 updateProgressBar(); // Update the progress bar
             } else {
                 // Display feedback indicating incorrectness and the number of attempts
-                document.getElementById("feedback").innerHTML = `<span style="color: red;">Incorrect!</span> Attempt ${incorrectAttempts}/3`;
+                document.getElementById("feedback").innerHTML = `<span style="color: red;">Chưa chính xác!</span> Lần thử ${incorrectAttempts}/3`;
                 // Display a hint if enabled, showing the question's meaning
                 document.getElementById("hint").innerHTML = includeHints
-                    ? `Hint : ${questionMeaning}`
+                    ? `Gợi ý: ${questionMeaning}`
                     : '';
             }
         }
@@ -347,7 +342,7 @@ function endQuiz() {
     // Calculate accuracy percentage
     const accuracy = (score / totalQuestions) * 100;
     // Initialize encouragement text
-    let encouragementText = "頑張って";
+    let encouragementText = "Cố gắng lên!";
     // Get the current date and time
 
     const currentDate = new Date();
@@ -361,33 +356,29 @@ function endQuiz() {
         ("0" + currentDate.getMinutes()).slice(-2);
 
     // Use the formatted date
-    date = formattedDate;
+    const date = formattedDate;
 
-    // Determine the mode
-    mode = isTimeAttackMode ? "Time Attack" : "Regular";
+    // Determine the mode in Vietnamese
+    const mode = isTimeAttackMode ? "Tính giờ" : "Thường";
 
-    // Score should be updated during the quiz session based on the user's performance
-
-    // For Regular mode, use time spent
+    let timeSpentOrLimit;
     if (!isTimeAttackMode) {
-        timeSpentOrLimit = `${timeSpentInSeconds} seconds`;
+        timeSpentOrLimit = `${timeSpentInSeconds} giây`;
     } else {
-        // For Time Attack mode, use the time limit
-        timeSpentOrLimit = `${timeLimit} seconds`;
+        timeSpentOrLimit = `${timeLimit} giây`;
     }
     saveQuizSessionData(date, mode, score, timeSpentOrLimit);
-    getUserPreferences()
+    getUserPreferences();
 
-
-    // Determine encouragement text based on accuracy
+    // Determine encouragement text in Vietnamese based on accuracy
     if (accuracy === 100) {
-        encouragementText = "You nailed every question. Great job!";
+        encouragementText = "Xuất sắc! Bạn đã trả lời đúng tất cả các câu hỏi.";
     } else if (accuracy >= 75) {
-        encouragementText = "Great job! You have a solid understanding of the material.";
+        encouragementText = "Làm tốt lắm! Bạn nắm rất vững kiến thức cấp độ này.";
     } else if (accuracy >= 50) {
-        encouragementText = "Good effort! Keep practicing to improve your knowledge.";
+        encouragementText = "Khá lắm! Hãy tiếp tục luyện tập để đạt kết quả cao hơn nhé.";
     } else {
-        encouragementText = "Keep trying! Practice makes perfect.";
+        encouragementText = "Cố gắng lên! Có công mài sắt có ngày nên kim.";
     }
 
     // Display main menu and quiz results
@@ -395,28 +386,28 @@ function endQuiz() {
     document.getElementById("main-menu").innerHTML = `
       <h1>${encouragementText}</h1>
       <div>
-        <img src="/assets/neko-pic.png" alt="Neko image" />
+        <img src="assets/img/neko-pic.png" alt="nekologo" class="project-img" />
       </div>
-      <p>Quiz Results</p>
+      <p style="font-weight: bold; font-size: 18px; margin-top: 15px;">Kết quả bài kiểm tra</p>
       <table id="quiz-results">
         <tr>
-          <td>Level Taken</td>
+          <td>Cấp độ</td>
           <td>${selectedLevel}</td>
         </tr>
         <tr>
-          <td>Your Score</td>
-          <td>${score} ${isTimeAttackMode ? " " : "out of"} ${isTimeAttackMode ? " " : totalQuestions}</td>
+          <td>Điểm số</td>
+          <td>${score} ${isTimeAttackMode ? " " : "trên " + totalQuestions}</td>
         </tr>
         <tr>
-          <td>Incorrect Attempts</td>
+          <td>Số lần trả lời sai</td>
           <td>${incorrectCount}</td>
         </tr>
         <tr>
-          <td>${isTimeAttackMode ? "Time Limit" : "Time Spent"} </td>
-          <td>${timeSpentInSeconds} seconds</td>
+          <td>${isTimeAttackMode ? "Thời gian giới hạn" : "Thời gian làm bài"}</td>
+          <td>${timeSpentInSeconds} giây</td>
         </tr>
       </table>
-      <label for="question-count">Number of Questions:</label>
+      <label for="question-count">Số lượng câu hỏi:</label>
       <div class="numberlabel">
         <input type="number" id="question-count" min="1"/>
         <select id="jlpt-level">
@@ -425,7 +416,6 @@ function endQuiz() {
           <option value="N3">N3</option>
           <option value="N2">N2</option>
           <option value="N1">N1</option>
-          <!-- Add other JLPT levels as needed -->
         </select>
       </div>
       <div class="label-hint">
@@ -438,7 +428,7 @@ function endQuiz() {
                 <use xlink:href="#check-4"></use>
               </svg>
             </span>
-            <span>Include Hints</span>
+            <span>Bao gồm gợi ý</span>
           </label>
           <svg class="inline-svg">
             <symbol id="check-4" viewbox="0 0 12 10">
@@ -455,7 +445,7 @@ function endQuiz() {
                 <use xlink:href="#check-4"></use>
               </svg>
             </span>
-            <span>Time Attack Mode</span>
+            <span>Chế độ tính giờ</span>
           </label>
           <svg class="inline-svg">
             <symbol id="check-4" viewbox="0 0 12 10">
@@ -467,25 +457,25 @@ function endQuiz() {
       <!-- Time Attack options -->
       <div class="timeattack">
         <div id="time-attack-options" style="display: none;">
-          <label for="time-limit">Time Limit:</label>
+          <label for="time-limit">Thời gian giới hạn:</label>
           <select id="time-limit">
-            <option value="30">30 seconds</option>
-            <option value="60">1 minute</option>
-            <option value="120">2 minutes</option>
-            <option value="300">5 minutes</option>
+            <option value="30">30 giây</option>
+            <option value="60">1 phút</option>
+            <option value="120">2 phút</option>
+            <option value="300">5 phút</option>
           </select>
         </div>
       </div>
       <!-- Help link -->
       <div class="help">
-        <a href="#" onclick="openModal()" style="color: #1877f2; cursor: pointer;">Help</a>
+        <a href="#" onclick="openModal()" style="color: #1877f2; cursor: pointer;">Hướng dẫn</a>
       </div>
       <div class="score-history">
-        <a href="#" onclick="openModal2()" style="color: #1877f2; cursor: pointer;">Score History</a>
+        <a href="#" onclick="openModal2()" style="color: #1877f2; cursor: pointer;">Lịch sử điểm</a>
       </div>
       <!-- Start Quiz button -->
       <div class="input-group">
-        <button class="button-19" onclick="startQuiz()">Start Quiz</button>
+        <button class="button-19" onclick="startQuiz()">Bắt đầu</button>
       </div>
   `;
 
@@ -507,7 +497,6 @@ function endQuiz() {
         }
     }
 
-
     // Display unanswered questions if any
     if (unansweredQuestions.length > 0) {
         const unansweredList = unansweredQuestions.map((index, rowIndex) => {
@@ -516,32 +505,32 @@ function endQuiz() {
 
             return `
           <tr style="background-color: ${rowColor};">
-            <td>${question.kanji}</td>
+            <td style="font-weight: bold; font-size: 18px;">${question.kanji}</td>
             <td>${question.readings.join(", ")}</td>
-            <td>${question.meaning}</td>
+            <td style="text-align: left; padding: 10px;">${question.meaning}</td>
           </tr>
       `;
         });
 
         // Append unanswered questions to the main menu
         document.getElementById("main-menu").innerHTML += `
-        <div id="unanswered-container">
+        <div id="unanswered-container" style="margin-top: 25px;">
           <div id="lb-unanswered-container">
-            <p>Unanswered Questions:</p>
+            <p style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Các câu chưa trả lời được:</p>
           </div>
           <table id="unanswered-table" style="width: 100%; border-collapse: collapse; margin: 0 auto; border-radius: 8px">
             <thead>
               <tr style="background-color: #00BFFF; color: white;">
-                <th style="border: 1px solid #dddddd; padding: 8px; width: 30%;">Kanji</th>
-                <th style="border: 1px solid #dddddd; padding: 8px;">Readings</th>
-                <th style="border: 1px solid #dddddd; padding: 8px;">Meaning</th>
+                <th style="border: 1px solid #dddddd; padding: 8px; width: 25%;">Chữ Hán</th>
+                <th style="border: 1px solid #dddddd; padding: 8px; width: 30%;">Cách đọc</th>
+                <th style="border: 1px solid #dddddd; padding: 8px;">Ý nghĩa</th>
               </tr>
             </thead>
             <tbody>${unansweredList.join("")}</tbody>
           </table>
         </div>
         <!-- Copy to Clipboard button -->
-      <button class="button-19" id="copy-button" onclick="copyToClipboard()">Copy to Clipboard</button>
+      <button class="button-19" id="copy-button" onclick="copyToClipboard()" style="margin-top: 15px;">Sao chép vào bảng nhớ tạm</button>
     `;
     }
 
@@ -549,7 +538,7 @@ function endQuiz() {
     resetProgressBar();
     resetQuiz();
     LoadScoreHistory();
-    updateInputsFromSavedValues()
+    updateInputsFromSavedValues();
 }
 
 
@@ -579,6 +568,8 @@ function resetQuiz() {
 function copyToClipboard() {
     // Select the unanswered questions table
     const unansweredTable = document.getElementById("unanswered-table");
+    if (!unansweredTable) return;
+    
     // Select all rows in the table body
     const rows = unansweredTable.querySelectorAll("tbody tr");
 
@@ -624,7 +615,6 @@ function toggleTimeAttackOptions() {
         timeAttackOptions.style.display = "none";
         questionCountInput.disabled = false;
     }
-    console.log('hellow')
 }
 
 
@@ -687,6 +677,7 @@ function toggleFullscreen() {
 
 function LoadScoreHistory() {
     const modal = document.getElementById("myModal2");
+    if (!modal) return;
     const modalContent = modal.querySelector(".modal-content");
     modalContent.innerHTML = '';
 
@@ -695,13 +686,13 @@ function LoadScoreHistory() {
     const quizSessions = JSON.parse(quizSessionsString) || [];
 
     if (quizSessions.length === 0) {
-        // If there are no quiz sessions, display message
+        // If there are no quiz sessions, display message in Vietnamese
         modalContent.innerHTML = `
             <span class="close" onclick="closeModal2()">&times;</span>
             <div class="resetstorage">
-                <button class="button-19" id="reset-storage-button" onclick="resetStoredData()">Reset Data</button>
+                <button class="button-19" id="reset-storage-button" onclick="resetStoredData()">Xóa lịch sử</button>
             </div>
-            <p style="text-align: center;">There is no score history available.</p>`;
+            <p style="text-align: center; margin-top: 20px;">Chưa có lịch sử điểm số nào.</p>`;
     } else {
         const closeButton = document.createElement("span");
         closeButton.classList.add("close");
@@ -716,7 +707,7 @@ function LoadScoreHistory() {
         const resetButton = document.createElement("button");
         resetButton.classList.add("button-19");
         resetButton.setAttribute("id", "reset-storage-button");
-        resetButton.textContent = "Reset Data";
+        resetButton.textContent = "Xóa lịch sử";
         resetButton.onclick = function () {
             resetStoredData();
         };
@@ -733,29 +724,32 @@ function LoadScoreHistory() {
 
         const headerRow = table.insertRow();
         const headerDate = headerRow.insertCell();
-        headerDate.textContent = "Date";
+        headerDate.textContent = "Ngày";
         headerDate.style.border = "1px solid #dddddd";
         headerDate.style.padding = "8px";
-        headerDate.style.backgroundColor = "#00BFFF"; // Background color
-        headerDate.style.color = "#ffffff"; // Text color
+        headerDate.style.backgroundColor = "#00BFFF";
+        headerDate.style.color = "#ffffff";
+        
         const headerLevel = headerRow.insertCell();
-        headerLevel.textContent = "Level";
+        headerLevel.textContent = "Cấp độ";
         headerLevel.style.border = "1px solid #dddddd";
         headerLevel.style.padding = "8px";
-        headerLevel.style.backgroundColor = "#00BFFF"; // Background color
-        headerLevel.style.color = "#ffffff"; // Text color
+        headerLevel.style.backgroundColor = "#00BFFF";
+        headerLevel.style.color = "#ffffff";
+        
         const headerMode = headerRow.insertCell();
-        headerMode.textContent = "Mode";
+        headerMode.textContent = "Chế độ";
         headerMode.style.border = "1px solid #dddddd";
         headerMode.style.padding = "8px";
-        headerMode.style.backgroundColor = "#00BFFF"; // Background color
-        headerMode.style.color = "#ffffff"; // Text color
+        headerMode.style.backgroundColor = "#00BFFF";
+        headerMode.style.color = "#ffffff";
+        
         const headerScore = headerRow.insertCell();
-        headerScore.textContent = "Score";
+        headerScore.textContent = "Điểm";
         headerScore.style.border = "1px solid #dddddd";
         headerScore.style.padding = "8px";
-        headerScore.style.backgroundColor = "#00BFFF"; // Background color
-        headerScore.style.color = "#ffffff"; // Text color
+        headerScore.style.backgroundColor = "#00BFFF";
+        headerScore.style.color = "#ffffff";
 
         quizSessions.forEach(entry => {
             const row = table.insertRow();
@@ -763,14 +757,17 @@ function LoadScoreHistory() {
             cellDate.textContent = entry.date;
             cellDate.style.border = "1px solid #dddddd";
             cellDate.style.padding = "8px";
+            
             const cellLevel = row.insertCell();
             cellLevel.textContent = entry.level;
             cellLevel.style.border = "1px solid #dddddd";
             cellLevel.style.padding = "8px";
+            
             const cellMode = row.insertCell();
             cellMode.textContent = entry.mode;
             cellMode.style.border = "1px solid #dddddd";
             cellMode.style.padding = "8px";
+            
             const cellScore = row.insertCell();
             cellScore.textContent = entry.score;
             cellScore.style.border = "1px solid #dddddd";
@@ -785,11 +782,12 @@ function LoadScoreHistory() {
 function resetStoredData() {
     localStorage.clear();
     const modal = document.getElementById("myModal2");
+    if (!modal) return;
     const modalContent = modal.querySelector(".modal-content");
     modalContent.innerHTML = `
     <span class="close" onclick="closeModal2()">&times;</span>
     <div class="resetstorage">
-      <button class="button-19" id="reset-storage-button" onclick="resetStoredData()">Reset Data</button>
+      <button class="button-19" id="reset-storage-button" onclick="resetStoredData()">Xóa lịch sử</button>
     </div>
-    <p style="text-align: center;">There is no score history available.</p>`;
+    <p style="text-align: center; margin-top: 20px;">Chưa có lịch sử điểm số nào.</p>`;
 }

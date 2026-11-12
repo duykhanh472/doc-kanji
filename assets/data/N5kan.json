@@ -5,7 +5,7 @@
       "あう",
       "au"
     ],
-    "meaning": "to meet, to see"
+    "meaning": "Gặp gỡ, hội ngộ"
   },
   {
     "kanji": "青",
@@ -13,7 +13,7 @@
       "あお",
       "ao"
     ],
-    "meaning": "blue"
+    "meaning": "THANH\n1. Màu xanh dương\n2. Màu xanh lá cây (trong tiếng Nhật cổ)"
   },
   {
     "kanji": "青い",
@@ -21,7 +21,7 @@
       "あおい",
       "aoi"
     ],
-    "meaning": "blue"
+    "meaning": "1. Màu xanh (dương hoặc lá)\n2. Còn xanh, chưa chín\n3. Non nớt, thiếu kinh nghiệm"
   },
   {
     "kanji": "赤",
@@ -29,7 +29,7 @@
       "あか",
       "aka"
     ],
-    "meaning": "red"
+    "meaning": "XÍCH\nMàu đỏ"
   },
   {
     "kanji": "赤い",
@@ -37,7 +37,7 @@
       "あかい",
       "akai"
     ],
-    "meaning": "red"
+    "meaning": "Đỏ"
   },
   {
     "kanji": "明るい",
@@ -45,7 +45,7 @@
       "あかるい",
       "akarui"
     ],
-    "meaning": "bright (in reference to personality or weather); cheerful"
+    "meaning": "1. Sáng sủa, tươi sáng\n2. Vui vẻ, hoạt bát\n3. Am hiểu, thông thạo (về lĩnh vực nào đó)"
   },
   {
     "kanji": "秋",
@@ -53,7 +53,7 @@
       "あき",
       "aki"
     ],
-    "meaning": "fall (season)"
+    "meaning": "THU\nMùa thu"
   },
   {
     "kanji": "開く",
@@ -61,7 +61,7 @@
       "あく",
       "aku"
     ],
-    "meaning": "to open, to become open"
+    "meaning": "1. Mở (cửa, sách, sự kiện)\n2. Nở (hoa)\n3. Há (miệng)\n4. Tổ chức (hội nghị, tiệc)"
   },
   {
     "kanji": "開ける",
@@ -69,7 +69,7 @@
       "あける",
       "akeru"
     ],
-    "meaning": "to open (v.t.)"
+    "meaning": "1. Mở (cửa, nắp)\n2. Há (miệng)\n3. Đào, đục, khoan (lỗ)"
   },
   {
     "kanji": "上げる",
@@ -77,7 +77,7 @@
       "あげる",
       "ageru"
     ],
-    "meaning": "to raise, to lift"
+    "meaning": "1. Nâng lên, đưa lên, giơ lên\n2. Tăng lên, làm tăng\n3. Hoàn thành, kết thúc\n4. Cho, biếu, tặng (khiêm nhường ngữ)\n5. Đề bạt, cất nhắc, đề cử\n6. Tiến hành, cử hành, tổ chức\n7. Nôn, mửa\n8. Giành được, thu được\n9. Hút lên\n10. Tố cáo, bắt giữ"
   },
   {
     "kanji": "朝",
@@ -85,7 +85,7 @@
       "あさ",
       "asa"
     ],
-    "meaning": "morning"
+    "meaning": "TRIÊU\nBuổi sáng"
   },
   {
     "kanji": "朝御飯",
@@ -93,7 +93,7 @@
       "あさごはん",
       "asagohan"
     ],
-    "meaning": "breakfast"
+    "meaning": "TRIÊU NGỰ PHẠN\nBữa sáng"
   },
   {
     "kanji": "明後日",
@@ -101,7 +101,7 @@
       "あさって",
       "asatte"
     ],
-    "meaning": "day after tomorrow"
+    "meaning": "MINH HẬU NHẬT\nNgày kia (hai ngày sau)"
   },
   {
     "kanji": "足; 脚",
@@ -109,7 +109,7 @@
       "あし",
       "ashi"
     ],
-    "meaning": "foot; leg"
+    "meaning": "TÚC\n1. Chân (bộ phận cơ thể)\n2. Phương tiện đi lại (nghĩa bóng)"
   },
   {
     "kanji": "明日",
@@ -117,7 +117,7 @@
       "あした",
       "ashita"
     ],
-    "meaning": "tomorrow"
+    "meaning": "MINH NHẬT\nNgày mai"
   },
   {
     "kanji": "遊ぶ",
@@ -125,7 +125,7 @@
       "あそぶ",
       "asobu"
     ],
-    "meaning": "to play; to spend time pleasantly; to hang out"
+    "meaning": "1. Chơi, vui chơi\n2. Nô đùa\n3. Nhàn rỗi, không làm việc"
   },
   {
     "kanji": "暖かい",
@@ -133,7 +133,7 @@
       "あたたかい",
       "atatakai"
     ],
-    "meaning": "warm"
+    "meaning": "1. Ấm áp (thời tiết, nhiệt độ)\n2. Đầm ấm, nồng hậu (tình cảm)"
   },
   {
     "kanji": "頭",
@@ -141,7 +141,7 @@
       "あたま",
       "atama"
     ],
-    "meaning": "head"
+    "meaning": "ĐẦU\n1. Cái đầu (bộ phận cơ thể)\n2. Đầu óc, trí tuệ\n3. Phần đầu, phần phía trước\n4. Đơn vị đếm cho gia súc lớn"
   },
   {
     "kanji": "新しい",
@@ -149,7 +149,7 @@
       "あたらしい",
       "atarashii"
     ],
-    "meaning": "new"
+    "meaning": "1. Mới\n2. Mới mẻ, tươi mới"
   },
   {
     "kanji": "暑い",
@@ -157,7 +157,7 @@
       "あつい",
       "atsui"
     ],
-    "meaning": "hot (in reference to weather), warm"
+    "meaning": "Nóng, nóng nực (dùng cho thời tiết)"
   },
   {
     "kanji": "熱い",
@@ -165,7 +165,7 @@
       "あつい",
       "atsui"
     ],
-    "meaning": "hot (objects)"
+    "meaning": "1. Nóng (nhiệt độ)\n2. Nóng bỏng, nhiệt tình (cảm xúc)"
   },
   {
     "kanji": "厚い",
@@ -173,7 +173,7 @@
       "あつい",
       "atsui"
     ],
-    "meaning": "kind, warm(hearted), thick, deep"
+    "meaning": "1. Dày (về kích thước)\n2. Nồng hậu, chân thành (về tình cảm)\n3. Ưu ái, hậu hĩnh"
   },
   {
     "kanji": "後",
@@ -181,7 +181,7 @@
       "あと",
       "ato"
     ],
-    "meaning": "afterwards (later); in the future; the rest; since then"
+    "meaning": "HẬU\n1. Sau, đằng sau\n2. Sau đó, muộn hơn\n3. Người kế vị, người nối nghiệp"
   },
   {
     "kanji": "兄",
@@ -189,7 +189,7 @@
       "あに",
       "ani"
     ],
-    "meaning": "(my) older brother (humble)"
+    "meaning": "HUYNH\nAnh trai (của mình)"
   },
   {
     "kanji": "姉",
@@ -197,7 +197,7 @@
       "あね",
       "ane"
     ],
-    "meaning": "(my) older sister (humble)"
+    "meaning": "TỈ\nChị gái (của mình)"
   },
   {
     "kanji": "浴びる",
@@ -205,7 +205,7 @@
       "あびる",
       "abiru"
     ],
-    "meaning": "to bathe, to shower"
+    "meaning": "1. Tắm\n2. Dội, đổ lên người\n3. Thu hút (sự chú ý, ánh nhìn)"
   },
   {
     "kanji": "危ない",
@@ -213,7 +213,7 @@
       "あぶない",
       "abunai"
     ],
-    "meaning": "dangerous, critical"
+    "meaning": "1. Nguy hiểm, không an toàn\n2. Nguy kịch, tình trạng xấu\n3. Đáng nghi, không đáng tin cậy"
   },
   {
     "kanji": "甘い",
@@ -221,7 +221,7 @@
       "あまい",
       "amai"
     ],
-    "meaning": "generous, sweet"
+    "meaning": "1. Ngọt (vị)\n2. Ngọt ngào, dễ chịu\n3. Lỏng lẻo, thiếu nghiêm khắc\n4. Ngây thơ, khờ khạo"
   },
   {
     "kanji": "余り",
@@ -229,7 +229,7 @@
       "あまり",
       "amari"
     ],
-    "meaning": "not very; surplus"
+    "meaning": "1. Phần còn lại, phần dư\n2. Không mấy (dùng với phủ định)\n3. Rất, quá (dùng trong câu khẳng định)"
   },
   {
     "kanji": "雨",
@@ -237,7 +237,7 @@
       "あめ",
       "ame"
     ],
-    "meaning": "rain"
+    "meaning": "VŨ\nMưa"
   },
   {
     "kanji": "飴",
@@ -245,7 +245,7 @@
       "あめ",
       "ame"
     ],
-    "meaning": "(hard) candy"
+    "meaning": "DI\nKẹo"
   },
   {
     "kanji": "洗う",
@@ -253,7 +253,7 @@
       "あらう",
       "arau"
     ],
-    "meaning": "to wash"
+    "meaning": "1. Giặt, rửa, tắm gội\n2. Vo (gạo)\n3. Điều tra kỹ lưỡng, làm sáng tỏ"
   },
   {
     "kanji": "在る",
@@ -261,7 +261,7 @@
       "ある",
       "aru"
     ],
-    "meaning": "to be, to have"
+    "meaning": "1. Có (tồn tại)\n2. Ở tại, nằm ở (vị trí)\n3. Là (trạng thái)"
   },
   {
     "kanji": "有る",
@@ -269,7 +269,7 @@
       "ある",
       "aru"
     ],
-    "meaning": "to be, to have"
+    "meaning": "1. Có (sở hữu)\n2. Tồn tại, hiện hữu"
   },
   {
     "kanji": "歩く",
@@ -277,7 +277,7 @@
       "あるく",
       "aruku"
     ],
-    "meaning": "to walk"
+    "meaning": "Đi bộ, bước đi"
   },
   {
     "kanji": "言う",
@@ -285,7 +285,7 @@
       "いう",
       "iu"
     ],
-    "meaning": "to say"
+    "meaning": "1. Nói, phát biểu\n2. Gọi là, được gọi là"
   },
   {
     "kanji": "家",
@@ -293,7 +293,7 @@
       "いえ",
       "ie"
     ],
-    "meaning": "house, home"
+    "meaning": "GIA\n1. Nhà (công trình kiến trúc)\n2. Gia đình, gia đình người khác"
   },
   {
     "kanji": "行く",
@@ -301,7 +301,7 @@
       "いく",
       "iku"
     ],
-    "meaning": "to go"
+    "meaning": "Đi"
   },
   {
     "kanji": "池",
@@ -309,7 +309,7 @@
       "いけ",
       "ike"
     ],
-    "meaning": "pond"
+    "meaning": "TRÌ\n1. Ao\n2. Hồ nhỏ"
   },
   {
     "kanji": "医者",
@@ -317,7 +317,7 @@
       "いしゃ",
       "isha"
     ],
-    "meaning": "doctor; physician"
+    "meaning": "Y GIẢ\nBác sĩ"
   },
   {
     "kanji": "椅子",
@@ -325,7 +325,7 @@
       "いす",
       "isu"
     ],
-    "meaning": "chair"
+    "meaning": "Y TỬ\nCái ghế"
   },
   {
     "kanji": "忙しい",
@@ -333,7 +333,7 @@
       "いそがしい",
       "isogashii"
     ],
-    "meaning": "busy (people, days)"
+    "meaning": "1. Bận rộn (công việc)\n2. Hối hả, tất bật"
   },
   {
     "kanji": "痛い",
@@ -341,7 +341,7 @@
       "いたい",
       "itai"
     ],
-    "meaning": "hurt; painful; sore"
+    "meaning": "1. Đau\n2. Nhức"
   },
   {
     "kanji": "一",
@@ -349,7 +349,7 @@
       "いち",
       "ichi"
     ],
-    "meaning": "one"
+    "meaning": "NHẤT\nMột"
   },
   {
     "kanji": "一日",
@@ -357,7 +357,7 @@
       "いちにち",
       "ichinichi"
     ],
-    "meaning": "one day (duration)"
+    "meaning": "NHẤT NHẬT\nMột ngày"
   },
   {
     "kanji": "一番",
@@ -365,7 +365,7 @@
       "いちばん",
       "ichiban"
     ],
-    "meaning": "best (most), first, number one"
+    "meaning": "NHẤT PHIÊN\n1. Nhất, tốt nhất\n2. Số một, đầu tiên"
   },
   {
     "kanji": "五日",
@@ -373,7 +373,7 @@
       "いつか",
       "itsuka"
     ],
-    "meaning": "five days; fifth day of the month"
+    "meaning": "NGŨ NHẬT\n1. Năm ngày\n2. Ngày mồng năm"
   },
   {
     "kanji": "一緒",
@@ -381,7 +381,7 @@
       "いっしょ",
       "issho"
     ],
-    "meaning": "together"
+    "meaning": "NHẤT TỰ\n1. Cùng nhau\n2. Sự giống nhau"
   },
   {
     "kanji": "五つ",
@@ -389,7 +389,7 @@
       "いつつ",
       "itsutsu"
     ],
-    "meaning": "five things"
+    "meaning": "Năm cái, năm chiếc"
   },
   {
     "kanji": "犬",
@@ -397,7 +397,7 @@
       "いぬ",
       "inu"
     ],
-    "meaning": "dog"
+    "meaning": "KHUYỂN\nCon chó"
   },
   {
     "kanji": "今",
@@ -405,7 +405,7 @@
       "いま",
       "ima"
     ],
-    "meaning": "now"
+    "meaning": "KIM\nBây giờ, hiện tại"
   },
   {
     "kanji": "意味",
@@ -413,7 +413,7 @@
       "いみ",
       "imi"
     ],
-    "meaning": "meaning, significance"
+    "meaning": "Ý VỊ\nÝ nghĩa"
   },
   {
     "kanji": "妹",
@@ -421,7 +421,7 @@
       "いもうと",
       "imouto"
     ],
-    "meaning": "younger sister (humble)"
+    "meaning": "MUỘI\nEm gái"
   },
   {
     "kanji": "嫌",
@@ -429,7 +429,7 @@
       "いや",
       "iya"
     ],
-    "meaning": "disagreeable, detestable, unpleasant"
+    "meaning": "HIỀM\n1. Khó chịu, không vừa ý\n2. Ghét, không thích"
   },
   {
     "kanji": "入口",
@@ -437,7 +437,7 @@
       "いりぐち",
       "iriguchi"
     ],
-    "meaning": "entrance"
+    "meaning": "NHẬP KHẨU\n1. Cửa vào, lối vào\n2. Sự bắt đầu, điểm khởi đầu"
   },
   {
     "kanji": "居る",
@@ -445,7 +445,7 @@
       "いる",
       "iru"
     ],
-    "meaning": "(humble) to be (animate), to exist"
+    "meaning": "1. Ở, tại (chỉ vị trí)\n2. Có (chỉ sự tồn tại của người hoặc động vật)"
   },
   {
     "kanji": "要る",
@@ -453,7 +453,7 @@
       "いる",
       "iru"
     ],
-    "meaning": "to need"
+    "meaning": "Cần"
   },
   {
     "kanji": "入れる",
@@ -461,7 +461,7 @@
       "いれる",
       "ireru"
     ],
-    "meaning": "to put in"
+    "meaning": "1. Cho vào, bỏ vào\n2. Đút vào\n3. Chứa, đựng\n4. Tuyển dụng, kết nạp\n5. Pha (trà, cà phê)"
   },
   {
     "kanji": "色",
@@ -469,7 +469,7 @@
       "いろ",
       "iro"
     ],
-    "meaning": "color"
+    "meaning": "SẮC\n1. Màu sắc\n2. Sắc thái, vẻ ngoài\n3. Sắc dục, tình ái"
   },
   {
     "kanji": "色々",
@@ -477,7 +477,7 @@
       "いろいろ",
       "iroiro"
     ],
-    "meaning": "various"
+    "meaning": "SẮC\nNhiều, đa dạng, phong phú"
   },
   {
     "kanji": "上",
@@ -485,7 +485,7 @@
       "うえ",
       "ue"
     ],
-    "meaning": "above (up, top, etc.), over, on top of"
+    "meaning": "THƯỢNG\n1. Trên, mặt trên, đỉnh\n2. Bên ngoài\n3. Hơn, giỏi hơn\n4. Sau khi (làm gì đó), căn cứ vào"
   },
   {
     "kanji": "後ろ",
@@ -493,7 +493,7 @@
       "うしろ",
       "ushiro"
     ],
-    "meaning": "back, behind, rear"
+    "meaning": "Phía sau, đằng sau"
   },
   {
     "kanji": "薄い",
@@ -501,7 +501,7 @@
       "うすい",
       "usui"
     ],
-    "meaning": "thin, weak"
+    "meaning": "1. Mỏng (độ dày)\n2. Nhạt (màu sắc, hương vị)\n3. Loãng (nồng độ)\n4. Mong manh, yếu ớt"
   },
   {
     "kanji": "歌",
@@ -509,7 +509,7 @@
       "うた",
       "uta"
     ],
-    "meaning": "a song"
+    "meaning": "CA\nBài hát, ca khúc"
   },
   {
     "kanji": "歌う",
@@ -517,7 +517,7 @@
       "うたう",
       "utau"
     ],
-    "meaning": "to sing"
+    "meaning": "Hát, ca hát"
   },
   {
     "kanji": "生まれる",
@@ -525,7 +525,7 @@
       "うまれる",
       "umareru"
     ],
-    "meaning": "to be born"
+    "meaning": "1. Được sinh ra\n2. Ra đời, lọt lòng"
   },
   {
     "kanji": "海",
@@ -533,7 +533,7 @@
       "うみ",
       "umi"
     ],
-    "meaning": "sea, beach"
+    "meaning": "HẢI\nBiển"
   },
   {
     "kanji": "売る",
@@ -541,7 +541,7 @@
       "うる",
       "uru"
     ],
-    "meaning": "to sell (v.t.)"
+    "meaning": "1. Bán\n2. Làm cho nổi tiếng (tên tuổi)\n3. Gây hấn, khiêu khích"
   },
   {
     "kanji": "上着",
@@ -549,7 +549,7 @@
       "うわぎ",
       "uwagi"
     ],
-    "meaning": "coat, jacket"
+    "meaning": "THƯỢNG TRỨ\nÁo khoác, áo vét"
   },
   {
     "kanji": "絵",
@@ -557,7 +557,7 @@
       "え",
       "e"
     ],
-    "meaning": "a painting; a picture; a drawing"
+    "meaning": "HỘI\nBức tranh, tranh vẽ"
   },
   {
     "kanji": "映画",
@@ -565,7 +565,7 @@
       "えいが",
       "eiga"
     ],
-    "meaning": "movie, film"
+    "meaning": "ÁNH HỌA\n1. Điện ảnh\n2. Phim"
   },
   {
     "kanji": "映画館",
@@ -573,7 +573,7 @@
       "えいがかん",
       "eigakan"
     ],
-    "meaning": "movie theater, cinema"
+    "meaning": "ÁNH HỌA QUÁN\nRạp chiếu phim"
   },
   {
     "kanji": "英語",
@@ -581,7 +581,7 @@
       "えいご",
       "eigo"
     ],
-    "meaning": "English (language)"
+    "meaning": "ANH NGỮ\nTiếng Anh"
   },
   {
     "kanji": "駅",
@@ -589,7 +589,7 @@
       "えき",
       "eki"
     ],
-    "meaning": "station"
+    "meaning": "DỊCH\nNhà ga"
   },
   {
     "kanji": "～円",
@@ -597,7 +597,7 @@
       "えん",
       "en"
     ],
-    "meaning": "Yen"
+    "meaning": "VIÊN\n1. Đồng Yên (đơn vị tiền tệ Nhật Bản)\n2. Hình tròn"
   },
   {
     "kanji": "鉛筆",
@@ -605,7 +605,7 @@
       "えんぴつ",
       "enpitsu"
     ],
-    "meaning": "pencil"
+    "meaning": "DUYÊN BÚT\nBút chì"
   },
   {
     "kanji": "美味しい",
@@ -613,7 +613,7 @@
       "おいしい",
       "oishii"
     ],
-    "meaning": "delicious, tasty"
+    "meaning": "1. Ngon (vị)\n2. Có lợi, thuận lợi, hấp dẫn (nghĩa bóng)"
   },
   {
     "kanji": "多い",
@@ -621,7 +621,7 @@
       "おおい",
       "ooi"
     ],
-    "meaning": "many; there are a lot"
+    "meaning": "Nhiều (số lượng)"
   },
   {
     "kanji": "大きい",
@@ -629,7 +629,7 @@
       "おおきい",
       "ookii"
     ],
-    "meaning": "big, large"
+    "meaning": "To, lớn, bự"
   },
   {
     "kanji": "大きな",
@@ -637,7 +637,7 @@
       "おおきな",
       "ookina"
     ],
-    "meaning": "big"
+    "meaning": "To, lớn (dùng làm định từ)"
   },
   {
     "kanji": "大勢",
@@ -645,7 +645,7 @@
       "おおぜい",
       "oozei"
     ],
-    "meaning": "great number of people"
+    "meaning": "ĐẠI THẾ\n1. Nhiều người, đám đông\n2. Xu thế chung, tình thế chung"
   },
   {
     "kanji": "お母さん",
@@ -653,7 +653,7 @@
       "おかあさん",
       "okaasan"
     ],
-    "meaning": "mother (formal)"
+    "meaning": "1. Mẹ\n2. Mẹ ơi (cách gọi thân mật)"
   },
   {
     "kanji": "お菓子",
@@ -661,7 +661,7 @@
       "おかし",
       "okashi"
     ],
-    "meaning": "confections, sweets, snack"
+    "meaning": "Bánh kẹo"
   },
   {
     "kanji": "お金",
@@ -669,7 +669,7 @@
       "おかね",
       "okane"
     ],
-    "meaning": "money"
+    "meaning": "Tiền, tiền bạc"
   },
   {
     "kanji": "起きる",
@@ -677,7 +677,7 @@
       "おきる",
       "okiru"
     ],
-    "meaning": "to get up (e.g., from sleeping); to happen"
+    "meaning": "1. Thức dậy, ngủ dậy\n2. Đứng dậy, ngồi dậy\n3. Xảy ra, diễn ra\n4. Bình phục (sức khỏe)"
   },
   {
     "kanji": "置く",
@@ -685,7 +685,7 @@
       "おく",
       "oku"
     ],
-    "meaning": "to put; to lay; to place"
+    "meaning": "1. Đặt, để\n2. Bố trí (người)\n3. Để chừa ra\n4. Để nguyên trạng thái\n5. Kinh doanh, bán\n6. Cho thuê chỗ ở\n7. Mang theo"
   },
   {
     "kanji": "奥さん",
@@ -693,7 +693,7 @@
       "おくさん",
       "okusan"
     ],
-    "meaning": "(someone else's) wife (hon.)"
+    "meaning": "Vợ (của người khác, cách gọi lịch sự)"
   },
   {
     "kanji": "お酒",
@@ -701,7 +701,7 @@
       "おさけ",
       "osake"
     ],
-    "meaning": "sake; alcohol"
+    "meaning": "Rượu, đồ uống có cồn"
   },
   {
     "kanji": "お皿",
@@ -709,7 +709,7 @@
       "おさら",
       "osara"
     ],
-    "meaning": "plate, dish"
+    "meaning": "Cái đĩa"
   },
   {
     "kanji": "伯父; 叔父さん",
@@ -717,7 +717,7 @@
       "おじさん",
       "ojisan"
     ],
-    "meaning": "uncle, middle-aged man"
+    "meaning": "BÁ PHỤ\n1. Bác (anh của cha hoặc mẹ)\n2. Chú (em của cha)"
   },
   {
     "kanji": "教える",
@@ -725,7 +725,7 @@
       "おしえる",
       "oshieru"
     ],
-    "meaning": "to teach, to inform, to instruct"
+    "meaning": "1. Dạy, giảng dạy\n2. Chỉ dẫn, hướng dẫn\n3. Cho biết, thông báo"
   },
   {
     "kanji": "押す",
@@ -733,7 +733,7 @@
       "おす",
       "osu"
     ],
-    "meaning": "to push, to press, to stamp (e.g., a passport)"
+    "meaning": "1. Đẩy, ấn, nhấn, bấm\n2. Đóng (dấu)\n3. Xô, đẩy mạnh\n4. Ép buộc, xúi giục\n5. Bất chấp, mặc dù"
   },
   {
     "kanji": "遅い",
@@ -741,7 +741,7 @@
       "おそい",
       "osoi"
     ],
-    "meaning": "slow; (to be) late"
+    "meaning": "1. Chậm (tốc độ)\n2. Muộn, trễ (thời gian)"
   },
   {
     "kanji": "お茶",
@@ -749,7 +749,7 @@
       "おちゃ",
       "ocha"
     ],
-    "meaning": "(green) tea"
+    "meaning": "1. Trà, chè\n2. Nước trà"
   },
   {
     "kanji": "お手洗い",
@@ -757,7 +757,7 @@
       "おてあらい",
       "otearai"
     ],
-    "meaning": "toilet, restroom, bathroom (lit., a place to wash one's hands)"
+    "meaning": "Nhà vệ sinh"
   },
   {
     "kanji": "お父さん",
@@ -765,7 +765,7 @@
       "おとうさん",
       "otousan"
     ],
-    "meaning": "father (formal)"
+    "meaning": "1. Bố\n2. Bố ơi (cách gọi thân mật)"
   },
   {
     "kanji": "弟",
@@ -773,7 +773,7 @@
       "おとうと",
       "otouto"
     ],
-    "meaning": "younger brother"
+    "meaning": "ĐỆ\nEm trai"
   },
   {
     "kanji": "男",
@@ -781,7 +781,7 @@
       "おとこ",
       "otoko"
     ],
-    "meaning": "man, male"
+    "meaning": "NAM\n1. Đàn ông\n2. Nam giới"
   },
   {
     "kanji": "男の子",
@@ -789,7 +789,7 @@
       "おとこのこ",
       "otokonoko"
     ],
-    "meaning": "boy"
+    "meaning": "1. Cậu bé\n2. Con đực (động vật)"
   },
   {
     "kanji": "一昨日",
@@ -797,7 +797,7 @@
       "おととい",
       "ototoi"
     ],
-    "meaning": "the day before yesterday"
+    "meaning": "NHẤT TẠC NHẬT\nHôm kia"
   },
   {
     "kanji": "大人",
@@ -805,7 +805,7 @@
       "おとな",
       "otona"
     ],
-    "meaning": "adult"
+    "meaning": "ĐẠI NHÂN\nNgười lớn, người trưởng thành"
   },
   {
     "kanji": "お腹",
@@ -813,7 +813,7 @@
       "おなか",
       "onaka"
     ],
-    "meaning": "stomach"
+    "meaning": "Bụng"
   },
   {
     "kanji": "同じ",
@@ -821,7 +821,7 @@
       "おなじ",
       "onaji"
     ],
-    "meaning": "same, identical"
+    "meaning": "Giống nhau, cùng một loại"
   },
   {
     "kanji": "お兄さん",
@@ -829,7 +829,7 @@
       "おにいさん",
       "oniisan"
     ],
-    "meaning": "(someone else's) older brother (formal)"
+    "meaning": "1. Anh trai (của người khác)\n2. Anh (cách gọi thân mật dành cho nam giới trẻ tuổi)"
   },
   {
     "kanji": "お姉さん",
@@ -837,7 +837,7 @@
       "おねえさん",
       "oneesan"
     ],
-    "meaning": "older sister (formal)"
+    "meaning": "1. Chị gái\n2. Cách gọi thân mật dành cho phụ nữ trẻ"
   },
   {
     "kanji": "伯母さん; 叔母さん",
@@ -845,7 +845,7 @@
       "おばさん",
       "obasan"
     ],
-    "meaning": "aunt"
+    "meaning": "Bác gái, cô (cách gọi tôn trọng)"
   },
   {
     "kanji": "お風呂",
@@ -853,7 +853,7 @@
       "おふろ",
       "ofuro"
     ],
-    "meaning": "a bath"
+    "meaning": "Bồn tắm, việc tắm rửa"
   },
   {
     "kanji": "お弁当",
@@ -861,7 +861,7 @@
       "おべんとう",
       "obentou"
     ],
-    "meaning": "a boxed lunch"
+    "meaning": "1. Cơm hộp\n2. Cơm trưa"
   },
   {
     "kanji": "覚える",
@@ -869,7 +869,7 @@
       "おぼえる",
       "oboeru"
     ],
-    "meaning": "to learn, to commit to memory, to remember, to memorize"
+    "meaning": "1. Ghi nhớ, học thuộc\n2. Học hỏi\n3. Cảm thấy (cảm giác, trạng thái)"
   },
   {
     "kanji": "重い",
@@ -877,7 +877,7 @@
       "おもい",
       "omoi"
     ],
-    "meaning": "heavy; serious"
+    "meaning": "1. Nặng (về trọng lượng)\n2. Trầm trọng, nghiêm trọng (về bệnh tật, trách nhiệm)"
   },
   {
     "kanji": "面白い",
@@ -885,7 +885,7 @@
       "おもしろい",
       "omoshiroi"
     ],
-    "meaning": "interesting, amusing"
+    "meaning": "1. Thú vị, hay\n2. Vui vẻ, hài hước"
   },
   {
     "kanji": "泳ぐ",
@@ -893,7 +893,7 @@
       "およぐ",
       "oyogu"
     ],
-    "meaning": "to swim"
+    "meaning": "1. Bơi\n2. Bơi lội\n3. Lội"
   },
   {
     "kanji": "降りる",
@@ -901,7 +901,7 @@
       "おりる",
       "oriru"
     ],
-    "meaning": "to get off"
+    "meaning": "1. Xuống (xe, tàu, núi)\n2. Rút lui (khỏi vị trí, cuộc chơi)\n3. Được cấp (visa, giấy phép)"
   },
   {
     "kanji": "終る",
@@ -909,7 +909,7 @@
       "おわる",
       "owaru"
     ],
-    "meaning": "to finish, to close"
+    "meaning": "Kết thúc, chấm dứt"
   },
   {
     "kanji": "音楽",
@@ -917,7 +917,7 @@
       "おんがく",
       "ongaku"
     ],
-    "meaning": "Music"
+    "meaning": "ÂM LẠC\nÂm nhạc"
   },
   {
     "kanji": "女",
@@ -925,7 +925,7 @@
       "おんな",
       "onna"
     ],
-    "meaning": "woman, female"
+    "meaning": "NỮ\nPhụ nữ, nữ giới"
   },
   {
     "kanji": "女の子",
@@ -933,7 +933,7 @@
       "おんなのこ",
       "onnanoko"
     ],
-    "meaning": "girl"
+    "meaning": "Cô bé, bé gái"
   },
   {
     "kanji": "～回",
@@ -941,7 +941,7 @@
       "かい",
       "kai"
     ],
-    "meaning": "counter for occurrences (~ times)"
+    "meaning": "HỒI\nLần, lượt (đơn vị đếm số lần)"
   },
   {
     "kanji": "～階",
@@ -949,7 +949,7 @@
       "かい",
       "kai"
     ],
-    "meaning": "counter for stories (floors) of a building"
+    "meaning": "GIAI\nTầng, lầu"
   },
   {
     "kanji": "外国",
@@ -957,7 +957,7 @@
       "がいこく",
       "gaikoku"
     ],
-    "meaning": "foreign country; abroad"
+    "meaning": "NGOẠI QUỐC\n1. Nước ngoài\n2. Ngoại quốc"
   },
   {
     "kanji": "外国人",
@@ -965,7 +965,7 @@
       "がいこくじん",
       "gaikokujin"
     ],
-    "meaning": "foreigner"
+    "meaning": "NGOẠI QUỐC NHÂN\nNgười nước ngoài"
   },
   {
     "kanji": "会社",
@@ -973,7 +973,7 @@
       "かいしゃ",
       "kaisha"
     ],
-    "meaning": "company, corporation"
+    "meaning": "HỘI XÃ\nCông ty, doanh nghiệp"
   },
   {
     "kanji": "階段",
@@ -981,7 +981,7 @@
       "かいだん",
       "kaidan"
     ],
-    "meaning": "stairs"
+    "meaning": "GIAI ĐOẠN\nCầu thang"
   },
   {
     "kanji": "買い物",
@@ -989,7 +989,7 @@
       "かいもの",
       "kaimono"
     ],
-    "meaning": "shopping"
+    "meaning": "1. Sự mua sắm\n2. Món hàng đã mua\n3. Thứ cần mua"
   },
   {
     "kanji": "買う",
@@ -997,7 +997,7 @@
       "かう",
       "kau"
     ],
-    "meaning": "to buy"
+    "meaning": "1. Mua, sắm, tậu\n2. Đánh giá cao, tán dương\n3. Chuốc lấy (phiền phức, rắc rối)"
   },
   {
     "kanji": "返す",
@@ -1005,7 +1005,7 @@
       "かえす",
       "kaesu"
     ],
-    "meaning": "to return something"
+    "meaning": "1. Trả lại (vật đã mượn)\n2. Đền đáp, đáp lại (ân nghĩa, tình cảm)\n3. Lật ngược lại"
   },
   {
     "kanji": "帰る",
@@ -1013,7 +1013,7 @@
       "かえる",
       "kaeru"
     ],
-    "meaning": "to go back, to go home, to return"
+    "meaning": "1. Về (nhà, nước, quê)\n2. Trở lại (trạng thái cũ)"
   },
   {
     "kanji": "顔",
@@ -1021,7 +1021,7 @@
       "かお",
       "kao"
     ],
-    "meaning": "face (body part)"
+    "meaning": "NHAN\n1. Khuôn mặt, gương mặt\n2. Diện mạo, vẻ mặt\n3. Sự quen biết, quan hệ xã hội"
   },
   {
     "kanji": "鍵",
@@ -1029,7 +1029,7 @@
       "かぎ",
       "kagi"
     ],
-    "meaning": "a lock; a key"
+    "meaning": "KIỆN\n1. Chìa khóa\n2. Khóa (cơ chế khóa)\n3. Chốt"
   },
   {
     "kanji": "書く",
@@ -1037,7 +1037,7 @@
       "かく",
       "kaku"
     ],
-    "meaning": "to write"
+    "meaning": "1. Viết\n2. Vẽ\n3. Soạn thảo, viết lách"
   },
   {
     "kanji": "学生",
@@ -1045,7 +1045,7 @@
       "がくせい",
       "gakusei"
     ],
-    "meaning": "student"
+    "meaning": "HỌC SANH\nSinh viên, học sinh"
   },
   {
     "kanji": "～か月",
@@ -1053,7 +1053,7 @@
       "かげつ",
       "kagetsu"
     ],
-    "meaning": "(number of) months"
+    "meaning": "Đơn vị đếm thời gian theo tháng (cách viết phổ biến trong văn bản thông thường)"
   },
   {
     "kanji": "掛ける",
@@ -1061,7 +1061,7 @@
       "かける",
       "kakeru"
     ],
-    "meaning": "to put on (e.g., glasses); to hang (e.g., on a wall)"
+    "meaning": "1. Treo\n2. Đắp (chăn)\n3. Đeo (kính, túi)\n4. Ngồi (lên ghế)\n5. Gọi (điện thoại)\n6. Bắt đầu làm gì đó\n7. Tốn (thời gian, tiền bạc)"
   },
   {
     "kanji": "傘",
@@ -1069,7 +1069,7 @@
       "かさ",
       "kasa"
     ],
-    "meaning": "umbrella, parasol"
+    "meaning": "TÁN\nCái ô, cái dù"
   },
   {
     "kanji": "貸す",
@@ -1077,7 +1077,7 @@
       "かす",
       "kasu"
     ],
-    "meaning": "to lend"
+    "meaning": "Cho vay, cho mượn"
   },
   {
     "kanji": "風",
@@ -1085,7 +1085,7 @@
       "かぜ",
       "kaze"
     ],
-    "meaning": "wind, breeze"
+    "meaning": "PHONG\nGió"
   },
   {
     "kanji": "風邪",
@@ -1093,7 +1093,7 @@
       "かぜ",
       "kaze"
     ],
-    "meaning": "cold, flu"
+    "meaning": "PHONG TÀ\nCảm lạnh, cảm cúm"
   },
   {
     "kanji": "方",
@@ -1102,7 +1102,7 @@
       "kata",
       "hou"
     ],
-    "meaning": "-- honorific form for 人 (ひと) --; way of doing"
+    "meaning": "PHƯƠNG\nVị, ngài (kính ngữ dùng cho người)"
   },
   {
     "kanji": "家族",
@@ -1110,7 +1110,7 @@
       "かぞく",
       "kazoku"
     ],
-    "meaning": "family, members of a family"
+    "meaning": "GIA TỘC\nGia đình, người thân trong gia đình"
   },
   {
     "kanji": "片仮名",
@@ -1118,7 +1118,7 @@
       "かたかな",
       "katakana"
     ],
-    "meaning": "katakana"
+    "meaning": "PHIẾN GIẢ DANH\nChữ Katakana (chữ cứng tiếng Nhật)"
   },
   {
     "kanji": "～月",
@@ -1126,7 +1126,7 @@
       "がつ",
       "gatsu"
     ],
-    "meaning": "month of year"
+    "meaning": "NGUYỆT\n1. Mặt trăng\n2. Tháng"
   },
   {
     "kanji": "学校",
@@ -1134,7 +1134,7 @@
       "がっこう",
       "gakkou"
     ],
-    "meaning": "a school"
+    "meaning": "HỌC GIÁO\nTrường học"
   },
   {
     "kanji": "家庭",
@@ -1142,7 +1142,7 @@
       "かてい",
       "katei"
     ],
-    "meaning": "home; family"
+    "meaning": "GIA ĐÌNH\nGia đình (tổ ấm)"
   },
   {
     "kanji": "角",
@@ -1150,7 +1150,7 @@
       "かど",
       "kado"
     ],
-    "meaning": "corner (e.g., desk, pavement)"
+    "meaning": "GIÁC\nGóc (hình học)"
   },
   {
     "kanji": "花瓶",
@@ -1158,7 +1158,7 @@
       "かびん",
       "kabin"
     ],
-    "meaning": "(flower) vase"
+    "meaning": "HOA BÌNH\nBình hoa, lọ hoa"
   },
   {
     "kanji": "紙",
@@ -1166,7 +1166,7 @@
       "かみ",
       "kami"
     ],
-    "meaning": "paper"
+    "meaning": "CHỈ\nGiấy"
   },
   {
     "kanji": "火曜日",
@@ -1174,7 +1174,7 @@
       "かようび",
       "kayoubi"
     ],
-    "meaning": "Tuesday"
+    "meaning": "HỎA DIỆU NHẬT\nThứ Ba"
   },
   {
     "kanji": "辛い",
@@ -1182,7 +1182,7 @@
       "からい",
       "karai"
     ],
-    "meaning": "hot and spicy; salty"
+    "meaning": "1. Cay\n2. Mặn"
   },
   {
     "kanji": "体",
@@ -1194,7 +1194,7 @@
       "tai",
       "たい"
     ],
-    "meaning": "body; health"
+    "meaning": "THỂ\n1. Cơ thể, thân thể\n2. Sức khỏe"
   },
   {
     "kanji": "借りる",
@@ -1202,7 +1202,7 @@
       "かりる",
       "kariru"
     ],
-    "meaning": "to borrow, to owe"
+    "meaning": "1. Mượn, vay (tiền, đồ vật)\n2. Thuê (nhà, đất)\n3. Nhờ cậy, nhờ sự giúp đỡ"
   },
   {
     "kanji": "軽い",
@@ -1210,7 +1210,7 @@
       "かるい",
       "karui"
     ],
-    "meaning": "light, non-serious, minor"
+    "meaning": "1. Nhẹ (trọng lượng)\n2. Nhẹ nhàng, thanh thoát (cử chỉ)\n3. Nhẹ, không nghiêm trọng (bệnh tật, tội lỗi)"
   },
   {
     "kanji": "川; 河",
@@ -1218,7 +1218,7 @@
       "かわ",
       "kawa"
     ],
-    "meaning": "river"
+    "meaning": "XUYÊN\nCon sông"
   },
   {
     "kanji": "～側",
@@ -1226,7 +1226,7 @@
       "がわ",
       "gawa"
     ],
-    "meaning": "~ side"
+    "meaning": "TRẮC\nPhía, bên"
   },
   {
     "kanji": "可愛い",
@@ -1234,7 +1234,7 @@
       "かわいい",
       "kawaii"
     ],
-    "meaning": "cute, adorable"
+    "meaning": "1. Đáng yêu, dễ thương\n2. Xinh xắn, xinh đẹp"
   },
   {
     "kanji": "漢字",
@@ -1242,7 +1242,7 @@
       "かんじ",
       "kanji"
     ],
-    "meaning": "kanji; Chinese character"
+    "meaning": "HÁN TỰ\nChữ Hán"
   },
   {
     "kanji": "木",
@@ -1250,7 +1250,7 @@
       "き",
       "ki"
     ],
-    "meaning": "tree, wood, timber"
+    "meaning": "MỘC\n1. Cây\n2. Gỗ"
   },
   {
     "kanji": "黄色",
@@ -1258,7 +1258,7 @@
       "きいろ",
       "kiiro"
     ],
-    "meaning": "yellow"
+    "meaning": "HOÀNG SẮC\nMàu vàng"
   },
   {
     "kanji": "黄色い",
@@ -1266,7 +1266,7 @@
       "きいろい",
       "kiiroi"
     ],
-    "meaning": "yellow"
+    "meaning": "Vàng"
   },
   {
     "kanji": "消える",
@@ -1274,7 +1274,7 @@
       "きえる",
       "kieru"
     ],
-    "meaning": "to vanish, to disappear"
+    "meaning": "1. Biến mất\n2. Tan đi\n3. Tắt (đèn, lửa)"
   },
   {
     "kanji": "聞く",
@@ -1282,7 +1282,7 @@
       "きく",
       "kiku"
     ],
-    "meaning": "to hear, to listen, to ask"
+    "meaning": "1. Nghe (âm thanh)\n2. Hỏi (thông tin)\n3. Nghe theo, vâng lời"
   },
   {
     "kanji": "北",
@@ -1290,7 +1290,7 @@
       "きた",
       "kita"
     ],
-    "meaning": "north"
+    "meaning": "BẮC\nPhía Bắc"
   },
   {
     "kanji": "汚い",
@@ -1298,7 +1298,7 @@
       "きたない",
       "kitanai"
     ],
-    "meaning": "dirty, unclean, filthy"
+    "meaning": "1. Bẩn, dơ bẩn\n2. Hèn hạ, bỉ ổi (tính cách)\n3. Táy máy, tắt mắt (hành vi)"
   },
   {
     "kanji": "喫茶店",
@@ -1306,7 +1306,7 @@
       "きっさてん",
       "kissaten"
     ],
-    "meaning": "café"
+    "meaning": "KHIẾT TRÀ ĐIẾM\nQuán cà phê, quán trà"
   },
   {
     "kanji": "切手",
@@ -1314,7 +1314,7 @@
       "きって",
       "kitte"
     ],
-    "meaning": "postal (postage) stamps"
+    "meaning": "THIẾT THỦ\nTem thư"
   },
   {
     "kanji": "切符",
@@ -1322,7 +1322,7 @@
       "きっぷ",
       "kippu"
     ],
-    "meaning": "a ticket"
+    "meaning": "THIẾT PHÙ\nVé"
   },
   {
     "kanji": "昨日",
@@ -1330,7 +1330,7 @@
       "きのう",
       "kinou"
     ],
-    "meaning": "yesterday"
+    "meaning": "TẠC NHẬT\nNgày hôm qua"
   },
   {
     "kanji": "九",
@@ -1340,7 +1340,7 @@
       "ku",
       "く"
     ],
-    "meaning": "nine"
+    "meaning": "CỬU\nChín (số 9)"
   },
   {
     "kanji": "牛肉",
@@ -1348,7 +1348,7 @@
       "ぎゅうにく",
       "gyuuniku"
     ],
-    "meaning": "beef"
+    "meaning": "NGƯU NHỤC\nThịt bò"
   },
   {
     "kanji": "牛乳",
@@ -1356,7 +1356,7 @@
       "ぎゅうにゅう",
       "gyuunyuu"
     ],
-    "meaning": "milk"
+    "meaning": "NGƯU NHŨ\nSữa bò"
   },
   {
     "kanji": "今日",
@@ -1364,7 +1364,7 @@
       "きょう",
       "kyou"
     ],
-    "meaning": "today, this day"
+    "meaning": "KIM NHẬT\n1. Hôm nay\n2. Ngày nay"
   },
   {
     "kanji": "教室",
@@ -1372,7 +1372,7 @@
       "きょうしつ",
       "kyoushitsu"
     ],
-    "meaning": "classroom"
+    "meaning": "GIÁO THẤT\nPhòng học, lớp học"
   },
   {
     "kanji": "兄弟",
@@ -1380,7 +1380,7 @@
       "きょうだい",
       "kyoudai"
     ],
-    "meaning": "siblings (humble), brothers and sisters"
+    "meaning": "HUYNH ĐỆ\nAnh em (trong gia đình)"
   },
   {
     "kanji": "去年",
@@ -1388,7 +1388,7 @@
       "きょねん",
       "kyonen"
     ],
-    "meaning": "last year"
+    "meaning": "KHỨ NIÊN\nNăm ngoái"
   },
   {
     "kanji": "嫌い",
@@ -1396,7 +1396,7 @@
       "きらい",
       "kirai"
     ],
-    "meaning": "dislike"
+    "meaning": "1. Ghét, không ưa, không thích\n2. Sự phân biệt, sự khu biệt"
   },
   {
     "kanji": "切る",
@@ -1404,7 +1404,7 @@
       "きる",
       "kiru"
     ],
-    "meaning": "to cut; to hang up (a phone)"
+    "meaning": "1. Cắt, thái, chặt, đốn\n2. Ngắt (điện, kết nối)\n3. Kết thúc, chấm dứt (quan hệ)\n4. Vượt qua (vạch đích, giới hạn)\n5. Bán hạ giá"
   },
   {
     "kanji": "着る",
@@ -1412,7 +1412,7 @@
       "きる",
       "kiru"
     ],
-    "meaning": "to put on (clothes above your waist); to wear"
+    "meaning": "Mặc (quần áo)"
   },
   {
     "kanji": "綺麗",
@@ -1420,7 +1420,7 @@
       "きれい",
       "kirei"
     ],
-    "meaning": "pretty, clean, tidy"
+    "meaning": "KHỈ LỆ\n1. Đẹp\n2. Sạch sẽ"
   },
   {
     "kanji": "銀行",
@@ -1428,7 +1428,7 @@
       "ぎんこう",
       "ginkou"
     ],
-    "meaning": "bank"
+    "meaning": "NGÂN HÀNH\nNgân hàng"
   },
   {
     "kanji": "金曜日",
@@ -1436,7 +1436,7 @@
       "きんようび",
       "kinyoubi"
     ],
-    "meaning": "Friday"
+    "meaning": "KIM DIỆU NHẬT\nNgày thứ sáu"
   },
   {
     "kanji": "薬",
@@ -1444,7 +1444,7 @@
       "くすり",
       "kusuri"
     ],
-    "meaning": "medicine"
+    "meaning": "DƯỢC\nThuốc"
   },
   {
     "kanji": "下さい",
@@ -1452,7 +1452,7 @@
       "ください",
       "kudasai"
     ],
-    "meaning": "(with te-form verb) please do for me"
+    "meaning": "Vui lòng, xin hãy (dùng sau động từ dạng Te để yêu cầu lịch sự)"
   },
   {
     "kanji": "果物",
@@ -1460,7 +1460,7 @@
       "くだもの",
       "kudamono"
     ],
-    "meaning": "fruit"
+    "meaning": "QUẢ VẬT\nTrái cây, hoa quả"
   },
   {
     "kanji": "口",
@@ -1468,7 +1468,7 @@
       "くち",
       "kuchi"
     ],
-    "meaning": "job opening; mouth"
+    "meaning": "KHẨU\n1. Miệng (bộ phận cơ thể)\n2. Cửa, lối vào, chỗ ra vào\n3. Khẩu phần, phần ăn\n4. Lời nói, sự bàn tán"
   },
   {
     "kanji": "靴",
@@ -1476,7 +1476,7 @@
       "くつ",
       "kutsu"
     ],
-    "meaning": "shoes, footwear"
+    "meaning": "NGOA\nGiày"
   },
   {
     "kanji": "靴下",
@@ -1484,7 +1484,7 @@
       "くつした",
       "kutsushita"
     ],
-    "meaning": "socks"
+    "meaning": "NGOA HẠ\nTất, vớ"
   },
   {
     "kanji": "国",
@@ -1492,7 +1492,7 @@
       "くに",
       "kuni"
     ],
-    "meaning": "country; place of origin"
+    "meaning": "QUỐC\n1. Đất nước, quốc gia\n2. Quê hương, quê nhà"
   },
   {
     "kanji": "曇り",
@@ -1500,7 +1500,7 @@
       "くもり",
       "kumori"
     ],
-    "meaning": "cloudiness, cloudy weather"
+    "meaning": "1. Trời nhiều mây, trời râm\n2. Sự mờ đục (của gương, kính)\n3. Sự không trong sạch, vết nhơ (trong tâm hồn hoặc danh dự)"
   },
   {
     "kanji": "曇る",
@@ -1508,7 +1508,7 @@
       "くもる",
       "kumoru"
     ],
-    "meaning": "to become cloudy, to become dim"
+    "meaning": "1. Trở nên nhiều mây, râm mát\n2. Trở nên mờ đục (kính, gương)\n3. Trở nên u sầu, buồn bã (nét mặt, tâm trạng)"
   },
   {
     "kanji": "暗い",
@@ -1516,7 +1516,7 @@
       "くらい",
       "kurai"
     ],
-    "meaning": "dark, gloomy"
+    "meaning": "1. Tối, thiếu ánh sáng\n2. Tối màu\n3. U ám, buồn bã (tâm trạng)\n4. Mờ ám, không minh bạch"
   },
   {
     "kanji": "来る",
@@ -1524,7 +1524,7 @@
       "くる",
       "kuru"
     ],
-    "meaning": "to come"
+    "meaning": "1. Đến, tới (nơi chốn)\n2. Sắp đến, sắp tới (thời gian)\n3. Trải qua, đến mức (trạng thái)"
   },
   {
     "kanji": "車",
@@ -1532,7 +1532,7 @@
       "くるま",
       "kuruma"
     ],
-    "meaning": "car, vehicle"
+    "meaning": "XA\n1. Xe cộ\n2. Ô tô, xe hơi\n3. Bánh xe"
   },
   {
     "kanji": "黒",
@@ -1540,7 +1540,7 @@
       "くろ",
       "kuro"
     ],
-    "meaning": "black"
+    "meaning": "HẮC\n1. Màu đen\n2. Có tội, phạm tội"
   },
   {
     "kanji": "黒い",
@@ -1548,7 +1548,7 @@
       "くろい",
       "kuroi"
     ],
-    "meaning": "black; dark"
+    "meaning": "1. Đen\n2. Đen tối, xấu xa (nghĩa bóng)"
   },
   {
     "kanji": "警官",
@@ -1556,7 +1556,7 @@
       "けいかん",
       "keikan"
     ],
-    "meaning": "police officer"
+    "meaning": "CẢNH QUAN\nCảnh sát, sĩ quan cảnh sát"
   },
   {
     "kanji": "今朝",
@@ -1564,7 +1564,7 @@
       "けさ",
       "kesa"
     ],
-    "meaning": "this morning"
+    "meaning": "KIM TRIÊU\nSáng nay"
   },
   {
     "kanji": "消す",
@@ -1572,7 +1572,7 @@
       "けす",
       "kesu"
     ],
-    "meaning": "to erase, to delete, to turn off power"
+    "meaning": "1. Tẩy, xóa (chữ)\n2. Dập (lửa)\n3. Tắt (thiết bị điện)\n4. Làm biến mất"
   },
   {
     "kanji": "結構",
@@ -1580,7 +1580,7 @@
       "けっこう",
       "kekkou"
     ],
-    "meaning": "splendid; enough, tolerably"
+    "meaning": "KẾT CẤU\n1. Kết cấu, cấu trúc\n2. Tạm được, khá tốt, đủ rồi (từ chối khéo)\n3. Tuyệt vời, tốt đẹp"
   },
   {
     "kanji": "結婚",
@@ -1588,7 +1588,7 @@
       "けっこん",
       "kekkon"
     ],
-    "meaning": "marriage (get married)"
+    "meaning": "KẾT HÔN\n1. Kết hôn, lập gia đình\n2. Hôn nhân"
   },
   {
     "kanji": "月曜日",
@@ -1596,7 +1596,7 @@
       "げつようび",
       "getsuyoubi"
     ],
-    "meaning": "Monday"
+    "meaning": "NGUYỆT DIỆU NHẬT\nThứ Hai"
   },
   {
     "kanji": "玄関",
@@ -1604,7 +1604,7 @@
       "げんかん",
       "genkan"
     ],
-    "meaning": "entrance (to a house or a building)"
+    "meaning": "HUYỀN QUAN\nLối vào, sảnh vào, cửa ra vào"
   },
   {
     "kanji": "元気",
@@ -1612,7 +1612,7 @@
       "げんき",
       "genki"
     ],
-    "meaning": "health(y), energetic"
+    "meaning": "NGUYÊN KHÍ\n1. Khỏe mạnh (thể chất)\n2. Tươi tỉnh, tràn đầy năng lượng (tinh thần)"
   },
   {
     "kanji": "～個",
@@ -1620,7 +1620,7 @@
       "こ",
       "ko"
     ],
-    "meaning": "counter for small items (e.g., fruits, cups)"
+    "meaning": "CÁ\n1. Cái, chiếc (đơn vị đếm vật nhỏ)\n2. Cá nhân"
   },
   {
     "kanji": "五",
@@ -1628,7 +1628,7 @@
       "ご",
       "go"
     ],
-    "meaning": "five"
+    "meaning": "NGŨ\nSố năm"
   },
   {
     "kanji": "～語",
@@ -1636,7 +1636,7 @@
       "ご",
       "go"
     ],
-    "meaning": "word, language"
+    "meaning": "NGỮ\n1. Ngôn ngữ\n2. Từ, từ ngữ"
   },
   {
     "kanji": "公園",
@@ -1644,7 +1644,7 @@
       "こうえん",
       "kouen"
     ],
-    "meaning": "a park"
+    "meaning": "CÔNG VIÊN\nCông viên"
   },
   {
     "kanji": "交差点",
@@ -1652,7 +1652,7 @@
       "こうさてん",
       "kousaten"
     ],
-    "meaning": "intersection"
+    "meaning": "GIAO SOA ĐIỂM\n1. Ngã tư\n2. Điểm giao nhau\n3. Giao điểm"
   },
   {
     "kanji": "紅茶",
@@ -1660,7 +1660,7 @@
       "こうちゃ",
       "koucha"
     ],
-    "meaning": "black tea"
+    "meaning": "HỒNG TRÀ\nTrà đen (hồng trà)"
   },
   {
     "kanji": "交番",
@@ -1668,7 +1668,7 @@
       "こうばん",
       "kouban"
     ],
-    "meaning": "police box"
+    "meaning": "GIAO PHIÊN\nĐồn cảnh sát (quy mô nhỏ tại Nhật Bản)"
   },
   {
     "kanji": "声",
@@ -1676,7 +1676,7 @@
       "こえ",
       "koe"
     ],
-    "meaning": "voice"
+    "meaning": "THANH\nGiọng nói, tiếng nói"
   },
   {
     "kanji": "午後",
@@ -1684,7 +1684,7 @@
       "ごご",
       "gogo"
     ],
-    "meaning": "afternoon, P.M."
+    "meaning": "NGỌ HẬU\nBuổi chiều (sau 12 giờ trưa)"
   },
   {
     "kanji": "九日",
@@ -1692,7 +1692,7 @@
       "ここのか",
       "kokonoka"
     ],
-    "meaning": "nine days; ninth day of the month"
+    "meaning": "CỬU NHẬT\n1. Ngày mồng 9\n2. Chín ngày"
   },
   {
     "kanji": "九つ",
@@ -1700,7 +1700,7 @@
       "ここのつ",
       "kokonotsu"
     ],
-    "meaning": "nine things"
+    "meaning": "Chín cái, chín chiếc"
   },
   {
     "kanji": "午前",
@@ -1708,7 +1708,7 @@
       "ごぜん",
       "gozen"
     ],
-    "meaning": "morning, A.M."
+    "meaning": "NGỌ TIỀN\nBuổi sáng (trước 12 giờ trưa)"
   },
   {
     "kanji": "答える",
@@ -1716,7 +1716,7 @@
       "こたえる",
       "kotaeru"
     ],
-    "meaning": "to answer, to reply"
+    "meaning": "1. Trả lời, hồi đáp\n2. Đáp ứng (kỳ vọng, yêu cầu)"
   },
   {
     "kanji": "今年",
@@ -1724,7 +1724,7 @@
       "ことし",
       "kotoshi"
     ],
-    "meaning": "this year"
+    "meaning": "KIM NIÊN\nNăm nay"
   },
   {
     "kanji": "言葉",
@@ -1732,7 +1732,7 @@
       "ことば",
       "kotoba"
     ],
-    "meaning": "language; word(s); expression(s)"
+    "meaning": "NGÔN DIỆP\n1. Ngôn ngữ, tiếng nói\n2. Từ ngữ, lời nói"
   },
   {
     "kanji": "子供",
@@ -1740,7 +1740,7 @@
       "こども",
       "kodomo"
     ],
-    "meaning": "child(ren)"
+    "meaning": "TỬ CUNG\n1. Trẻ em, trẻ con\n2. Con cái"
   },
   {
     "kanji": "御飯",
@@ -1748,7 +1748,7 @@
       "ごはん",
       "gohan"
     ],
-    "meaning": "rice (cooked); meal"
+    "meaning": "NGỰ PHẠN\n1. Cơm\n2. Bữa ăn"
   },
   {
     "kanji": "困る",
@@ -1756,7 +1756,7 @@
       "こまる",
       "komaru"
     ],
-    "meaning": "to be bothered, to have difficulty"
+    "meaning": "1. Bối rối, lúng túng\n2. Gặp khó khăn (về tiền bạc, cuộc sống)"
   },
   {
     "kanji": "今月",
@@ -1764,7 +1764,7 @@
       "こんげつ",
       "kongetsu"
     ],
-    "meaning": "this month"
+    "meaning": "KIM NGUYỆT\nTháng này"
   },
   {
     "kanji": "今週",
@@ -1772,7 +1772,7 @@
       "こんしゅう",
       "konshuu"
     ],
-    "meaning": "this week"
+    "meaning": "KIM CHU\nTuần này"
   },
   {
     "kanji": "今晩",
@@ -1780,7 +1780,7 @@
       "こんばん",
       "konban"
     ],
-    "meaning": "tonight, this evening"
+    "meaning": "KIM VÃN\nTối nay"
   },
   {
     "kanji": "～歳",
@@ -1788,7 +1788,7 @@
       "さい",
       "sai"
     ],
-    "meaning": "~ years old"
+    "meaning": "TUẾ\nTuổi"
   },
   {
     "kanji": "財布",
@@ -1796,7 +1796,7 @@
       "さいふ",
       "saifu"
     ],
-    "meaning": "wallet"
+    "meaning": "TÀI BỐ\nVí, bóp đựng tiền"
   },
   {
     "kanji": "魚",
@@ -1804,7 +1804,7 @@
       "さかな",
       "sakana"
     ],
-    "meaning": "fish"
+    "meaning": "NGƯ\nCá"
   },
   {
     "kanji": "先",
@@ -1812,7 +1812,7 @@
       "さき",
       "saki"
     ],
-    "meaning": "future; recent, previous"
+    "meaning": "TIÊN\n1. Đầu mút, mũi nhọn\n2. Tương lai\n3. Trước đây, quá khứ\n4. Điểm đến, nơi đến"
   },
   {
     "kanji": "咲く",
@@ -1820,7 +1820,7 @@
       "さく",
       "saku"
     ],
-    "meaning": "to bloom"
+    "meaning": "Nở (hoa)"
   },
   {
     "kanji": "作文",
@@ -1828,7 +1828,7 @@
       "さくぶん",
       "sakubun"
     ],
-    "meaning": "essay; composition"
+    "meaning": "TÁC VĂN\n1. Việc đặt câu\n2. Việc viết văn, làm văn\n3. Đoạn văn"
   },
   {
     "kanji": "差す",
@@ -1836,7 +1836,7 @@
       "さす",
       "sasu"
     ],
-    "meaning": "to raise (stretch out) hands, to raise (e.g., umbrella)"
+    "meaning": "1. Giương (ô), che (ô)\n2. Giơ (tay)\n3. Chiếu (ánh sáng)\n4. Rót (rượu, trà)\n5. Cắm (hoa)"
   },
   {
     "kanji": "～冊",
@@ -1844,7 +1844,7 @@
       "さつ",
       "satsu"
     ],
-    "meaning": "counter for books"
+    "meaning": "SÁCH\nQuyển, tập (từ chỉ đơn vị đếm sách, vở)"
   },
   {
     "kanji": "雑誌",
@@ -1852,7 +1852,7 @@
       "ざっし",
       "zasshi"
     ],
-    "meaning": "magazine, journal"
+    "meaning": "TẠP CHÍ\nTạp chí"
   },
   {
     "kanji": "砂糖",
@@ -1860,7 +1860,7 @@
       "さとう",
       "satou"
     ],
-    "meaning": "sugar"
+    "meaning": "SA ĐƯỜNG\nĐường (ăn)"
   },
   {
     "kanji": "寒い",
@@ -1868,7 +1868,7 @@
       "さむい",
       "samui"
     ],
-    "meaning": "cold (in reference to weather)"
+    "meaning": "1. Lạnh, rét (thời tiết)\n2. Lạnh lẽo (cảm giác)"
   },
   {
     "kanji": "さ来年",
@@ -1876,7 +1876,7 @@
       "さらいねん",
       "sarainen"
     ],
-    "meaning": "year after next"
+    "meaning": "Năm sau nữa (năm kế tiếp của năm sau)"
   },
   {
     "kanji": "三",
@@ -1884,7 +1884,7 @@
       "さん",
       "san"
     ],
-    "meaning": "three"
+    "meaning": "TAM\nSố ba"
   },
   {
     "kanji": "散歩",
@@ -1892,7 +1892,7 @@
       "さんぽ",
       "sanpo"
     ],
-    "meaning": "walk, stroll"
+    "meaning": "TÁN BỘ\nSự đi dạo, tản bộ"
   },
   {
     "kanji": "四",
@@ -1902,7 +1902,7 @@
       "yon",
       "よん"
     ],
-    "meaning": "four"
+    "meaning": "TỨ\nSố bốn"
   },
   {
     "kanji": "塩",
@@ -1910,7 +1910,7 @@
       "しお",
       "shio"
     ],
-    "meaning": "salt"
+    "meaning": "DIÊM\nMuối"
   },
   {
     "kanji": "時間",
@@ -1918,7 +1918,7 @@
       "じかん",
       "jikan"
     ],
-    "meaning": "time"
+    "meaning": "THÌ GIAN\n1. Thời gian\n2. Giờ, tiếng đồng hồ\n3. Thời điểm, thời giờ"
   },
   {
     "kanji": "～時間",
@@ -1926,7 +1926,7 @@
       "じかん",
       "jikan"
     ],
-    "meaning": "~ hours"
+    "meaning": "THÌ GIAN\n1. Thời gian\n2. Giờ, tiếng đồng hồ\n3. Thời điểm, thời giờ"
   },
   {
     "kanji": "仕事",
@@ -1934,7 +1934,7 @@
       "しごと",
       "shigoto"
     ],
-    "meaning": "work, job, occupation, employment"
+    "meaning": "SĨ SỰ\nCông việc, việc làm"
   },
   {
     "kanji": "辞書",
@@ -1942,7 +1942,7 @@
       "じしょ",
       "jisho"
     ],
-    "meaning": "dictionary"
+    "meaning": "TỪ THƯ\nTừ điển"
   },
   {
     "kanji": "静か",
@@ -1950,7 +1950,7 @@
       "しずか",
       "shizuka"
     ],
-    "meaning": "quiet, calm"
+    "meaning": "Yên tĩnh, thanh bình"
   },
   {
     "kanji": "下",
@@ -1958,7 +1958,7 @@
       "した",
       "shita"
     ],
-    "meaning": "under, below, beneath"
+    "meaning": "HẠ\n1. Phía dưới, bên dưới\n2. Phần dưới\n3. Tập sau (của một bộ sách)"
   },
   {
     "kanji": "七",
@@ -1968,7 +1968,7 @@
       "nana",
       "なな"
     ],
-    "meaning": "seven"
+    "meaning": "THẤT\n1. Số bảy\n2. Thất (cách đọc Hán-Nhật)"
   },
   {
     "kanji": "質問",
@@ -1976,7 +1976,7 @@
       "しつもん",
       "shitsumon"
     ],
-    "meaning": "question, inquiry"
+    "meaning": "CHẤT VẤN\n1. Câu hỏi\n2. Sự chất vấn"
   },
   {
     "kanji": "自転車",
@@ -1984,7 +1984,7 @@
       "じてんしゃ",
       "jitensha"
     ],
-    "meaning": "bicycle"
+    "meaning": "TỰ CHUYỂN XA\nXe đạp"
   },
   {
     "kanji": "自動車",
@@ -1992,7 +1992,7 @@
       "じどうしゃ",
       "jidousha"
     ],
-    "meaning": "automobile"
+    "meaning": "TỰ ĐỘNG XA\nXe ô tô"
   },
   {
     "kanji": "死ぬ",
@@ -2000,7 +2000,7 @@
       "しぬ",
       "shinu"
     ],
-    "meaning": "to die"
+    "meaning": "1. Chết\n2. Qua đời (lịch sự)\n3. Lâm chung (trang trọng)"
   },
   {
     "kanji": "字引",
@@ -2008,7 +2008,7 @@
       "じびき",
       "jibiki"
     ],
-    "meaning": "dictionary"
+    "meaning": "TỰ DẪN\nTừ điển"
   },
   {
     "kanji": "自分",
@@ -2016,7 +2016,7 @@
       "じぶん",
       "jibun"
     ],
-    "meaning": "myself, oneself"
+    "meaning": "TỰ PHÂN\nBản thân, tự mình"
   },
   {
     "kanji": "閉まる",
@@ -2024,7 +2024,7 @@
       "しまる",
       "shimaru"
     ],
-    "meaning": "to close, to be closed"
+    "meaning": "Được đóng lại, bị đóng chặt"
   },
   {
     "kanji": "閉める",
@@ -2032,7 +2032,7 @@
       "しめる",
       "shimeru"
     ],
-    "meaning": "to close, to shut"
+    "meaning": "1. Đóng (cửa, cửa sổ)\n2. Gài (chốt, khóa)"
   },
   {
     "kanji": "締める",
@@ -2040,7 +2040,7 @@
       "しめる",
       "shimeru"
     ],
-    "meaning": "to tie, to fasten, to tighten"
+    "meaning": "1. Buộc, thắt (dây, cà vạt)\n2. Vặn chặt (ốc vít)\n3. Đóng (cửa, sổ sách)\n4. Tổng kết, kết thúc"
   },
   {
     "kanji": "写真",
@@ -2048,7 +2048,7 @@
       "しゃしん",
       "shashin"
     ],
-    "meaning": "a picture; a photograph"
+    "meaning": "TẢ CHÂN\nẢnh, bức ảnh"
   },
   {
     "kanji": "十",
@@ -2056,7 +2056,7 @@
       "じゅう",
       "juu"
     ],
-    "meaning": "ten"
+    "meaning": "THẬP\n1. Mười\n2. Số mười"
   },
   {
     "kanji": "～中",
@@ -2064,7 +2064,7 @@
       "じゅう",
       "juu"
     ],
-    "meaning": "during, while"
+    "meaning": "TRUNG\n1. Bên trong\n2. Ở giữa\n3. Trong khi, trong suốt khoảng thời gian"
   },
   {
     "kanji": "～週間",
@@ -2072,7 +2072,7 @@
       "しゅうかん",
       "shuukan"
     ],
-    "meaning": "~ weeks"
+    "meaning": "CHU GIAN\n1. Hàng tuần\n2. Khoảng thời gian một tuần"
   },
   {
     "kanji": "授業",
@@ -2080,7 +2080,7 @@
       "じゅぎょう",
       "jugyou"
     ],
-    "meaning": "a class (of school)"
+    "meaning": "THỤ NGHIỆP\n1. Giờ học, buổi học\n2. Sự giảng dạy"
   },
   {
     "kanji": "宿題",
@@ -2088,7 +2088,7 @@
       "しゅくだい",
       "shukudai"
     ],
-    "meaning": "homework"
+    "meaning": "TÚC ĐỀ\nBài tập về nhà"
   },
   {
     "kanji": "上手",
@@ -2096,7 +2096,7 @@
       "じょうず",
       "jouzu"
     ],
-    "meaning": "be good at, skillful"
+    "meaning": "THƯỢNG THỦ\n1. Giỏi, khéo léo\n2. Lời tâng bốc, nịnh nọt"
   },
   {
     "kanji": "丈夫",
@@ -2104,7 +2104,7 @@
       "じょうぶ",
       "joubu"
     ],
-    "meaning": "strong, solid, durable"
+    "meaning": "TRƯỢNG PHU\nSự bền bỉ, vững chắc, khỏe mạnh"
   },
   {
     "kanji": "醤油",
@@ -2112,7 +2112,7 @@
       "しょうゆ",
       "shouyu"
     ],
-    "meaning": "soy sauce"
+    "meaning": "DU\nNước tương, xì dầu"
   },
   {
     "kanji": "食堂",
@@ -2120,7 +2120,7 @@
       "しょくどう",
       "shokudou"
     ],
-    "meaning": "cafeteria, dining hall"
+    "meaning": "THỰC ĐƯỜNG\n1. Nhà ăn, phòng ăn\n2. Quán ăn"
   },
   {
     "kanji": "知る",
@@ -2128,7 +2128,7 @@
       "しる",
       "shiru"
     ],
-    "meaning": "to know, to understand"
+    "meaning": "1. Biết (thông tin, kiến thức)\n2. Nhận ra, hay tin\n3. Quen biết (người)"
   },
   {
     "kanji": "白",
@@ -2136,7 +2136,7 @@
       "しろ",
       "shiro"
     ],
-    "meaning": "white"
+    "meaning": "BẠCH\n1. Màu trắng\n2. Vật màu trắng\n3. Người da trắng\n4. Vô tội, trong sạch (nghĩa bóng)"
   },
   {
     "kanji": "白い",
@@ -2144,7 +2144,7 @@
       "しろい",
       "shiroi"
     ],
-    "meaning": "white"
+    "meaning": "1. Màu trắng\n2. Trắng trẻo\n3. Vô tội, trong sạch"
   },
   {
     "kanji": "～人",
@@ -2152,7 +2152,7 @@
       "にん",
       "nin"
     ],
-    "meaning": "counter for people"
+    "meaning": "NHÂN\nNgười (hậu tố chỉ người làm một công việc hoặc thuộc một nhóm nào đó)"
   },
   {
     "kanji": "新聞",
@@ -2160,7 +2160,7 @@
       "しんぶん",
       "shinbun"
     ],
-    "meaning": "newspaper"
+    "meaning": "TÂN VĂN\n1. Báo, tờ báo\n2. Nhật báo"
   },
   {
     "kanji": "水曜日",
@@ -2168,7 +2168,7 @@
       "すいようび",
       "suiyoubi"
     ],
-    "meaning": "Wednesday"
+    "meaning": "THỦY DIỆU NHẬT\nNgày thứ tư"
   },
   {
     "kanji": "吸う",
@@ -2176,7 +2176,7 @@
       "すう",
       "suu"
     ],
-    "meaning": "to breathe in, to suck"
+    "meaning": "1. Hút (thuốc, không khí)\n2. Hít vào\n3. Bú (sữa)\n4. Mút"
   },
   {
     "kanji": "好き",
@@ -2184,7 +2184,7 @@
       "すき",
       "suki"
     ],
-    "meaning": "liking, fondness, love"
+    "meaning": "1. Sự yêu thích\n2. Yêu, mến, thích"
   },
   {
     "kanji": "少ない",
@@ -2192,7 +2192,7 @@
       "すくない",
       "sukunai"
     ],
-    "meaning": "a little; a few"
+    "meaning": "Ít, hiếm"
   },
   {
     "kanji": "少し",
@@ -2200,7 +2200,7 @@
       "すこし",
       "sukoshi"
     ],
-    "meaning": "little, few"
+    "meaning": "Một chút, một ít, hơi"
   },
   {
     "kanji": "涼しい",
@@ -2208,7 +2208,7 @@
       "すずしい",
       "suzushii"
     ],
-    "meaning": "cool, refreshing (in reference to weather)"
+    "meaning": "1. Mát mẻ (thời tiết)\n2. Bình thản, tỉnh bơ (thái độ)"
   },
   {
     "kanji": "住む",
@@ -2216,7 +2216,7 @@
       "すむ",
       "sumu"
     ],
-    "meaning": "to reside, to live in"
+    "meaning": "1. Cư trú, sinh sống\n2. Trú ngụ (động vật)"
   },
   {
     "kanji": "座る",
@@ -2224,7 +2224,7 @@
       "すわる",
       "suwaru"
     ],
-    "meaning": "to sit"
+    "meaning": "1. Ngồi\n2. Ổn định (vị trí, tâm trạng)"
   },
   {
     "kanji": "背",
@@ -2232,7 +2232,7 @@
       "せい",
       "sei"
     ],
-    "meaning": "(one's) height, stature"
+    "meaning": "BỐI\n1. Lưng\n2. Mặt sau, phía sau"
   },
   {
     "kanji": "生徒",
@@ -2240,7 +2240,7 @@
       "せいと",
       "seito"
     ],
-    "meaning": "student; pupil"
+    "meaning": "SANH ĐỒ\nHọc sinh"
   },
   {
     "kanji": "石鹸",
@@ -2248,7 +2248,7 @@
       "せっけん",
       "sekken"
     ],
-    "meaning": "soap"
+    "meaning": "THẠCH\nXà phòng"
   },
   {
     "kanji": "背広",
@@ -2256,7 +2256,7 @@
       "せびろ",
       "sebiro"
     ],
-    "meaning": "men's suit"
+    "meaning": "BỐI QUẢNG\nBộ com lê (suit)"
   },
   {
     "kanji": "狭い",
@@ -2264,7 +2264,7 @@
       "せまい",
       "semai"
     ],
-    "meaning": "narrow; not spacious"
+    "meaning": "1. Hẹp, chật chội (không gian)\n2. Hẹp hòi, hạn hẹp (tầm nhìn, kiến thức)"
   },
   {
     "kanji": "千",
@@ -2272,7 +2272,7 @@
       "せん",
       "sen"
     ],
-    "meaning": "thousand"
+    "meaning": "THIÊN\nMột nghìn"
   },
   {
     "kanji": "先月",
@@ -2280,7 +2280,7 @@
       "せんげつ",
       "sengetsu"
     ],
-    "meaning": "last month"
+    "meaning": "TIÊN NGUYỆT\nTháng trước"
   },
   {
     "kanji": "先週",
@@ -2288,7 +2288,7 @@
       "せんしゅう",
       "senshuu"
     ],
-    "meaning": "last week"
+    "meaning": "TIÊN CHU\nTuần trước"
   },
   {
     "kanji": "先生",
@@ -2296,7 +2296,7 @@
       "せんせい",
       "sensei"
     ],
-    "meaning": "teacher, professor; master; doctor"
+    "meaning": "TIÊN SANH\n1. Giáo viên, thầy giáo\n2. Cách gọi tôn trọng dành cho bác sĩ, luật sư, nghệ sĩ, chính trị gia"
   },
   {
     "kanji": "洗濯",
@@ -2304,7 +2304,7 @@
       "せんたく",
       "sentaku"
     ],
-    "meaning": "washing, laundry"
+    "meaning": "TẨY TRẠC\nViệc giặt giũ"
   },
   {
     "kanji": "全部",
@@ -2312,7 +2312,7 @@
       "ぜんぶ",
       "zenbu"
     ],
-    "meaning": "all, entire, whole"
+    "meaning": "TOÀN BỘ\n1. Tất cả, toàn bộ\n2. Hết thảy"
   },
   {
     "kanji": "掃除",
@@ -2320,7 +2320,7 @@
       "そうじ",
       "souji"
     ],
-    "meaning": "cleaning, sweeping"
+    "meaning": "TẢO TRỪ\nSự quét dọn, sự dọn dẹp"
   },
   {
     "kanji": "外",
@@ -2330,7 +2330,7 @@
       "ほか",
       "hoka"
     ],
-    "meaning": "outside, exterior"
+    "meaning": "NGOẠI\n1. Bên ngoài\n2. Phía ngoài"
   },
   {
     "kanji": "空",
@@ -2338,7 +2338,7 @@
       "そら",
       "sora"
     ],
-    "meaning": "sky"
+    "meaning": "KHÔNG\nSự rỗng không, trống rỗng"
   },
   {
     "kanji": "～台",
@@ -2346,7 +2346,7 @@
       "だい",
       "dai"
     ],
-    "meaning": "counter for vehicles; machines"
+    "meaning": "THAI\n1. Giá, bệ, khung\n2. Cái nền, bục\n3. Đơn vị đếm máy móc, xe cộ"
   },
   {
     "kanji": "大学",
@@ -2354,7 +2354,7 @@
       "だいがく",
       "daigaku"
     ],
-    "meaning": "college; university"
+    "meaning": "ĐẠI HỌC\nTrường đại học"
   },
   {
     "kanji": "大使館",
@@ -2362,7 +2362,7 @@
       "たいしかん",
       "taishikan"
     ],
-    "meaning": "embassy"
+    "meaning": "ĐẠI SỬ QUÁN\nĐại sứ quán"
   },
   {
     "kanji": "大丈夫",
@@ -2370,7 +2370,7 @@
       "だいじょうぶ",
       "daijoubu"
     ],
-    "meaning": "It's ok (all right); No need to worry; Everything is under control"
+    "meaning": "ĐẠI TRƯỢNG PHU\n1. An toàn, chắc chắn\n2. Ổn, được, không sao"
   },
   {
     "kanji": "大好き",
@@ -2378,7 +2378,7 @@
       "だいすき",
       "daisuki"
     ],
-    "meaning": "very like-able, like very much"
+    "meaning": "Rất thích, cực kỳ yêu thích"
   },
   {
     "kanji": "大切",
@@ -2386,7 +2386,7 @@
       "たいせつ",
       "taisetsu"
     ],
-    "meaning": "important"
+    "meaning": "ĐẠI THIẾT\nQuan trọng, quý giá"
   },
   {
     "kanji": "台所",
@@ -2394,7 +2394,7 @@
       "だいどころ",
       "daidokoro"
     ],
-    "meaning": "kitchen"
+    "meaning": "THAI SỞ\nNhà bếp, bếp núc"
   },
   {
     "kanji": "大変",
@@ -2402,7 +2402,7 @@
       "たいへん",
       "taihen"
     ],
-    "meaning": "very; difficult, hard"
+    "meaning": "ĐẠI BIẾN\n1. Vất vả, khó khăn, mệt mỏi\n2. Kinh khủng, ghê gớm\n3. Rất, vô cùng (mức độ cao)\n4. Chết rồi, nguy rồi (thán từ)"
   },
   {
     "kanji": "高い",
@@ -2410,7 +2410,7 @@
       "たかい",
       "takai"
     ],
-    "meaning": "tall, high; expensive"
+    "meaning": "1. Cao (vị trí, độ cao)\n2. Đắt (giá cả)"
   },
   {
     "kanji": "沢山",
@@ -2418,7 +2418,7 @@
       "たくさん",
       "takusan"
     ],
-    "meaning": "many, much"
+    "meaning": "TRẠCH SAN\n1. Nhiều\n2. Đủ rồi (thể hiện sự từ chối)"
   },
   {
     "kanji": "出す",
@@ -2426,7 +2426,7 @@
       "だす",
       "dasu"
     ],
-    "meaning": "to take (something) out; to hand in (something)"
+    "meaning": "1. Lấy ra, đưa ra\n2. Gửi đi (thư, hàng)\n3. Xuất bản, phát hành\n4. Nộp (bài tập, báo cáo)"
   },
   {
     "kanji": "立つ",
@@ -2434,7 +2434,7 @@
       "たつ",
       "tatsu"
     ],
-    "meaning": "to stand up"
+    "meaning": "1. Đứng\n2. Đứng lên, đứng dậy\n3. Mọc lên (tòa nhà)\n4. Có hiệu lực (kế hoạch, dự định)"
   },
   {
     "kanji": "建物",
@@ -2442,7 +2442,7 @@
       "たてもの",
       "tatemono"
     ],
-    "meaning": "building"
+    "meaning": "KIẾN VẬT\nTòa nhà, công trình kiến trúc"
   },
   {
     "kanji": "楽しい",
@@ -2450,7 +2450,7 @@
       "たのしい",
       "tanoshii"
     ],
-    "meaning": "enjoyable, fun"
+    "meaning": "Vui vẻ, vui sướng, thú vị"
   },
   {
     "kanji": "頼む",
@@ -2458,7 +2458,7 @@
       "たのむ",
       "tanomu"
     ],
-    "meaning": "to request, to ask (a favor)"
+    "meaning": "1. Nhờ vả, yêu cầu\n2. Trông cậy, tin tưởng\n3. Đặt hàng, gọi món"
   },
   {
     "kanji": "多分",
@@ -2466,7 +2466,7 @@
       "たぶん",
       "tabun"
     ],
-    "meaning": "perhaps, probably, maybe"
+    "meaning": "ĐA PHÂN\n1. Có lẽ, có khả năng\n2. Nhiều, phần lớn"
   },
   {
     "kanji": "食べ物",
@@ -2474,7 +2474,7 @@
       "たべもの",
       "tabemono"
     ],
-    "meaning": "food"
+    "meaning": "Đồ ăn, thức ăn"
   },
   {
     "kanji": "食べる",
@@ -2482,7 +2482,7 @@
       "たべる",
       "taberu"
     ],
-    "meaning": "to eat"
+    "meaning": "Ăn"
   },
   {
     "kanji": "卵",
@@ -2490,7 +2490,7 @@
       "たまご",
       "tamago"
     ],
-    "meaning": "egg"
+    "meaning": "NOÃN\nTrứng"
   },
   {
     "kanji": "誰",
@@ -2498,7 +2498,7 @@
       "だれ",
       "dare"
     ],
-    "meaning": "who"
+    "meaning": "THÙY\nAi"
   },
   {
     "kanji": "誰か",
@@ -2506,7 +2506,7 @@
       "だれか",
       "dareka"
     ],
-    "meaning": "someone"
+    "meaning": "Ai đó, một ai đó"
   },
   {
     "kanji": "誕生日",
@@ -2514,7 +2514,7 @@
       "たんじょうび",
       "tanjoubi"
     ],
-    "meaning": "birthday"
+    "meaning": "ĐẢN SANH NHẬT\nNgày sinh, ngày sinh nhật"
   },
   {
     "kanji": "段々",
@@ -2522,7 +2522,7 @@
       "だんだん",
       "dandan"
     ],
-    "meaning": "gradually, by degrees"
+    "meaning": "ĐOẠN\nDần dần, từng bước một"
   },
   {
     "kanji": "小さい",
@@ -2530,7 +2530,7 @@
       "ちいさい",
       "chiisai"
     ],
-    "meaning": "small, little"
+    "meaning": "1. Nhỏ, bé\n2. Nhỏ bé (về quy mô, tầm vóc)\n3. Tí hon"
   },
   {
     "kanji": "小さな",
@@ -2538,7 +2538,7 @@
       "ちいさな",
       "chiisana"
     ],
-    "meaning": "small, little"
+    "meaning": "Nhỏ, bé"
   },
   {
     "kanji": "近い",
@@ -2546,7 +2546,7 @@
       "ちかい",
       "chikai"
     ],
-    "meaning": "near, close by, short"
+    "meaning": "1. Gần (về khoảng cách, thời gian)\n2. Gần giống, tương tự\n3. Thân thiết, gần gũi"
   },
   {
     "kanji": "違う",
@@ -2554,7 +2554,7 @@
       "ちがう",
       "chigau"
     ],
-    "meaning": "to be different; to differ; wrong"
+    "meaning": "1. Khác, không giống\n2. Sai, nhầm lẫn\n3. Không phù hợp"
   },
   {
     "kanji": "近く",
@@ -2562,7 +2562,7 @@
       "ちかく",
       "chikaku"
     ],
-    "meaning": "nearby; in the neighborhood"
+    "meaning": "1. Gần, vùng lân cận\n2. Gần đây, sắp tới"
   },
   {
     "kanji": "地下鉄",
@@ -2570,7 +2570,7 @@
       "ちかてつ",
       "chikatetsu"
     ],
-    "meaning": "underground train, subway"
+    "meaning": "ĐỊA HẠ THIẾT\nTàu điện ngầm"
   },
   {
     "kanji": "地図",
@@ -2578,7 +2578,7 @@
       "ちず",
       "chizu"
     ],
-    "meaning": "a map"
+    "meaning": "ĐỊA ĐỒ\nBản đồ"
   },
   {
     "kanji": "父",
@@ -2586,7 +2586,7 @@
       "ちち",
       "chichi"
     ],
-    "meaning": "(my) father"
+    "meaning": "PHỤ\n1. Bố, cha\n2. Thầy (cách gọi tôn kính)"
   },
   {
     "kanji": "茶色",
@@ -2594,7 +2594,7 @@
       "ちゃいろ",
       "chairo"
     ],
-    "meaning": "brown"
+    "meaning": "TRÀ SẮC\nMàu nâu"
   },
   {
     "kanji": "茶碗",
@@ -2602,7 +2602,7 @@
       "ちゃわん",
       "chawan"
     ],
-    "meaning": "rice bowl"
+    "meaning": "TRÀ OẢN\n1. Bát ăn cơm\n2. Chén uống trà"
   },
   {
     "kanji": "～中",
@@ -2610,7 +2610,7 @@
       "ちゅう",
       "chuu"
     ],
-    "meaning": "during, while ~ing"
+    "meaning": "TRUNG\n1. Bên trong\n2. Ở giữa\n3. Trong khi, trong suốt khoảng thời gian"
   },
   {
     "kanji": "丁度",
@@ -2618,7 +2618,7 @@
       "ちょうど",
       "choudo"
     ],
-    "meaning": "just, right, exactly"
+    "meaning": "ĐINH ĐỘ\nVừa đúng, chính xác"
   },
   {
     "kanji": "一日",
@@ -2626,7 +2626,7 @@
       "ついたち",
       "tsuitachi"
     ],
-    "meaning": "one day; first day of the month"
+    "meaning": "NHẤT NHẬT\nMột ngày"
   },
   {
     "kanji": "使う",
@@ -2634,7 +2634,7 @@
       "つかう",
       "tsukau"
     ],
-    "meaning": "to use"
+    "meaning": "1. Sử dụng, dùng\n2. Xài (tiền bạc)\n3. Sai bảo (người khác)"
   },
   {
     "kanji": "疲れる",
@@ -2642,7 +2642,7 @@
       "つかれる",
       "tsukareru"
     ],
-    "meaning": "to get (become) tired; to become fatigued"
+    "meaning": "1. Mệt mỏi, mỏi mệt\n2. Cũ kỹ, sờn cũ (đồ vật)"
   },
   {
     "kanji": "次",
@@ -2650,7 +2650,7 @@
       "つぎ",
       "tsugi"
     ],
-    "meaning": "next"
+    "meaning": "THỨ\nTiếp theo, lần sau"
   },
   {
     "kanji": "着く",
@@ -2658,7 +2658,7 @@
       "つく",
       "tsuku"
     ],
-    "meaning": "to arrive at, to reach"
+    "meaning": "1. Đến, tới (địa điểm)\n2. Cập bến, cập cảng\n3. Vào vị trí"
   },
   {
     "kanji": "机",
@@ -2666,7 +2666,7 @@
       "つくえ",
       "tsukue"
     ],
-    "meaning": "desk"
+    "meaning": "KY\nBàn, bàn làm việc"
   },
   {
     "kanji": "作る",
@@ -2674,7 +2674,7 @@
       "つくる",
       "tsukuru"
     ],
-    "meaning": "to make, to create"
+    "meaning": "1. Làm, tạo ra, sản xuất\n2. Chế biến, nấu nướng\n3. Xây dựng, kiến thiết\n4. Sáng tác (văn học, nghệ thuật)"
   },
   {
     "kanji": "勤める",
@@ -2682,7 +2682,7 @@
       "つとめる",
       "tsutomeru"
     ],
-    "meaning": "to work (for)"
+    "meaning": "1. Làm việc (tại một cơ quan, tổ chức)\n2. Đảm nhiệm, giữ chức vụ"
   },
   {
     "kanji": "冷たい",
@@ -2690,7 +2690,7 @@
       "つめたい",
       "tsumetai"
     ],
-    "meaning": "cold (things, people)"
+    "meaning": "1. Lạnh, lạnh buốt (nhiệt độ)\n2. Lạnh lùng, lạnh nhạt (thái độ)"
   },
   {
     "kanji": "強い",
@@ -2698,7 +2698,7 @@
       "つよい",
       "tsuyoi"
     ],
-    "meaning": "strong, powerful"
+    "meaning": "1. Mạnh, khỏe\n2. Bền, chắc\n3. Giỏi (về một lĩnh vực nào đó)"
   },
   {
     "kanji": "手",
@@ -2706,7 +2706,7 @@
       "て",
       "te"
     ],
-    "meaning": "hand"
+    "meaning": "THỦ\n1. Bàn tay\n2. Cách thức, thủ đoạn"
   },
   {
     "kanji": "出かける",
@@ -2714,7 +2714,7 @@
       "でかける",
       "dekakeru"
     ],
-    "meaning": "to go out; to depart"
+    "meaning": "1. Đi ra ngoài\n2. Khởi hành, lên đường"
   },
   {
     "kanji": "手紙",
@@ -2722,7 +2722,7 @@
       "てがみ",
       "tegami"
     ],
-    "meaning": "letter"
+    "meaning": "THỦ CHỈ\nThư, thư từ"
   },
   {
     "kanji": "出口",
@@ -2730,7 +2730,7 @@
       "でぐち",
       "deguchi"
     ],
-    "meaning": "an exit"
+    "meaning": "XUẤT KHẨU\nCửa ra, lối ra"
   },
   {
     "kanji": "出る",
@@ -2738,7 +2738,7 @@
       "でる",
       "deru"
     ],
-    "meaning": "to appear, to leave"
+    "meaning": "1. Đi ra, rời khỏi\n2. Xuất hiện, lộ diện\n3. Tham gia (sự kiện)\n4. Được xuất bản, được phát hành"
   },
   {
     "kanji": "天気",
@@ -2746,7 +2746,7 @@
       "てんき",
       "tenki"
     ],
-    "meaning": "weather"
+    "meaning": "THIÊN KHÍ\nThời tiết"
   },
   {
     "kanji": "電気",
@@ -2754,7 +2754,7 @@
       "でんき",
       "denki"
     ],
-    "meaning": "electricity, (electric) light"
+    "meaning": "ĐIỆN KHÍ\n1. Điện\n2. Đèn điện"
   },
   {
     "kanji": "電車",
@@ -2762,7 +2762,7 @@
       "でんしゃ",
       "densha"
     ],
-    "meaning": "electric train"
+    "meaning": "ĐIỆN XA\nTàu điện"
   },
   {
     "kanji": "電話",
@@ -2770,7 +2770,7 @@
       "でんわ",
       "denwa"
     ],
-    "meaning": "a telephone"
+    "meaning": "ĐIỆN THOẠI\n1. Điện thoại (thiết bị hoặc dịch vụ)\n2. Cuộc gọi điện thoại"
   },
   {
     "kanji": "戸",
@@ -2778,7 +2778,7 @@
       "と",
       "to"
     ],
-    "meaning": "door (Japanese style)"
+    "meaning": "HỘ\nCánh cửa"
   },
   {
     "kanji": "～度",
@@ -2786,7 +2786,7 @@
       "ど",
       "do"
     ],
-    "meaning": "counter for occurrences; ~ degree; ~ point"
+    "meaning": "ĐỘ\n1. Lần, số lần\n2. Độ (đơn vị đo lường)"
   },
   {
     "kanji": "動物",
@@ -2794,7 +2794,7 @@
       "どうぶつ",
       "doubutsu"
     ],
-    "meaning": "animal"
+    "meaning": "ĐỘNG VẬT\nĐộng vật"
   },
   {
     "kanji": "十",
@@ -2802,7 +2802,7 @@
       "じゅう",
       "juu"
     ],
-    "meaning": "ten"
+    "meaning": "THẬP\n1. Mười\n2. Số mười"
   },
   {
     "kanji": "遠い",
@@ -2810,7 +2810,7 @@
       "とおい",
       "tooi"
     ],
-    "meaning": "far (away), distant"
+    "meaning": "1. Xa, xa xôi\n2. Xa xăm (thời gian)\n3. Nghễnh ngãng (tai)"
   },
   {
     "kanji": "十日",
@@ -2818,7 +2818,7 @@
       "とおか",
       "tooka"
     ],
-    "meaning": "ten days; tenth day of the month"
+    "meaning": "THẬP NHẬT\n1. Mười ngày\n2. Ngày mùng mười"
   },
   {
     "kanji": "～時",
@@ -2828,7 +2828,7 @@
       "じ",
       "ji"
     ],
-    "meaning": "(とき)at the time of ~; (じ) ~ o'clock (time)"
+    "meaning": "THÌ\n1. Giờ, thời gian\n2. Lúc, khi\n3. Thời điểm, thời cơ\n4. Thời đại, thời kỳ"
   },
   {
     "kanji": "時々",
@@ -2836,7 +2836,7 @@
       "ときどき",
       "tokidoki"
     ],
-    "meaning": "sometimes"
+    "meaning": "THÌ\nThỉnh thoảng, đôi khi"
   },
   {
     "kanji": "時計",
@@ -2844,7 +2844,7 @@
       "とけい",
       "tokei"
     ],
-    "meaning": "a watch; a clock"
+    "meaning": "THÌ KẾ\nĐồng hồ"
   },
   {
     "kanji": "所",
@@ -2852,7 +2852,7 @@
       "ところ",
       "tokoro"
     ],
-    "meaning": "place"
+    "meaning": "SỞ\nNơi, chỗ"
   },
   {
     "kanji": "年",
@@ -2861,7 +2861,7 @@
       "toshi",
       "nen"
     ],
-    "meaning": "year, age"
+    "meaning": "NIÊN\n1. Năm\n2. Tuổi"
   },
   {
     "kanji": "図書館",
@@ -2869,7 +2869,7 @@
       "としょかん",
       "toshokan"
     ],
-    "meaning": "library"
+    "meaning": "ĐỒ THƯ QUÁN\nThư viện"
   },
   {
     "kanji": "隣",
@@ -2877,7 +2877,7 @@
       "となり",
       "tonari"
     ],
-    "meaning": "next to, next door to"
+    "meaning": "LÂN\nBên cạnh, hàng xóm"
   },
   {
     "kanji": "飛ぶ",
@@ -2885,7 +2885,7 @@
       "とぶ",
       "tobu"
     ],
-    "meaning": "to fly, to hop"
+    "meaning": "1. Bay (trên không trung)\n2. Nhảy, bật lên\n3. Chạy nhanh như bay\n4. Bị văng ra, bay tung tóe\n5. Bỏ cách, không liên tiếp\n6. Truyền đi nhanh chóng (tin đồn)\n7. Biến mất, bay mất"
   },
   {
     "kanji": "止まる",
@@ -2893,7 +2893,7 @@
       "とまる",
       "tomaru"
     ],
-    "meaning": "to come to a halt"
+    "meaning": "1. Dừng lại (chuyển động)\n2. Ở lại, lưu lại (tạm trú)"
   },
   {
     "kanji": "友達",
@@ -2901,7 +2901,7 @@
       "ともだち",
       "tomodachi"
     ],
-    "meaning": "friend"
+    "meaning": "HỮU ĐẠT\nBạn bè"
   },
   {
     "kanji": "土曜日",
@@ -2909,7 +2909,7 @@
       "どようび",
       "doyoubi"
     ],
-    "meaning": "Saturday"
+    "meaning": "THỔ DIỆU NHẬT\nNgày thứ Bảy"
   },
   {
     "kanji": "鳥",
@@ -2917,7 +2917,7 @@
       "とり",
       "tori"
     ],
-    "meaning": "chicken (lit., bird)"
+    "meaning": "ĐIỂU\n1. Chim\n2. Gia cầm"
   },
   {
     "kanji": "鶏肉",
@@ -2925,7 +2925,7 @@
       "とりにく",
       "toriniku"
     ],
-    "meaning": "chicken meat"
+    "meaning": "KÊ NHỤC\nThịt gà"
   },
   {
     "kanji": "取る",
@@ -2933,7 +2933,7 @@
       "とる",
       "toru"
     ],
-    "meaning": "to take (a class); to get (a grade)"
+    "meaning": "1. Cầm, nắm, lấy\n2. Thu hoạch, thu thập\n3. Chọn, lấy (quyết định)\n4. Chiếm, đoạt\n5. Ăn, hấp thụ (dinh dưỡng)\n6. Đảm nhiệm, phụ trách\n7. Trừ đi, loại bỏ\n8. Đếm, đo (mạch)\n9. Chụp (ảnh)\n10. Mua, đặt hàng\n11. Già đi (tuổi tác)\n12. Tốn, mất (thời gian, công sức)"
   },
   {
     "kanji": "撮る",
@@ -2941,7 +2941,7 @@
       "とる",
       "toru"
     ],
-    "meaning": "to take (a photo), to make (a film)"
+    "meaning": "Chụp (ảnh), quay (phim)"
   },
   {
     "kanji": "中",
@@ -2953,7 +2953,7 @@
       "uchi",
       "ちゅう"
     ],
-    "meaning": "inside, middle, among"
+    "meaning": "TRUNG\n1. Bên trong\n2. Ở giữa\n3. Trong khi, trong suốt khoảng thời gian"
   },
   {
     "kanji": "長い",
@@ -2961,7 +2961,7 @@
       "ながい",
       "nagai"
     ],
-    "meaning": "long, lengthy"
+    "meaning": "1. Dài (về kích thước)\n2. Lâu (về thời gian)"
   },
   {
     "kanji": "鳴く",
@@ -2969,7 +2969,7 @@
       "なく",
       "naku"
     ],
-    "meaning": "to make sound (animal)"
+    "meaning": "1. Kêu, hót (chim, thú)\n2. Rống (động vật lớn)"
   },
   {
     "kanji": "無くす",
@@ -2977,7 +2977,7 @@
       "なくす",
       "nakusu"
     ],
-    "meaning": "to lose something"
+    "meaning": "1. Làm mất, đánh mất\n2. Loại bỏ, xóa bỏ"
   },
   {
     "kanji": "夏",
@@ -2985,7 +2985,7 @@
       "なつ",
       "natsu"
     ],
-    "meaning": "summer"
+    "meaning": "HẠ\nMùa hè, mùa hạ"
   },
   {
     "kanji": "夏休み",
@@ -2993,7 +2993,7 @@
       "なつやすみ",
       "natsuyasumi"
     ],
-    "meaning": "summer vacation"
+    "meaning": "Kỳ nghỉ hè"
   },
   {
     "kanji": "七つ",
@@ -3001,7 +3001,7 @@
       "ななつ",
       "nanatsu"
     ],
-    "meaning": "seven things"
+    "meaning": "Bảy cái (đơn vị đếm đồ vật)"
   },
   {
     "kanji": "何",
@@ -3009,7 +3009,7 @@
       "なん; なに",
       "nan; nani"
     ],
-    "meaning": "what"
+    "meaning": "HÀ\nCái gì"
   },
   {
     "kanji": "七日",
@@ -3017,7 +3017,7 @@
       "なのか",
       "nanoka"
     ],
-    "meaning": "seven days; seventh day (of the month)"
+    "meaning": "THẤT NHẬT\n1. Bảy ngày\n2. Ngày mùng 7 của tháng"
   },
   {
     "kanji": "名前",
@@ -3025,7 +3025,7 @@
       "なまえ",
       "namae"
     ],
-    "meaning": "name"
+    "meaning": "DANH TIỀN\nTên, họ tên"
   },
   {
     "kanji": "習う",
@@ -3033,7 +3033,7 @@
       "ならう",
       "narau"
     ],
-    "meaning": "to learn"
+    "meaning": "Học tập, học hỏi (từ người khác)"
   },
   {
     "kanji": "並ぶ",
@@ -3041,7 +3041,7 @@
       "ならぶ",
       "narabu"
     ],
-    "meaning": "to line up, to stand in a line (v.i.)"
+    "meaning": "1. Xếp hàng, đứng thành hàng\n2. Sánh ngang, ngang hàng với"
   },
   {
     "kanji": "並べる",
@@ -3049,7 +3049,7 @@
       "ならべる",
       "naraberu"
     ],
-    "meaning": "to put (things) side by side; to line up"
+    "meaning": "1. Sắp xếp, bày ra\n2. Liệt kê, kể ra"
   },
   {
     "kanji": "何～",
@@ -3057,7 +3057,7 @@
       "なん",
       "nan"
     ],
-    "meaning": "what sort of ~"
+    "meaning": "HÀ\nCái gì"
   },
   {
     "kanji": "二",
@@ -3065,7 +3065,7 @@
       "に",
       "ni"
     ],
-    "meaning": "two"
+    "meaning": "NHỊ\nSố hai"
   },
   {
     "kanji": "肉",
@@ -3073,7 +3073,7 @@
       "にく",
       "niku"
     ],
-    "meaning": "meat"
+    "meaning": "NHỤC\nThịt"
   },
   {
     "kanji": "西",
@@ -3081,7 +3081,7 @@
       "にし",
       "nishi"
     ],
-    "meaning": "west"
+    "meaning": "TÂY\nHướng tây, phía tây"
   },
   {
     "kanji": "～日",
@@ -3089,7 +3089,7 @@
       "にち",
       "nichi"
     ],
-    "meaning": "~ day of the month, for ~ days"
+    "meaning": "NHẬT\n1. Mặt trời\n2. Ngày"
   },
   {
     "kanji": "日曜日",
@@ -3097,7 +3097,7 @@
       "にちようび",
       "nichiyoubi"
     ],
-    "meaning": "Sunday"
+    "meaning": "NHẬT DIỆU NHẬT\nChủ Nhật"
   },
   {
     "kanji": "荷物",
@@ -3105,7 +3105,7 @@
       "にもつ",
       "nimotsu"
     ],
-    "meaning": "luggage; baggage"
+    "meaning": "HÀ VẬT\n1. Hành lý\n2. Hàng hóa"
   },
   {
     "kanji": "庭",
@@ -3113,7 +3113,7 @@
       "にわ",
       "niwa"
     ],
-    "meaning": "garden"
+    "meaning": "ĐÌNH\nVườn"
   },
   {
     "kanji": "～人",
@@ -3121,7 +3121,7 @@
       "にん",
       "nin"
     ],
-    "meaning": "counter for people"
+    "meaning": "NHÂN\nNgười (hậu tố chỉ người làm một công việc hoặc thuộc một nhóm nào đó)"
   },
   {
     "kanji": "脱ぐ",
@@ -3129,7 +3129,7 @@
       "ぬぐ",
       "nugu"
     ],
-    "meaning": "to take off (clothes)"
+    "meaning": "1. Cởi (quần áo, giày, mũ)\n2. Lột (vỏ, da)"
   },
   {
     "kanji": "温い",
@@ -3137,7 +3137,7 @@
       "ぬるい",
       "nurui"
     ],
-    "meaning": "lukewarm"
+    "meaning": "1. Nguội (nhiệt độ thấp hơn mức cần thiết)\n2. Ấm áp (thường dùng cho chất lỏng)"
   },
   {
     "kanji": "猫",
@@ -3145,7 +3145,7 @@
       "ねこ",
       "neko"
     ],
-    "meaning": "cat"
+    "meaning": "MIÊU\nCon mèo"
   },
   {
     "kanji": "寝る",
@@ -3153,7 +3153,7 @@
       "ねる",
       "neru"
     ],
-    "meaning": "to sleep; to go to sleep; to go to bed"
+    "meaning": "1. Ngủ\n2. Nằm, ngả lưng"
   },
   {
     "kanji": "～年",
@@ -3161,7 +3161,7 @@
       "ねん",
       "nen"
     ],
-    "meaning": "~ years"
+    "meaning": "NIÊN\n1. Năm\n2. Tuổi"
   },
   {
     "kanji": "登る",
@@ -3169,7 +3169,7 @@
       "のぼる",
       "noboru"
     ],
-    "meaning": "to climb"
+    "meaning": "1. Leo, trèo (núi, cầu thang)\n2. Tăng lên, đi lên (giá cả, nhiệt độ)\n3. Thăng tiến, thăng chức\n4. Ra khơi (giương buồm)\n5. Được đưa ra, được đề cập (trong chương trình, thảo luận)"
   },
   {
     "kanji": "飲み物",
@@ -3177,7 +3177,7 @@
       "のみもの",
       "nomimono"
     ],
-    "meaning": "drink, beverage"
+    "meaning": "Đồ uống, thức uống"
   },
   {
     "kanji": "飲む",
@@ -3185,7 +3185,7 @@
       "のむ",
       "nomu"
     ],
-    "meaning": "to drink"
+    "meaning": "1. Uống\n2. Húp (súp, canh)\n3. Nuốt (thuốc)"
   },
   {
     "kanji": "乗る",
@@ -3193,7 +3193,7 @@
       "のる",
       "noru"
     ],
-    "meaning": "to get on, to ride in, to board"
+    "meaning": "1. Lên xe, lên tàu\n2. Cưỡi (ngựa)\n3. Bắt nhịp, hòa vào (nhịp điệu, không khí)"
   },
   {
     "kanji": "歯",
@@ -3201,7 +3201,7 @@
       "は",
       "ha"
     ],
-    "meaning": "tooth"
+    "meaning": "XỈ\nRăng"
   },
   {
     "kanji": "～杯",
@@ -3209,7 +3209,7 @@
       "はい",
       "hai"
     ],
-    "meaning": "counter for cupfuls"
+    "meaning": "BÔI\n1. Cốc, chén\n2. Đơn vị đếm cho đồ uống đựng trong cốc, chén"
   },
   {
     "kanji": "灰皿",
@@ -3217,15 +3217,17 @@
       "はいざら",
       "haizara"
     ],
-    "meaning": "ashtray"
+    "meaning": "HÔI MÃNH\nGạt tàn thuốc"
   },
   {
     "kanji": "入る",
     "readings": [
-      "はいる", "いる", "iru",
+      "はいる",
+      "いる",
+      "iru",
       "hairu"
     ],
-    "meaning": "to enter, to contain, to hold"
+    "meaning": "1. Đi vào, bước vào\n2. Chứa đựng, bao gồm\n3. Tham gia, gia nhập\n4. Bắt đầu (thời điểm, mùa)"
   },
   {
     "kanji": "葉書",
@@ -3233,7 +3235,7 @@
       "はがき",
       "hagaki"
     ],
-    "meaning": "postcard"
+    "meaning": "DIỆP THƯ\nBưu thiếp"
   },
   {
     "kanji": "箱",
@@ -3241,7 +3243,7 @@
       "はこ",
       "hako"
     ],
-    "meaning": "box"
+    "meaning": "TƯƠNG\n1. Hộp\n2. Thùng\n3. Kiện hàng"
   },
   {
     "kanji": "橋",
@@ -3249,7 +3251,7 @@
       "はし",
       "hashi"
     ],
-    "meaning": "bridge"
+    "meaning": "KIỀU\nCây cầu"
   },
   {
     "kanji": "箸",
@@ -3257,7 +3259,7 @@
       "はし",
       "hashi"
     ],
-    "meaning": "chopsticks"
+    "meaning": "TRỨ\nĐôi đũa"
   },
   {
     "kanji": "始まる",
@@ -3265,7 +3267,7 @@
       "はじまる",
       "hajimaru"
     ],
-    "meaning": "(something) begins"
+    "meaning": "1. Bắt đầu, khởi đầu (tự động từ)\n2. Quay ngược lại (thời gian, lịch sử)"
   },
   {
     "kanji": "初め; 始め",
@@ -3273,7 +3275,7 @@
       "はじめ",
       "hajime"
     ],
-    "meaning": "beginning, start"
+    "meaning": "1. Ban đầu, khởi đầu\n2. Lần đầu tiên"
   },
   {
     "kanji": "初めて",
@@ -3281,7 +3283,7 @@
       "はじめて",
       "hajimete"
     ],
-    "meaning": "for the first time"
+    "meaning": "1. Lần đầu tiên\n2. Mới (chỉ khi mới trải qua sự việc)"
   },
   {
     "kanji": "走る",
@@ -3289,7 +3291,7 @@
       "はしる",
       "hashiru"
     ],
-    "meaning": "to run"
+    "meaning": "1. Chạy\n2. Di chuyển nhanh\n3. Chạy trốn, tẩu thoát"
   },
   {
     "kanji": "二十歳",
@@ -3297,7 +3299,7 @@
       "はたち",
       "hatachi"
     ],
-    "meaning": "20 years old"
+    "meaning": "NHỊ THẬP TUẾ\nHai mươi tuổi"
   },
   {
     "kanji": "働く",
@@ -3305,7 +3307,7 @@
       "はたらく",
       "hataraku"
     ],
-    "meaning": "to work"
+    "meaning": "1. Làm việc, lao động\n2. Hoạt động (máy móc, cơ quan)\n3. Phạm (tội)"
   },
   {
     "kanji": "八",
@@ -3313,7 +3315,7 @@
       "はち",
       "hachi"
     ],
-    "meaning": "eight"
+    "meaning": "BÁT\nSố tám"
   },
   {
     "kanji": "二十日",
@@ -3321,7 +3323,7 @@
       "はつか",
       "hatsuka"
     ],
-    "meaning": "twenty days, twentieth (day of the month)"
+    "meaning": "NHỊ THẬP NHẬT\n1. Ngày hai mươi\n2. Hai mươi ngày"
   },
   {
     "kanji": "花",
@@ -3329,7 +3331,7 @@
       "はな",
       "hana"
     ],
-    "meaning": "flower"
+    "meaning": "HOA\nHoa, bông hoa"
   },
   {
     "kanji": "鼻",
@@ -3337,7 +3339,7 @@
       "はな",
       "hana"
     ],
-    "meaning": "nose"
+    "meaning": "TỊ\nMũi"
   },
   {
     "kanji": "話",
@@ -3345,7 +3347,7 @@
       "はなし",
       "hanashi"
     ],
-    "meaning": "talk (chat), story"
+    "meaning": "THOẠI\n1. Câu chuyện\n2. Sự nói chuyện, hội thoại\n3. Tin đồn, vấn đề"
   },
   {
     "kanji": "話す",
@@ -3353,7 +3355,7 @@
       "はなす",
       "hanasu"
     ],
-    "meaning": "to speak"
+    "meaning": "1. Nói, trò chuyện\n2. Kể lại, thuật lại\n3. Bàn bạc, thảo luận"
   },
   {
     "kanji": "母",
@@ -3361,7 +3363,7 @@
       "はは",
       "haha"
     ],
-    "meaning": "(my) mother"
+    "meaning": "MẪU\nMẹ, thân mẫu"
   },
   {
     "kanji": "早い",
@@ -3369,7 +3371,7 @@
       "はやい",
       "hayai"
     ],
-    "meaning": "early"
+    "meaning": "1. Sớm (về thời gian)\n2. Nhanh (về tốc độ)"
   },
   {
     "kanji": "速い",
@@ -3377,7 +3379,7 @@
       "はやい",
       "hayai"
     ],
-    "meaning": "fast, quick"
+    "meaning": "1. Nhanh (về tốc độ)\n2. Sớm (về thời gian)"
   },
   {
     "kanji": "春",
@@ -3385,7 +3387,7 @@
       "はる",
       "haru"
     ],
-    "meaning": "spring"
+    "meaning": "XUÂN\nMùa xuân"
   },
   {
     "kanji": "貼る",
@@ -3393,7 +3395,7 @@
       "はる",
       "haru"
     ],
-    "meaning": "to post; to paste; to attach"
+    "meaning": "Dán, gắn"
   },
   {
     "kanji": "晴れ",
@@ -3401,7 +3403,7 @@
       "はれ",
       "hare"
     ],
-    "meaning": "clear (sunny) weather"
+    "meaning": "1. Trời nắng, thời tiết đẹp\n2. Sự kiện trang trọng, ngày hội"
   },
   {
     "kanji": "晴れる",
@@ -3409,7 +3411,7 @@
       "はれる",
       "hareru"
     ],
-    "meaning": "to be sunny"
+    "meaning": "1. Nắng lên\n2. Tạnh mưa\n3. Giải tỏa (nghi ngờ, uất ức)"
   },
   {
     "kanji": "半",
@@ -3417,7 +3419,7 @@
       "はん",
       "han"
     ],
-    "meaning": "half (e.g., にじはん | half-past two)"
+    "meaning": "BÁN\n1. Một nửa\n2. Nửa (dùng sau số đếm hoặc danh từ chỉ thời gian)\n3. Rưỡi (dùng sau số đếm)"
   },
   {
     "kanji": "晩",
@@ -3425,7 +3427,7 @@
       "ばん",
       "ban"
     ],
-    "meaning": "evening"
+    "meaning": "VÃN\n1. Buổi tối\n2. Đêm\n3. Muộn"
   },
   {
     "kanji": "～番",
@@ -3433,7 +3435,7 @@
       "ばん",
       "ban"
     ],
-    "meaning": "~st; ~th best"
+    "meaning": "PHIÊN\n1. Số thứ tự\n2. Lượt, phiên\n3. Canh gác, bảo vệ\n4. Trận đấu, hiệp đấu"
   },
   {
     "kanji": "番号",
@@ -3441,7 +3443,7 @@
       "ばんごう",
       "bangou"
     ],
-    "meaning": "number, series of digits"
+    "meaning": "PHIÊN HÀO\nSố hiệu, con số"
   },
   {
     "kanji": "晩御飯",
@@ -3449,7 +3451,7 @@
       "ばんごはん",
       "bangohan"
     ],
-    "meaning": "dinner, evening meal"
+    "meaning": "VÃN NGỰ PHẠN\nBữa cơm tối"
   },
   {
     "kanji": "半分",
@@ -3457,7 +3459,7 @@
       "はんぶん",
       "hanbun"
     ],
-    "meaning": "half"
+    "meaning": "BÁN PHÂN\nMột nửa"
   },
   {
     "kanji": "東",
@@ -3465,7 +3467,7 @@
       "ひがし",
       "higashi"
     ],
-    "meaning": "east"
+    "meaning": "ĐÔNG\nHướng Đông"
   },
   {
     "kanji": "～匹",
@@ -3473,7 +3475,7 @@
       "ひき",
       "hiki"
     ],
-    "meaning": "counter for small animals"
+    "meaning": "THẤT\n1. Con (đơn vị đếm động vật)\n2. Tấm (đơn vị đếm vải vóc)"
   },
   {
     "kanji": "引く",
@@ -3481,7 +3483,7 @@
       "ひく",
       "hiku"
     ],
-    "meaning": "to pull, to draw; subtract"
+    "meaning": "1. Kéo, lôi\n2. Trừ đi (phép tính)\n3. Tra (từ điển)\n4. Bị (cảm lạnh)\n5. Dẫn (điện, nước)\n6. Kẻ (đường)"
   },
   {
     "kanji": "弾く",
@@ -3489,7 +3491,7 @@
       "ひく",
       "hiku"
     ],
-    "meaning": "to play (a string instrument or piano)"
+    "meaning": "Búng"
   },
   {
     "kanji": "低い",
@@ -3497,7 +3499,7 @@
       "ひくい",
       "hikui"
     ],
-    "meaning": "short, low"
+    "meaning": "1. Thấp (chiều cao, độ cao)\n2. Thấp (âm thanh, giọng nói)\n3. Thấp (địa vị, trình độ, giá trị)"
   },
   {
     "kanji": "飛行機",
@@ -3505,7 +3507,7 @@
       "ひこうき",
       "hikouki"
     ],
-    "meaning": "airplane"
+    "meaning": "PHI HÀNH KI\nMáy bay"
   },
   {
     "kanji": "左",
@@ -3513,7 +3515,7 @@
       "ひだり",
       "hidari"
     ],
-    "meaning": "left hand side"
+    "meaning": "TẢ\nBên trái"
   },
   {
     "kanji": "人",
@@ -3521,7 +3523,7 @@
       "ひと",
       "hito"
     ],
-    "meaning": "man, person"
+    "meaning": "NHÂN\nNgười (hậu tố chỉ người làm một công việc hoặc thuộc một nhóm nào đó)"
   },
   {
     "kanji": "一つ",
@@ -3529,7 +3531,7 @@
       "ひとつ",
       "hitotsu"
     ],
-    "meaning": "one thing"
+    "meaning": "Một (đơn vị đếm)"
   },
   {
     "kanji": "一月",
@@ -3537,7 +3539,7 @@
       "ひとつき",
       "hitotsuki"
     ],
-    "meaning": "one month"
+    "meaning": "NHẤT NGUYỆT\nTháng Một (tháng giêng)"
   },
   {
     "kanji": "一人",
@@ -3545,7 +3547,7 @@
       "ひとり",
       "hitori"
     ],
-    "meaning": "one person"
+    "meaning": "NHẤT NHÂN\n1. Một người\n2. Một mình"
   },
   {
     "kanji": "暇",
@@ -3553,7 +3555,7 @@
       "ひま",
       "hima"
     ],
-    "meaning": "free time, leisure"
+    "meaning": "HẠ\n1. Thời gian rảnh rỗi\n2. Sự nghỉ ngơi\n3. Sự xin nghỉ việc, sự từ giã"
   },
   {
     "kanji": "百",
@@ -3561,7 +3563,7 @@
       "ひゃく",
       "hyaku"
     ],
-    "meaning": "hundred"
+    "meaning": "BÁCH\nMột trăm"
   },
   {
     "kanji": "病院",
@@ -3569,7 +3571,7 @@
       "びょういん",
       "byouin"
     ],
-    "meaning": "hospital"
+    "meaning": "BỆNH VIỆN\nBệnh viện"
   },
   {
     "kanji": "病気",
@@ -3577,7 +3579,7 @@
       "びょうき",
       "byouki"
     ],
-    "meaning": "illness; sickness"
+    "meaning": "BỆNH KHÍ\n1. Bệnh tật, ốm đau\n2. Thói xấu, tật xấu"
   },
   {
     "kanji": "平仮名",
@@ -3585,7 +3587,7 @@
       "ひらがな",
       "hiragana"
     ],
-    "meaning": "hiragana"
+    "meaning": "BÌNH GIẢ DANH\nChữ Hiragana (lối viết thảo của chữ Hán)"
   },
   {
     "kanji": "昼",
@@ -3593,7 +3595,7 @@
       "ひる",
       "hiru"
     ],
-    "meaning": "noon, daytime"
+    "meaning": "TRÚ\n1. Ban ngày\n2. Buổi trưa"
   },
   {
     "kanji": "昼御飯",
@@ -3601,7 +3603,7 @@
       "ひるごはん",
       "hirugohan"
     ],
-    "meaning": "lunch, midday meal"
+    "meaning": "TRÚ NGỰ PHẠN\nBữa cơm trưa"
   },
   {
     "kanji": "広い",
@@ -3609,7 +3611,7 @@
       "ひろい",
       "hiroi"
     ],
-    "meaning": "spacious; wide; broad"
+    "meaning": "1. Rộng, rộng rãi\n2. Rộng lớn (diện tích, quy mô)"
   },
   {
     "kanji": "封筒",
@@ -3617,7 +3619,7 @@
       "ふうとう",
       "fuutou"
     ],
-    "meaning": "envelope"
+    "meaning": "PHONG ĐỒNG\nPhong bì, bao thư"
   },
   {
     "kanji": "吹く",
@@ -3625,7 +3627,7 @@
       "ふく",
       "fuku"
     ],
-    "meaning": "to blow (wind, etc.)"
+    "meaning": "1. Thổi (gió)\n2. Thổi (nhạc cụ hơi)\n3. Tỏa ra (hương thơm, mùi vị)\n4. Bốc phét, khoác lác (thông tục)"
   },
   {
     "kanji": "服",
@@ -3633,7 +3635,7 @@
       "ふく",
       "fuku"
     ],
-    "meaning": "clothes"
+    "meaning": "PHỤC\nQuần áo"
   },
   {
     "kanji": "二つ",
@@ -3641,7 +3643,7 @@
       "ふたつ",
       "futatsu"
     ],
-    "meaning": "two things"
+    "meaning": "Hai cái, hai đơn vị"
   },
   {
     "kanji": "豚肉",
@@ -3649,7 +3651,7 @@
       "ぶたにく",
       "butaniku"
     ],
-    "meaning": "pork"
+    "meaning": "ĐỒN NHỤC\nThịt lợn"
   },
   {
     "kanji": "二人",
@@ -3657,7 +3659,7 @@
       "ふたり",
       "futari"
     ],
-    "meaning": "two people"
+    "meaning": "NHỊ NHÂN\nHai người"
   },
   {
     "kanji": "二日",
@@ -3665,7 +3667,7 @@
       "ふつか",
       "futsuka"
     ],
-    "meaning": "two days; second day of the month"
+    "meaning": "NHỊ NHẬT\n1. Ngày mùng hai\n2. Hai ngày"
   },
   {
     "kanji": "太い",
@@ -3673,7 +3675,7 @@
       "ふとい",
       "futoi"
     ],
-    "meaning": "fat, thick"
+    "meaning": "1. To, dày (đường kính lớn)\n2. Đậm (nét chữ)\n3. Gan dạ, táo bạo (nghĩa bóng)"
   },
   {
     "kanji": "冬",
@@ -3681,7 +3683,7 @@
       "ふゆ",
       "fuyu"
     ],
-    "meaning": "winter"
+    "meaning": "ĐÔNG\nMùa đông"
   },
   {
     "kanji": "降る",
@@ -3689,7 +3691,7 @@
       "ふる",
       "furu"
     ],
-    "meaning": "to precipitate, to fall (e.g., rain, snow, etc.)"
+    "meaning": "Rơi (mưa, tuyết)"
   },
   {
     "kanji": "古い",
@@ -3697,7 +3699,7 @@
       "ふるい",
       "furui"
     ],
-    "meaning": "old (in reference to objects, not people), aged, ancient"
+    "meaning": "1. Cũ (đồ vật)\n2. Cổ (thời đại, lịch sử)\n3. Già (tuổi tác)"
   },
   {
     "kanji": "～分",
@@ -3705,7 +3707,7 @@
       "ふん",
       "fun"
     ],
-    "meaning": "~ minutes"
+    "meaning": "PHÂN\n1. Lãi suất\n2. Một phần trăm\n3. Phần"
   },
   {
     "kanji": "文章",
@@ -3713,7 +3715,7 @@
       "ぶんしょう",
       "bunshou"
     ],
-    "meaning": "sentence, text"
+    "meaning": "VĂN CHƯƠNG\n1. Văn chương, bài văn\n2. Câu văn"
   },
   {
     "kanji": "下手",
@@ -3721,7 +3723,7 @@
       "へた",
       "heta"
     ],
-    "meaning": "unskillful, poor"
+    "meaning": "HẠ THỦ\nPhía dưới, vị trí thấp"
   },
   {
     "kanji": "部屋",
@@ -3729,7 +3731,7 @@
       "へや",
       "heya"
     ],
-    "meaning": "a room"
+    "meaning": "BỘ ỐC\nPhòng, căn phòng"
   },
   {
     "kanji": "辺",
@@ -3737,7 +3739,7 @@
       "へん",
       "hen"
     ],
-    "meaning": "area, vicinity"
+    "meaning": "BIÊN\n1. Cạnh (hình học)\n2. Vùng, khu vực\n3. Xung quanh, lân cận\n4. Mức độ, trình độ"
   },
   {
     "kanji": "勉強",
@@ -3745,7 +3747,7 @@
       "べんきょう",
       "benkyou"
     ],
-    "meaning": "study"
+    "meaning": "MIỄN CƯỜNG\n1. Việc học hành\n2. Sự nỗ lực, cố gắng\n3. Sự giảm giá, chiết khấu (thương mại)"
   },
   {
     "kanji": "便利",
@@ -3753,7 +3755,7 @@
       "べんり",
       "benri"
     ],
-    "meaning": "convenient, handy"
+    "meaning": "TIỆN LỢI\nThuận tiện, tiện lợi"
   },
   {
     "kanji": "帽子",
@@ -3761,7 +3763,7 @@
       "ぼうし",
       "boushi"
     ],
-    "meaning": "hat; cap"
+    "meaning": "MẠO TỬ\nMũ, nón"
   },
   {
     "kanji": "欲しい",
@@ -3769,7 +3771,7 @@
       "ほしい",
       "hoshii"
     ],
-    "meaning": "to want, in need of"
+    "meaning": "Muốn, mong muốn (diễn tả nguyện vọng của bản thân)"
   },
   {
     "kanji": "細い",
@@ -3777,7 +3779,7 @@
       "ほそい",
       "hosoi"
     ],
-    "meaning": "thin, slender, fine"
+    "meaning": "1. Thon, mảnh (dáng người)\n2. Nhỏ, mảnh (đường kính)"
   },
   {
     "kanji": "本",
@@ -3785,7 +3787,7 @@
       "ほん",
       "hon"
     ],
-    "meaning": "book"
+    "meaning": "BỔN\n1. Sách\n2. Đơn vị đếm vật hình trụ dài (cây, bút, điếu thuốc...)"
   },
   {
     "kanji": "～本",
@@ -3795,7 +3797,7 @@
       "pon",
       "ぽん"
     ],
-    "meaning": "counter for long cylindrical things"
+    "meaning": "BỔN\n1. Sách\n2. Đơn vị đếm vật hình trụ dài (cây, bút, điếu thuốc...)"
   },
   {
     "kanji": "本棚",
@@ -3803,7 +3805,7 @@
       "ほんだな",
       "hondana"
     ],
-    "meaning": "bookshelf"
+    "meaning": "BỔN BẰNG\nGiá sách, kệ sách"
   },
   {
     "kanji": "本当",
@@ -3811,7 +3813,7 @@
       "ほんとう",
       "hontou"
     ],
-    "meaning": "real, true"
+    "meaning": "BỔN ĐƯƠNG\n1. Sự thật, chân lý\n2. Thật, đúng, xác thực"
   },
   {
     "kanji": "～枚",
@@ -3819,7 +3821,7 @@
       "まい",
       "mai"
     ],
-    "meaning": "counter for flat things"
+    "meaning": "MAI\nTấm, tờ (từ dùng để đếm vật mỏng)"
   },
   {
     "kanji": "毎朝",
@@ -3827,7 +3829,7 @@
       "まいあさ",
       "maiasa"
     ],
-    "meaning": "every morning"
+    "meaning": "MỖI TRIÊU\nHàng sáng, mỗi sáng"
   },
   {
     "kanji": "毎月",
@@ -3837,7 +3839,7 @@
       "maigetsu",
       "maitsuki"
     ],
-    "meaning": "every month, monthly"
+    "meaning": "MỖI NGUYỆT\nHàng tháng, mỗi tháng"
   },
   {
     "kanji": "毎週",
@@ -3845,7 +3847,7 @@
       "まいしゅう",
       "maishuu"
     ],
-    "meaning": "every week"
+    "meaning": "MỖI CHU\nHàng tuần, mỗi tuần"
   },
   {
     "kanji": "毎日",
@@ -3853,7 +3855,7 @@
       "まいにち",
       "mainichi"
     ],
-    "meaning": "every day"
+    "meaning": "MỖI NHẬT\nHàng ngày, mỗi ngày"
   },
   {
     "kanji": "毎年",
@@ -3863,7 +3865,7 @@
       "mainen",
       "maitoshi"
     ],
-    "meaning": "every year, yearly, annually"
+    "meaning": "MỖI NIÊN\nHàng năm, mỗi năm"
   },
   {
     "kanji": "毎晩",
@@ -3871,7 +3873,7 @@
       "まいばん",
       "maiban"
     ],
-    "meaning": "every night"
+    "meaning": "MỖI VÃN\nHàng tối, mỗi tối"
   },
   {
     "kanji": "前",
@@ -3879,7 +3881,7 @@
       "まえ",
       "mae"
     ],
-    "meaning": "before, in front"
+    "meaning": "TIỀN\n1. Trước (vị trí, thời gian)\n2. Kém (số lượng, ví dụ: 10 phút kém)\n3. Người hoặc việc đã nhắc đến trước đó"
   },
   {
     "kanji": "～前",
@@ -3887,7 +3889,7 @@
       "まえ",
       "mae"
     ],
-    "meaning": "in front of ~"
+    "meaning": "TIỀN\n1. Trước (vị trí, thời gian)\n2. Kém (số lượng, ví dụ: 10 phút kém)\n3. Người hoặc việc đã nhắc đến trước đó"
   },
   {
     "kanji": "曲る",
@@ -3895,7 +3897,7 @@
       "まがる",
       "magaru"
     ],
-    "meaning": "to turn, to bend"
+    "meaning": "1. Cong, uốn cong\n2. Rẽ (hướng đi)\n3. Lệch lạc, không ngay thẳng"
   },
   {
     "kanji": "町",
@@ -3903,7 +3905,7 @@
       "まち",
       "machi"
     ],
-    "meaning": "town; city"
+    "meaning": "ĐINH\n1. Thị trấn\n2. Phố xá"
   },
   {
     "kanji": "待つ",
@@ -3911,7 +3913,7 @@
       "まつ",
       "matsu"
     ],
-    "meaning": "to wait"
+    "meaning": "1. Chờ, đợi\n2. Mong chờ, trông đợi"
   },
   {
     "kanji": "窓",
@@ -3919,7 +3921,7 @@
       "まど",
       "mado"
     ],
-    "meaning": "window"
+    "meaning": "SONG\nCửa sổ"
   },
   {
     "kanji": "丸い; 円い",
@@ -3927,7 +3929,7 @@
       "まるい",
       "marui"
     ],
-    "meaning": "round, circular"
+    "meaning": "Tròn"
   },
   {
     "kanji": "万",
@@ -3935,7 +3937,7 @@
       "まん",
       "man"
     ],
-    "meaning": "ten thousand"
+    "meaning": "VẠN\n1. Mười nghìn (số 10.000)\n2. Nhiều, vô số"
   },
   {
     "kanji": "万年筆",
@@ -3943,7 +3945,7 @@
       "まんねんひつ",
       "mannenhitsu"
     ],
-    "meaning": "fountain pen"
+    "meaning": "VẠN NIÊN BÚT\nBút máy"
   },
   {
     "kanji": "磨く",
@@ -3951,7 +3953,7 @@
       "みがく",
       "migaku"
     ],
-    "meaning": "to brush (teeth); to polish"
+    "meaning": "1. Đánh bóng, mài bóng\n2. Đánh, chải (răng, giày)\n3. Trau chuốt, rèn luyện (kỹ năng, bản thân)\n4. Xát, cọ rửa"
   },
   {
     "kanji": "右",
@@ -3959,7 +3961,7 @@
       "みぎ",
       "migi"
     ],
-    "meaning": "right hand side"
+    "meaning": "HỮU\n1. Bên phải, phía bên phải\n2. Hữu (phương hướng)"
   },
   {
     "kanji": "短い",
@@ -3967,7 +3969,7 @@
       "みじかい",
       "mijikai"
     ],
-    "meaning": "short (length)"
+    "meaning": "Ngắn, ngắn ngủi"
   },
   {
     "kanji": "水",
@@ -3975,7 +3977,7 @@
       "みず",
       "mizu"
     ],
-    "meaning": "water"
+    "meaning": "THỦY\nNước"
   },
   {
     "kanji": "店",
@@ -3983,7 +3985,7 @@
       "みせ",
       "mise"
     ],
-    "meaning": "store, shop"
+    "meaning": "ĐIẾM\n1. Cửa hàng, cửa hiệu\n2. Sự mở cửa hàng, sự thành lập cơ sở kinh doanh"
   },
   {
     "kanji": "見せる",
@@ -3991,7 +3993,7 @@
       "みせる",
       "miseru"
     ],
-    "meaning": "to show, to display"
+    "meaning": "1. Cho xem, cho thấy\n2. Chứng tỏ, thể hiện ra"
   },
   {
     "kanji": "道",
@@ -3999,7 +4001,7 @@
       "みち",
       "michi"
     ],
-    "meaning": "road, street; way, directions"
+    "meaning": "ĐẠO\n1. Con đường, con phố\n2. Đạo (lý, giáo lý)\n3. Lĩnh vực, chuyên môn\n4. Phương tiện, cách thức"
   },
   {
     "kanji": "三日",
@@ -4007,7 +4009,7 @@
       "みっか",
       "mikka"
     ],
-    "meaning": "three days, third day of the month"
+    "meaning": "TAM NHẬT\n1. Ba ngày\n2. Ngày mùng ba"
   },
   {
     "kanji": "三つ",
@@ -4015,7 +4017,7 @@
       "みっつ",
       "mittsu"
     ],
-    "meaning": "three things"
+    "meaning": "Ba cái, ba đơn vị"
   },
   {
     "kanji": "緑",
@@ -4023,7 +4025,7 @@
       "みどり",
       "midori"
     ],
-    "meaning": "green"
+    "meaning": "LỤC\n1. Màu xanh lá cây\n2. Cây xanh, thảm thực vật"
   },
   {
     "kanji": "皆さん",
@@ -4031,7 +4033,7 @@
       "みなさん",
       "minasan"
     ],
-    "meaning": "all of you, everyone"
+    "meaning": "Các vị, mọi người (cách gọi lịch sự)"
   },
   {
     "kanji": "南",
@@ -4039,7 +4041,7 @@
       "みなみ",
       "minami"
     ],
-    "meaning": "South"
+    "meaning": "NAM\nPhía Nam, phương Nam"
   },
   {
     "kanji": "耳",
@@ -4047,7 +4049,7 @@
       "みみ",
       "mimi"
     ],
-    "meaning": "ear"
+    "meaning": "NHĨ\nCái tai"
   },
   {
     "kanji": "見る",
@@ -4055,7 +4057,7 @@
       "みる",
       "miru"
     ],
-    "meaning": "to see, to look"
+    "meaning": "1. Nhìn, xem\n2. Ngắm\n3. Khám (bệnh)\n4. Thưởng thức (phim, kịch)"
   },
   {
     "kanji": "六日",
@@ -4063,7 +4065,7 @@
       "むいか",
       "muika"
     ],
-    "meaning": "six days; sixth day of month"
+    "meaning": "LỤC NHẬT\nNgày mùng sáu"
   },
   {
     "kanji": "向こう",
@@ -4071,7 +4073,7 @@
       "むこう",
       "mukou"
     ],
-    "meaning": "beyond, over there"
+    "meaning": "1. Phía bên kia, phía đối diện\n2. Phía trước\n3. Người kia, phía bên kia (đối phương)"
   },
   {
     "kanji": "難しい",
@@ -4079,7 +4081,7 @@
       "むずかしい",
       "muzukashii"
     ],
-    "meaning": "difficult"
+    "meaning": "Khó, khó khăn"
   },
   {
     "kanji": "六つ",
@@ -4087,7 +4089,7 @@
       "むっつ",
       "muttsu"
     ],
-    "meaning": "six things"
+    "meaning": "Sáu (đơn vị đếm)"
   },
   {
     "kanji": "村",
@@ -4095,7 +4097,7 @@
       "むら",
       "mura"
     ],
-    "meaning": "village"
+    "meaning": "THÔN\nLàng, thôn xã"
   },
   {
     "kanji": "目",
@@ -4103,7 +4105,7 @@
       "め",
       "me"
     ],
-    "meaning": "eye(s)"
+    "meaning": "MỤC\n1. Con mắt\n2. Thị lực\n3. Mắt lưới, mắt xích\n4. Thứ tự, mục"
   },
   {
     "kanji": "眼鏡",
@@ -4111,7 +4113,7 @@
       "めがね",
       "megane"
     ],
-    "meaning": "eye glasses"
+    "meaning": "NHÃN KÍNH\nKính đeo mắt"
   },
   {
     "kanji": "木曜日",
@@ -4119,7 +4121,7 @@
       "もくようび",
       "mokuyoubi"
     ],
-    "meaning": "Thursday"
+    "meaning": "MỘC DIỆU NHẬT\nThứ Năm"
   },
   {
     "kanji": "持つ",
@@ -4127,7 +4129,7 @@
       "もつ",
       "motsu"
     ],
-    "meaning": "to hold, to carry; to possess"
+    "meaning": "1. Cầm, nắm, xách, mang\n2. Có, sở hữu\n3. Đảm nhiệm, phụ trách\n4. Chịu trách nhiệm (chi phí)\n5. Duy trì, kéo dài (độ bền)"
   },
   {
     "kanji": "物",
@@ -4135,7 +4137,7 @@
       "もの",
       "mono"
     ],
-    "meaning": "thing (concrete object)"
+    "meaning": "VẬT\n1. Đồ vật, vật thể\n2. Sự vật, sự việc"
   },
   {
     "kanji": "門",
@@ -4147,7 +4149,7 @@
       "と",
       "to"
     ],
-    "meaning": "gate"
+    "meaning": "MÔN\nCổng"
   },
   {
     "kanji": "問題",
@@ -4155,7 +4157,7 @@
       "もんだい",
       "mondai"
     ],
-    "meaning": "a problem"
+    "meaning": "VẤN ĐỀ\nVấn đề, câu hỏi"
   },
   {
     "kanji": "～屋",
@@ -4163,7 +4165,7 @@
       "や",
       "ya"
     ],
-    "meaning": "~ shop"
+    "meaning": "ỐC\n1. Cửa hàng, tiệm\n2. Người bán hàng hoặc người làm nghề gì đó\n3. Người có tính cách đặc trưng\n4. Ngôi nhà\n5. Mái nhà"
   },
   {
     "kanji": "八百屋",
@@ -4171,7 +4173,7 @@
       "やおや",
       "yaoya"
     ],
-    "meaning": "greengrocer"
+    "meaning": "BÁT BÁCH ỐC\n1. Cửa hàng bán rau quả\n2. Người bán rau quả"
   },
   {
     "kanji": "野菜",
@@ -4179,7 +4181,7 @@
       "やさい",
       "yasai"
     ],
-    "meaning": "vegetable"
+    "meaning": "DÃ THÁI\nRau"
   },
   {
     "kanji": "易しい",
@@ -4187,7 +4189,7 @@
       "やさしい",
       "yasashii"
     ],
-    "meaning": "easy, plain, simple"
+    "meaning": "Dễ, đơn giản (không khó)"
   },
   {
     "kanji": "安い",
@@ -4195,7 +4197,7 @@
       "やすい",
       "yasui"
     ],
-    "meaning": "inexpensive; cheap (things)"
+    "meaning": "1. Rẻ (giá cả)\n2. Thấp (giá trị)"
   },
   {
     "kanji": "休み",
@@ -4203,7 +4205,7 @@
       "やすみ",
       "yasumi"
     ],
-    "meaning": "holiday; day off; absence"
+    "meaning": "1. Sự nghỉ ngơi\n2. Ngày nghỉ\n3. Sự vắng mặt"
   },
   {
     "kanji": "休む",
@@ -4211,7 +4213,7 @@
       "やすむ",
       "yasumu"
     ],
-    "meaning": "to rest, to have a break, to get time off"
+    "meaning": "1. Nghỉ ngơi\n2. Vắng mặt (làm việc, học tập)\n3. Ngủ"
   },
   {
     "kanji": "八つ",
@@ -4219,7 +4221,7 @@
       "やっつ",
       "yattsu"
     ],
-    "meaning": "eight things"
+    "meaning": "Tám cái (đơn vị đếm vật)"
   },
   {
     "kanji": "山",
@@ -4227,7 +4229,7 @@
       "やま",
       "yama"
     ],
-    "meaning": "mountain"
+    "meaning": "SAN\n1. Núi\n2. Đống, khối lượng lớn\n3. Đỉnh điểm, cao trào"
   },
   {
     "kanji": "夕方",
@@ -4235,7 +4237,7 @@
       "ゆうがた",
       "yuugata"
     ],
-    "meaning": "late afternoon (typically just before dinner time), evening"
+    "meaning": "TỊCH PHƯƠNG\n1. Buổi chiều\n2. Chiều tối"
   },
   {
     "kanji": "夕飯",
@@ -4243,7 +4245,7 @@
       "ゆうはん",
       "yuuhan"
     ],
-    "meaning": "dinner, supper, evening meal"
+    "meaning": "TỊCH PHẠN\nBữa ăn tối"
   },
   {
     "kanji": "郵便局",
@@ -4251,7 +4253,7 @@
       "ゆうびんきょく",
       "yuubinkyoku"
     ],
-    "meaning": "post office"
+    "meaning": "BƯU TIỆN CỤC\nBưu điện, bưu cục"
   },
   {
     "kanji": "昨夜",
@@ -4261,7 +4263,7 @@
       "sakuya",
       "さくや"
     ],
-    "meaning": "last night"
+    "meaning": "TẠC DẠ\nĐêm qua"
   },
   {
     "kanji": "有名",
@@ -4269,7 +4271,7 @@
       "ゆうめい",
       "yuumei"
     ],
-    "meaning": "famous"
+    "meaning": "HỮU DANH\nNổi tiếng, có danh tiếng"
   },
   {
     "kanji": "雪",
@@ -4277,7 +4279,7 @@
       "ゆき",
       "yuki"
     ],
-    "meaning": "snow"
+    "meaning": "TUYẾT\nTuyết"
   },
   {
     "kanji": "八日",
@@ -4285,7 +4287,7 @@
       "ようか",
       "youka"
     ],
-    "meaning": "eight days; eighth day of the month"
+    "meaning": "BÁT NHẬT\n1. Ngày mồng tám\n2. Tám ngày"
   },
   {
     "kanji": "洋服",
@@ -4293,7 +4295,7 @@
       "ようふく",
       "youfuku"
     ],
-    "meaning": "Western-style clothes"
+    "meaning": "DƯƠNG PHỤC\nÂu phục, quần áo kiểu phương Tây"
   },
   {
     "kanji": "横",
@@ -4301,7 +4303,7 @@
       "よこ",
       "yoko"
     ],
-    "meaning": "beside; side; width"
+    "meaning": "HOÀNH\n1. Bề ngang, chiều ngang\n2. Bên cạnh"
   },
   {
     "kanji": "四日",
@@ -4309,7 +4311,7 @@
       "よっか",
       "yokka"
     ],
-    "meaning": "four days; fourth day of the month"
+    "meaning": "TỨ NHẬT\n1. Ngày mùng bốn (trong tháng)\n2. Bốn ngày"
   },
   {
     "kanji": "四つ",
@@ -4317,7 +4319,7 @@
       "よっつ",
       "yottsu"
     ],
-    "meaning": "four things"
+    "meaning": "Bốn cái, bốn đơn vị"
   },
   {
     "kanji": "呼ぶ",
@@ -4325,7 +4327,7 @@
       "よぶ",
       "yobu"
     ],
-    "meaning": "to call (one's name); to invite"
+    "meaning": "1. Gọi, kêu tên\n2. Mời, mời đến\n3. Thu hút, gây ra (sự chú ý, rắc rối)\n4. Hô hào, kêu gọi"
   },
   {
     "kanji": "読む",
@@ -4333,7 +4335,7 @@
       "よむ",
       "yomu"
     ],
-    "meaning": "to read"
+    "meaning": "1. Đọc\n2. Hiểu, nắm bắt (tâm trạng, tình hình)\n3. Dự đoán, phán đoán"
   },
   {
     "kanji": "夜",
@@ -4341,7 +4343,7 @@
       "よる",
       "yoru"
     ],
-    "meaning": "evening, night"
+    "meaning": "DẠ\n1. Đêm\n2. Buổi tối"
   },
   {
     "kanji": "弱い",
@@ -4349,7 +4351,7 @@
       "よわい",
       "yowai"
     ],
-    "meaning": "weak"
+    "meaning": "1. Yếu, không bền, không chắc chắn\n2. Kém, không giỏi (về một lĩnh vực nào đó)\n3. Dễ bị ảnh hưởng, không chịu được (ví dụ: chịu lạnh kém)\n4. Nhẹ, không gay gắt (về cường độ)"
   },
   {
     "kanji": "来月",
@@ -4357,7 +4359,7 @@
       "らいげつ",
       "raigetsu"
     ],
-    "meaning": "next month"
+    "meaning": "LAI NGUYỆT\nTháng sau, tháng tới"
   },
   {
     "kanji": "来週",
@@ -4365,7 +4367,7 @@
       "らいしゅう",
       "raishuu"
     ],
-    "meaning": "next week"
+    "meaning": "LAI CHU\nTuần sau, tuần tới"
   },
   {
     "kanji": "来年",
@@ -4373,7 +4375,7 @@
       "らいねん",
       "rainen"
     ],
-    "meaning": "next year"
+    "meaning": "LAI NIÊN\nNăm sau, năm tới"
   },
   {
     "kanji": "留学生",
@@ -4381,7 +4383,7 @@
       "りゅうがくせい",
       "ryuugakusei"
     ],
-    "meaning": "international student"
+    "meaning": "LƯU HỌC SANH\nDu học sinh"
   },
   {
     "kanji": "両親",
@@ -4389,7 +4391,7 @@
       "りょうしん",
       "ryoushin"
     ],
-    "meaning": "parents (lit., both parents)"
+    "meaning": "LƯỠNG THÂN\nCha mẹ, song thân"
   },
   {
     "kanji": "料理",
@@ -4397,7 +4399,7 @@
       "りょうり",
       "ryouri"
     ],
-    "meaning": "cooking; cuisine"
+    "meaning": "LIÊU LÍ\n1. Nấu ăn, chế biến món ăn\n2. Món ăn, bữa ăn"
   },
   {
     "kanji": "旅行",
@@ -4405,7 +4407,7 @@
       "りょこう",
       "ryokou"
     ],
-    "meaning": "travel, trip"
+    "meaning": "LỮ HÀNH\nSự du lịch, chuyến đi"
   },
   {
     "kanji": "零",
@@ -4413,7 +4415,7 @@
       "れい",
       "rei"
     ],
-    "meaning": "zero, nought"
+    "meaning": "LINH\nSố không"
   },
   {
     "kanji": "冷蔵庫",
@@ -4421,7 +4423,7 @@
       "れいぞうこ",
       "reizouko"
     ],
-    "meaning": "refrigerator"
+    "meaning": "LÃNH TÀNG KHỐ\nTủ lạnh"
   },
   {
     "kanji": "練習",
@@ -4429,7 +4431,7 @@
       "れんしゅう",
       "renshuu"
     ],
-    "meaning": "(to) practice"
+    "meaning": "LUYỆN TẬP\nSự luyện tập, thực hành"
   },
   {
     "kanji": "廊下",
@@ -4437,7 +4439,7 @@
       "ろうか",
       "rouka"
     ],
-    "meaning": "corridor"
+    "meaning": "LANG HẠ\nHành lang"
   },
   {
     "kanji": "六",
@@ -4445,7 +4447,7 @@
       "ろく",
       "roku"
     ],
-    "meaning": "six"
+    "meaning": "LỤC\nSố sáu"
   },
   {
     "kanji": "若い",
@@ -4453,7 +4455,7 @@
       "わかい",
       "wakai"
     ],
-    "meaning": "young"
+    "meaning": "1. Trẻ, trẻ tuổi\n2. Non nớt, chưa có kinh nghiệm\n3. Nhỏ (số thứ tự, tuổi tác)"
   },
   {
     "kanji": "分かる",
@@ -4461,7 +4463,7 @@
       "わかる",
       "wakaru"
     ],
-    "meaning": "to understand"
+    "meaning": "1. Hiểu, nắm bắt được\n2. Biết, nhận ra\n3. Hay tin, biết tin"
   },
   {
     "kanji": "忘れる",
@@ -4469,7 +4471,7 @@
       "わすれる",
       "wasureru"
     ],
-    "meaning": "to forget"
+    "meaning": "1. Quên (kiến thức, sự việc)\n2. Bỏ quên (đồ đạc)\n3. Quên bẵng đi"
   },
   {
     "kanji": "私",
@@ -4479,7 +4481,7 @@
       "わたくし",
       "watakushi"
     ],
-    "meaning": "I, myself"
+    "meaning": "TƯ\nTôi (đại từ nhân xưng)"
   },
   {
     "kanji": "渡す",
@@ -4487,7 +4489,7 @@
       "わたす",
       "watasu"
     ],
-    "meaning": "to hand (something) over (v.t.); to get across"
+    "meaning": "1. Trao, đưa cho\n2. Chuyển giao, bàn giao\n3. Bắc (cầu), làm cho bắc qua"
   },
   {
     "kanji": "渡る",
@@ -4495,7 +4497,7 @@
       "わたる",
       "wataru"
     ],
-    "meaning": "to cross over, to go across"
+    "meaning": "1. Băng qua, đi qua (đường, sông, cầu)\n2. Trải qua (thời gian)\n3. Chuyển sang (đất nước khác)"
   },
   {
     "kanji": "悪い",
@@ -4503,6 +4505,6 @@
       "わるい",
       "warui"
     ],
-    "meaning": "bad, sinful; inferior"
+    "meaning": "1. Xấu, không tốt\n2. Tồi tệ, kém chất lượng\n3. Ngu ngốc, khờ khạo"
   }
 ]

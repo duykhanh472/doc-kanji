@@ -1,38 +1,38 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description"
-    content="Welcome to the Neko Kanji Quiz, where you can test your knowledge of Japanese characters and their readings. This quiz offers a challenging yet enjoyable experience to enhance your understanding of Kanji." />
-  <meta name="keywords" content="Kanji, Japanese, Quiz, Reading, Language, Learning" />
+    content="Chào mừng bạn đến với Neko Kanji Quiz - ứng dụng trắc nghiệm kiểm tra và rèn luyện kiến thức đọc chữ Hán (Kanji) tiếng Nhật từ N5 đến N1." />
+  <meta name="keywords" content="Kanji, Tiếng Nhật, Trắc nghiệm, Cách đọc, JLPT, Học tiếng Nhật" />
   <meta name="author" content="Osha" />
   <meta name="robots" content="index, follow" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@goshintai_" />
-  <meta name="twitter:title" content="Neko Kanji" />
-  <meta name="twitter:description" content="Try your kanji knowledge" />
-  <meta name="twitter:image" content="neko-pic.png" />
+  <meta name="twitter:title" content="Trắc nghiệm Đọc Kanji - Neko Kanji" />
+  <meta name="twitter:description" content="Thử thách vốn từ vựng và cách đọc chữ Hán của bạn!" />
+  <meta name="twitter:image" content="assets/img/neko-pic.png" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Neko Kanji" />
-  <meta property="og:description" content="Try your kanji knowledge!" />
+  <meta property="og:title" content="Trắc nghiệm Đọc Kanji - Neko Kanji" />
+  <meta property="og:description" content="Thử thách vốn từ vựng và cách đọc chữ Hán của bạn!" />
   <meta property="og:url" content="https://yorunohikari.github.io/projects/neko-kanji/" />
-  <meta property="og:image" content="neko-pic.png" />
-  <title>Neko Kanji Quiz</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="icon" type="image/x-icon" href="neko-logo.ico">
+  <meta property="og:image" content="assets/img/neko-pic.png" />
+  <title>Trắc nghiệm Đọc Kanji - Neko Kanji Quiz</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="icon" type="image/x-icon" href="assets/img/neko-logo.ico">
   <link rel="canonical" href="https://yorunohikari.github.io/projects/neko-kanji/" />
 </head>
 
 <body>
   <div id="main-menu" class="main-menu">
-    <h1>Welcome to the Neko Kanji Quiz</h1>
+    <h1>Chào mừng bạn đến với Trắc nghiệm Đọc Kanji</h1>
     <div>
-      <img src="neko-pic.png" alt="nekologo" class="project-img" />
+      <img src="assets/img/neko-pic.png" alt="nekologo" class="project-img" />
     </div>
-    <label for="question-count">Number of Questions:</label>
+    <label for="question-count">Số lượng câu hỏi:</label>
     <div class="numberlabel">
       <input type="number" id="question-count" min="1" value="10" />
       <select id="jlpt-level">
@@ -52,7 +52,7 @@
               <use xlink:href="#check-4"></use>
             </svg>
           </span>
-          <span>Include Hints</span>
+          <span>Bao gồm gợi ý</span>
         </label>
         <svg class="inline-svg">
           <symbol id="check-4" viewbox="0 0 12 10">
@@ -68,7 +68,7 @@
               <use xlink:href="#check-4"></use>
             </svg>
           </span>
-          <span>Time Attack Mode</span>
+          <span>Chế độ tính giờ</span>
         </label>
         <svg class="inline-svg">
           <symbol id="check-4" viewbox="0 0 12 10">
@@ -79,23 +79,23 @@
     </div>
     <div class="timeattack">
       <div id="time-attack-options" style="display: none;">
-        <label for="time-limit">Time Limit:</label>
+        <label for="time-limit">Thời gian giới hạn:</label>
         <select id="time-limit">
-          <option value="30">30 seconds</option>
-          <option value="60">1 minute</option>
-          <option value="120">2 minutes</option>
-          <option value="300">5 minutes</option>
+          <option value="30">30 giây</option>
+          <option value="60">1 phút</option>
+          <option value="120">2 phút</option>
+          <option value="300">5 phút</option>
         </select>
       </div>
     </div>
     <div class="help">
-      <a href="#" onclick="openModal()" style="color: #1877f2; cursor: pointer;">Help</a>
+      <a href="#" onclick="openModal()" style="color: #1877f2; cursor: pointer;">Hướng dẫn</a>
     </div>
     <div class="score-history">
-      <a href="#" onclick="openModal2()" style="color: #1877f2; cursor: pointer;">Score History</a>
+      <a href="#" onclick="openModal2()" style="color: #1877f2; cursor: pointer;">Lịch sử điểm</a>
     </div>
     <div class="input-group">
-      <button class="button-19" onclick="startQuiz()">Start Quiz</button>
+      <button class="button-19" onclick="startQuiz()">Bắt đầu</button>
     </div>
   </div>
 
@@ -116,29 +116,28 @@
     <!-- Modal content -->
     <div class="modal-content">
       <span class="close" onclick="closeModal()">&times;</span>
-      <p>Welcome to the Neko Kanji Quiz, where you can test your knowledge of kanji characters and their readings.
-        This quiz offers a challenging yet enjoyable experience to enhance your understanding of Kanji.</p>
-      <h3>How to Play:</h3>
+      <p>Chào mừng bạn đến với Neko Kanji Quiz - nơi bạn có thể thử thách và củng cố kiến thức về chữ Hán cùng các cách đọc của chúng. Bài kiểm tra mang lại trải nghiệm vừa vui vẻ vừa bổ ích giúp nâng cao trình độ tiếng Nhật.</p>
+      <h3>Cách chơi:</h3>
       <ul>
-        <li>Choose between Regular Mode or Time Attack Mode.</li>
-        <li>In Regular Mode, set the desired number of questions for a customized experience.</li>
-        <li>In Time Attack Mode, challenge yourself with a set time limit of your choice.</li>
-        <li>Enable the hint option for additional assistance.</li>
-        <li>Write the Kanji reading in either hiragana or romaji.</li>
-        <li>Press Enter to submit your answer.</li>
-        <li>You have three chances per question to get it right.</li>
-        <li>If you want to end the quiz prematurely, you can type "end" in the input field.</li>
-        <li>Have fun!</li>
+        <li>Lựa chọn giữa <strong>Chế độ thường</strong> hoặc <strong>Chế độ tính giờ</strong>.</li>
+        <li>Ở Chế độ thường, bạn có thể thiết lập số lượng câu hỏi tùy ý.</li>
+        <li>Ở Chế độ tính giờ, hãy thử thách bản thân hoàn thành nhiều câu nhất trong thời gian đã chọn.</li>
+        <li>Bật tùy chọn "Bao gồm gợi ý" nếu muốn xem ý nghĩa từ vựng trước khi đoán.</li>
+        <li>Nhập cách đọc Kanji bằng chữ <strong>hiragana</strong> hoặc <strong>romaji</strong>.</li>
+        <li>Nhấn phím <strong>Enter</strong> để gửi câu trả lời.</li>
+        <li>Bạn có tối đa <strong>3 lần thử</strong> cho mỗi câu hỏi trước khi hiển thị đáp án.</li>
+        <li>Nếu muốn kết thúc bài kiểm tra sớm, hãy nhập <strong>"end"</strong> vào ô trả lời.</li>
+        <li>Chúc bạn học tập thật tốt và đạt điểm số cao!</li>
       </ul>
       <p>
-        For questions or suggestions, reach out on Twitter or Discord.
+        Mọi thắc mắc hoặc góp ý cho tác giả gốc, bạn có thể liên hệ:
         <br>
         Twitter: <a href="https://twitter.com/goshintai_" target="_blank">@goshintai_</a>
         <br>
         Discord: <a href="https://discordapp.com/users/424526699611291650" target="_blank">osha420</a>
       </p>
       <div class="fsbtn">
-        <button class="button-19" id="fullscreen-button" onclick="toggleFullscreen()">Fullscreen</button>
+        <button class="button-19" id="fullscreen-button" onclick="toggleFullscreen()">Toàn màn hình</button>
       </div>
     </div>
   </div>
@@ -148,20 +147,20 @@
     <div class="modal-content">
       <span class="close" onclick="closeModal2()">&times;</span>
       <div class="resetstorage">
-        <button class="button-19" id="reset-storage-button" onclick="resetStoredData()">Reset Data</button>
+        <button class="button-19" id="reset-storage-button" onclick="resetStoredData()">Xóa lịch sử</button>
       </div>
     </div>
   </div>
 
   <div class="quiz-container" id="quiz-container" style="display: none">
-    <h1 id="quiz-heading">Neko Kanji Quiz</h1>
+    <h1 id="quiz-heading">Trắc nghiệm Đọc Kanji</h1>
     <div id="countdown-timer" style="font-size: 14px; margin-bottom: 10px;"></div>
     <div id="question-container">
-      <!-- Questions will be dynamically inserted here -->
+      <!-- Câu hỏi sẽ được chèn động vào đây -->
     </div>
     <p id="hint"></p>
     <p id="feedback"></p>
-    <input type="text" id="answer-input" placeholder="Enter Reading"
+    <input type="text" id="answer-input" placeholder="Nhập cách đọc (hiragana hoặc romaji)..."
       onkeydown="if (event.key === 'Enter') checkAnswer()" />
     <div id="progress-bar-container">
       <div id="progress-bar"></div>
@@ -170,8 +169,8 @@
   <footer>
     <p id="copyright"></p>
   </footer>
-  <script src="copyrights.js"></script>
-  <script src="script.js"></script>
+  <script src="assets/js/copyrights.js"></script>
+  <script src="assets/js/script.js"></script>
 </body>
 
 </html>
