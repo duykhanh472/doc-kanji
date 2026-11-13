@@ -23,6 +23,71 @@ let timeLimit = 0; // Time limit for time attack mode
 let timerId; // ID of the timer interval
 let countdownElement = document.getElementById("countdown-timer"); // Element to display countdown timer
 
+// Theme Variables
+const THEME_KEY = "theme"; // localStorage key used to remember the chosen theme
+const themeToggle = document.getElementById("theme-toggle"); // Button that switches between light and dark mode
+
+
+// Return the theme preferred by the operating system
+function getPreferredTheme() {
+    return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+}
+
+
+// Apply a theme to the document and keep the toggle button in sync
+function applyTheme(theme) {
+    document.documentElement.setAttribute("data-theme", theme);
+
+    if (!themeToggle) {
+        return;
+    }
+
+    const isDark = theme === "dark";
+    const label = isDark ? "Chuyển sang chế độ sáng" : "Chuyển sang chế độ tối";
+    themeToggle.setAttribute("aria-pressed", String(isDark));
+    themeToggle.setAttribute("aria-label", label);
+    themeToggle.setAttribute("title", label);
+}
+
+
+// Toggle between light and dark mode and remember the choice
+function toggleTheme() {
+    const nextTheme = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+
+    try {
+        localStorage.setItem(THEME_KEY, nextTheme);
+    } catch (error) {
+        // Storage can be unavailable (private mode); the theme still applies for this page view.
+    }
+
+    applyTheme(nextTheme);
+}
+
+
+// Sync the toggle button with the theme set by the inline script in <head>
+applyTheme(document.documentElement.getAttribute("data-theme") || getPreferredTheme());
+
+// Follow the system theme while the user has not picked one explicitly
+if (window.matchMedia) {
+    const colorSchemeQuery = window.matchMedia("(prefers-color-scheme: dark)");
+
+    if (colorSchemeQuery.addEventListener) {
+        colorSchemeQuery.addEventListener("change", (event) => {
+            let hasSavedTheme = false;
+
+            try {
+                hasSavedTheme = Boolean(localStorage.getItem(THEME_KEY));
+            } catch (error) {
+                hasSavedTheme = false;
+            }
+
+            if (!hasSavedTheme) {
+                applyTheme(event.matches ? "dark" : "light");
+            }
+        });
+    }
+}
+
 
 // Quiz Initialization
 window.onload = function () {
@@ -183,7 +248,7 @@ function loadQuestion() {
     // Get the container element for displaying the question
     const questionContainer = document.getElementById("question-container");
     // Set the HTML content of the question container with the current question's kanji
-    questionContainer.innerHTML = `<p style="font-size: 24px;">${quizData[selectedLevel][currentQuestion].kanji}</p>`;
+    questionContainer.innerHTML = `<p class="question-kanji">${quizData[selectedLevel][currentQuestion].kanji}</p>`;
     // Set focus on the answer input field for user interaction
     const answerInput = document.getElementById("answer-input");
     answerInput.focus();
@@ -230,7 +295,7 @@ function checkAnswer() {
             incorrectAttempts = 0;
             // Display feedback indicating correctness and the question's meaning in Vietnamese
             document.getElementById("feedback").innerHTML = `
-        <span style="color: #90EE90; font-weight: bold;">Chính xác!</span>
+        <span class="feedback-correct">Chính xác!</span>
         <br />
         Ý nghĩa: ${questionMeaning}`;
             document.getElementById("hint").innerHTML = ``; // Clear any hint displayed
@@ -253,8 +318,8 @@ function checkAnswer() {
 
                 // Display feedback indicating incorrectness, correct answers, and the question's meaning
                 document.getElementById("feedback").innerHTML = `
-            <span style="color: red; font-weight: bold;">Chưa chính xác!</span> Đáp án đúng: 
-            <span style="color: #90EE90; font-weight: bold;">${correctReadings.join(", ")}</span>
+            <span class="feedback-incorrect">Chưa chính xác!</span> Đáp án đúng: 
+            <span class="answer-reading">${correctReadings.join(", ")}</span>
             <br />
             Ý nghĩa: ${questionMeaning}`;
                 document.getElementById("hint").innerHTML = ` `; // Clear any hint displayed
@@ -268,7 +333,7 @@ function checkAnswer() {
                 updateProgressBar(); // Update the progress bar
             } else {
                 // Display feedback indicating incorrectness and the number of attempts
-                document.getElementById("feedback").innerHTML = `<span style="color: red;">Chưa chính xác!</span> Lần thử ${incorrectAttempts}/3`;
+                document.getElementById("feedback").innerHTML = `<span class="feedback-incorrect">Chưa chính xác!</span> Lần thử ${incorrectAttempts}/3`;
                 // Display a hint if enabled, showing the question's meaning
                 document.getElementById("hint").innerHTML = includeHints
                     ? `Gợi ý: ${questionMeaning}`
@@ -388,7 +453,7 @@ function endQuiz() {
       <div>
         <img src="assets/img/neko-pic.png" alt="nekologo" class="project-img" />
       </div>
-      <p style="font-weight: bold; font-size: 18px; margin-top: 15px;">Kết quả bài kiểm tra</p>
+      <p class="results-title">Kết quả bài kiểm tra</p>
       <table id="quiz-results">
         <tr>
           <td>Cấp độ</td>
@@ -468,10 +533,10 @@ function endQuiz() {
       </div>
       <!-- Help link -->
       <div class="help">
-        <a href="#" onclick="openModal()" style="color: #1877f2; cursor: pointer;">Hướng dẫn</a>
+        <a href="#" class="text-link" onclick="openModal(); return false;">Hướng dẫn</a>
       </div>
       <div class="score-history">
-        <a href="#" onclick="openModal2()" style="color: #1877f2; cursor: pointer;">Lịch sử điểm</a>
+        <a href="#" class="text-link" onclick="openModal2(); return false;">Lịch sử điểm</a>
       </div>
       <!-- Start Quiz button -->
       <div class="input-group">
@@ -499,31 +564,30 @@ function endQuiz() {
 
     // Display unanswered questions if any
     if (unansweredQuestions.length > 0) {
-        const unansweredList = unansweredQuestions.map((index, rowIndex) => {
+        const unansweredList = unansweredQuestions.map((index) => {
             const question = quizData[selectedLevel][index];
-            const rowColor = rowIndex % 2 === 0 ? "#f2f2f2" : "#ffffff";
 
             return `
-          <tr style="background-color: ${rowColor};">
-            <td style="font-weight: bold; font-size: 18px;">${question.kanji}</td>
+          <tr>
+            <td class="kanji-cell">${question.kanji}</td>
             <td>${question.readings.join(", ")}</td>
-            <td style="text-align: left; padding: 10px;">${question.meaning}</td>
+            <td class="meaning-cell">${question.meaning}</td>
           </tr>
       `;
         });
 
         // Append unanswered questions to the main menu
         document.getElementById("main-menu").innerHTML += `
-        <div id="unanswered-container" style="margin-top: 25px;">
+        <div id="unanswered-container">
           <div id="lb-unanswered-container">
-            <p style="font-weight: bold; font-size: 18px; margin-bottom: 10px;">Các câu chưa trả lời được:</p>
+            <p class="section-title">Các câu chưa trả lời được:</p>
           </div>
-          <table id="unanswered-table" style="width: 100%; border-collapse: collapse; margin: 0 auto; border-radius: 8px">
+          <table id="unanswered-table">
             <thead>
-              <tr style="background-color: #00BFFF; color: white;">
-                <th style="border: 1px solid #dddddd; padding: 8px; width: 25%;">Chữ Hán</th>
-                <th style="border: 1px solid #dddddd; padding: 8px; width: 30%;">Cách đọc</th>
-                <th style="border: 1px solid #dddddd; padding: 8px;">Ý nghĩa</th>
+              <tr>
+                <th style="width: 25%;">Chữ Hán</th>
+                <th style="width: 30%;">Cách đọc</th>
+                <th>Ý nghĩa</th>
               </tr>
             </thead>
             <tbody>${unansweredList.join("")}</tbody>
@@ -692,7 +756,7 @@ function LoadScoreHistory() {
             <div class="resetstorage">
                 <button class="button-19" id="reset-storage-button" onclick="resetStoredData()">Xóa lịch sử</button>
             </div>
-            <p style="text-align: center; margin-top: 20px;">Chưa có lịch sử điểm số nào.</p>`;
+            <p class="empty-state">Chưa có lịch sử điểm số nào.</p>`;
     } else {
         const closeButton = document.createElement("span");
         closeButton.classList.add("close");
@@ -715,63 +779,18 @@ function LoadScoreHistory() {
         modalContent.appendChild(resetButtonContainer);
         const table = document.createElement("table");
         table.classList.add("score-history-table");
-        table.style.width = "100%";
-        table.style.borderCollapse = "collapse";
-        table.style.margin = "20px auto";
-        table.style.borderRadius = "8px";
-        table.style.backgroundColor = "#ffffff";
-        table.style.color = "#000000";
 
+        // Header row (styled through CSS so it follows the active theme)
         const headerRow = table.insertRow();
-        const headerDate = headerRow.insertCell();
-        headerDate.textContent = "Ngày";
-        headerDate.style.border = "1px solid #dddddd";
-        headerDate.style.padding = "8px";
-        headerDate.style.backgroundColor = "#00BFFF";
-        headerDate.style.color = "#ffffff";
-        
-        const headerLevel = headerRow.insertCell();
-        headerLevel.textContent = "Cấp độ";
-        headerLevel.style.border = "1px solid #dddddd";
-        headerLevel.style.padding = "8px";
-        headerLevel.style.backgroundColor = "#00BFFF";
-        headerLevel.style.color = "#ffffff";
-        
-        const headerMode = headerRow.insertCell();
-        headerMode.textContent = "Chế độ";
-        headerMode.style.border = "1px solid #dddddd";
-        headerMode.style.padding = "8px";
-        headerMode.style.backgroundColor = "#00BFFF";
-        headerMode.style.color = "#ffffff";
-        
-        const headerScore = headerRow.insertCell();
-        headerScore.textContent = "Điểm";
-        headerScore.style.border = "1px solid #dddddd";
-        headerScore.style.padding = "8px";
-        headerScore.style.backgroundColor = "#00BFFF";
-        headerScore.style.color = "#ffffff";
+        ["Ngày", "Cấp độ", "Chế độ", "Điểm"].forEach((label) => {
+            headerRow.insertCell().textContent = label;
+        });
 
-        quizSessions.forEach(entry => {
+        quizSessions.forEach((entry) => {
             const row = table.insertRow();
-            const cellDate = row.insertCell();
-            cellDate.textContent = entry.date;
-            cellDate.style.border = "1px solid #dddddd";
-            cellDate.style.padding = "8px";
-            
-            const cellLevel = row.insertCell();
-            cellLevel.textContent = entry.level;
-            cellLevel.style.border = "1px solid #dddddd";
-            cellLevel.style.padding = "8px";
-            
-            const cellMode = row.insertCell();
-            cellMode.textContent = entry.mode;
-            cellMode.style.border = "1px solid #dddddd";
-            cellMode.style.padding = "8px";
-            
-            const cellScore = row.insertCell();
-            cellScore.textContent = entry.score;
-            cellScore.style.border = "1px solid #dddddd";
-            cellScore.style.padding = "8px";
+            [entry.date, entry.level, entry.mode, entry.score].forEach((value) => {
+                row.insertCell().textContent = value;
+            });
         });
 
         modalContent.appendChild(table);
@@ -789,5 +808,5 @@ function resetStoredData() {
     <div class="resetstorage">
       <button class="button-19" id="reset-storage-button" onclick="resetStoredData()">Xóa lịch sử</button>
     </div>
-    <p style="text-align: center; margin-top: 20px;">Chưa có lịch sử điểm số nào.</p>`;
+    <p class="empty-state">Chưa có lịch sử điểm số nào.</p>`;
 }

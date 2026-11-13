@@ -7,7 +7,6 @@
   <meta name="description"
     content="Chào mừng bạn đến với Neko Kanji Quiz - ứng dụng trắc nghiệm kiểm tra và rèn luyện kiến thức đọc chữ Hán (Kanji) tiếng Nhật từ N5 đến N1." />
   <meta name="keywords" content="Kanji, Tiếng Nhật, Trắc nghiệm, Cách đọc, JLPT, Học tiếng Nhật" />
-  <meta name="author" content="Osha" />
   <meta name="robots" content="index, follow" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="twitter:card" content="summary_large_image" />
@@ -18,15 +17,40 @@
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Trắc nghiệm Đọc Kanji - Neko Kanji" />
   <meta property="og:description" content="Thử thách vốn từ vựng và cách đọc chữ Hán của bạn!" />
-  <meta property="og:url" content="https://yorunohikari.github.io/projects/neko-kanji/" />
+  <meta property="og:url" content="https://duykhanh472.github.io/doc-kanji/" />
   <meta property="og:image" content="assets/img/neko-pic.png" />
   <title>Trắc nghiệm Đọc Kanji - Neko Kanji Quiz</title>
+  <script>
+    // Apply the saved theme (or the system preference) before first paint to
+    // avoid a flash of the wrong color scheme.
+    (function () {
+      try {
+        var savedTheme = localStorage.getItem("theme");
+        var prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+        document.documentElement.setAttribute("data-theme", savedTheme || (prefersDark ? "dark" : "light"));
+      } catch (error) {
+        document.documentElement.setAttribute("data-theme", "light");
+      }
+    })();
+  </script>
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="icon" type="image/x-icon" href="assets/img/neko-logo.ico">
-  <link rel="canonical" href="https://yorunohikari.github.io/projects/neko-kanji/" />
+  <link rel="canonical" href="https://duykhanh472.github.io/doc-kanji/" />
 </head>
 
 <body>
+  <button id="theme-toggle" class="theme-toggle" type="button" onclick="toggleTheme()"
+    aria-label="Chuyển chế độ sáng/tối" aria-pressed="false" title="Chuyển chế độ sáng/tối">
+    <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79Z" fill="none" stroke="currentColor"
+        stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    </svg>
+    <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"></circle>
+      <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"
+        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+    </svg>
+  </button>
   <div id="main-menu" class="main-menu">
     <h1>Chào mừng bạn đến với Trắc nghiệm Đọc Kanji</h1>
     <div>
@@ -89,10 +113,10 @@
       </div>
     </div>
     <div class="help">
-      <a href="#" onclick="openModal()" style="color: #1877f2; cursor: pointer;">Hướng dẫn</a>
+      <a href="#" class="text-link" onclick="openModal(); return false;">Hướng dẫn</a>
     </div>
     <div class="score-history">
-      <a href="#" onclick="openModal2()" style="color: #1877f2; cursor: pointer;">Lịch sử điểm</a>
+      <a href="#" class="text-link" onclick="openModal2(); return false;">Lịch sử điểm</a>
     </div>
     <div class="input-group">
       <button class="button-19" onclick="startQuiz()">Bắt đầu</button>
@@ -116,7 +140,7 @@
     <!-- Modal content -->
     <div class="modal-content">
       <span class="close" onclick="closeModal()">&times;</span>
-      <p>Chào mừng bạn đến với Neko Kanji Quiz - nơi bạn có thể thử thách và củng cố kiến thức về chữ Hán cùng các cách đọc của chúng. Bài kiểm tra mang lại trải nghiệm vừa vui vẻ vừa bổ ích giúp nâng cao trình độ tiếng Nhật.</p>
+      <p>Luyện tay to.</p>
       <h3>Cách chơi:</h3>
       <ul>
         <li>Lựa chọn giữa <strong>Chế độ thường</strong> hoặc <strong>Chế độ tính giờ</strong>.</li>
@@ -129,13 +153,6 @@
         <li>Nếu muốn kết thúc bài kiểm tra sớm, hãy nhập <strong>"end"</strong> vào ô trả lời.</li>
         <li>Chúc bạn học tập thật tốt và đạt điểm số cao!</li>
       </ul>
-      <p>
-        Mọi thắc mắc hoặc góp ý cho tác giả gốc, bạn có thể liên hệ:
-        <br>
-        Twitter: <a href="https://twitter.com/goshintai_" target="_blank">@goshintai_</a>
-        <br>
-        Discord: <a href="https://discordapp.com/users/424526699611291650" target="_blank">osha420</a>
-      </p>
       <div class="fsbtn">
         <button class="button-19" id="fullscreen-button" onclick="toggleFullscreen()">Toàn màn hình</button>
       </div>
@@ -154,7 +171,7 @@
 
   <div class="quiz-container" id="quiz-container" style="display: none">
     <h1 id="quiz-heading">Trắc nghiệm Đọc Kanji</h1>
-    <div id="countdown-timer" style="font-size: 14px; margin-bottom: 10px;"></div>
+    <div id="countdown-timer"></div>
     <div id="question-container">
       <!-- Câu hỏi sẽ được chèn động vào đây -->
     </div>
@@ -166,9 +183,6 @@
       <div id="progress-bar"></div>
     </div>
   </div>
-  <footer>
-    <p id="copyright"></p>
-  </footer>
   <script src="assets/js/copyrights.js"></script>
   <script src="assets/js/script.js"></script>
 </body>
